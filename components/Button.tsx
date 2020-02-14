@@ -1,4 +1,5 @@
-import { primary, lightFont } from "../guidelines/Colors";
+import { primary, lightFont, primaryHighlighted } from "../guidelines/Colors";
+import { navbarTitle } from "../guidelines/Typography";
 
 export interface IButtonProps {
   label: string;
@@ -20,6 +21,21 @@ const Button = ({ label, onPressed }: IButtonProps) => (
         align-items: center;
         justify-content: center;
         text-align: center;
+
+        font-family: Nunito;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 33px;
+        border-radius: 5px;
+      }
+      .button:hover {
+        background-color: ${primaryHighlighted};
+        cursor: pointer;
+      }
+      .button:active {
+        background-color: ${primaryHighlighted};
+        cursor: pointer;
       }
     `}</style>
   </>
