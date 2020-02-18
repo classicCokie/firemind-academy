@@ -16,7 +16,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../guidelines/Colors */ "./guidelines/Colors.ts");
 /* harmony import */ var _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../guidelines/Typography */ "./guidelines/Typography.ts");
 /* harmony import */ var _components_Button__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/Button */ "./components/Button.tsx");
-var _jsxFileName = "/Users/yannicduckwitz/Documents/Projects/firemind-academy/components/BlogPostCard.tsx";
+var _jsxFileName = "/Users/yannic/project/firemind-academy/components/BlogPostCard.tsx";
 
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
@@ -107,7 +107,7 @@ var BlogPostCard = function BlogPostCard(_ref) {
     id: "3999716694",
     dynamic: [_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontFamily, _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontWeight, _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontSize, _guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["darkFont"], _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["paragraph"].fontFamily, _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["paragraph"].fontWeight, _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["paragraph"].fontSize],
     __self: this
-  }, "h1.__jsx-style-dynamic-selector{font-family:".concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontFamily, ";font-weight:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontWeight, ";font-size:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontSize, ";color:").concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["darkFont"], ";}.card.__jsx-style-dynamic-selector{background-color:white;width:80%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;text-align:center;background:#ffffff;box-shadow:1px 1px 10px rgba(0,0,0,0.25);border-radius:5px;margin-bottom:20px;padding-left:20px;padding-right:20px;paddin-top:10px;padding-bottom:20px;}.card-title-container.__jsx-style-dynamic-selector{width:100%;text-align:left;}.card-description-container.__jsx-style-dynamic-selector{width:100%;text-align:left;}p.__jsx-style-dynamic-selector{font-family:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["paragraph"].fontFamily, ";font-weight:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["paragraph"].fontWeight, ";font-size:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["paragraph"].fontSize, ";}.card-row.__jsx-style-dynamic-selector{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:flex-end;-webkit-box-align:flex-end;-ms-flex-align:flex-end;align-items:flex-end;width:100%;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy95YW5uaWNkdWNrd2l0ei9Eb2N1bWVudHMvUHJvamVjdHMvZmlyZW1pbmQtYWNhZGVteS9jb21wb25lbnRzL0Jsb2dQb3N0Q2FyZC50c3giXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBbUNnQixBQUdrRCxBQU1sQixBQWdCWixBQUlBLEFBSThCLEFBSzVCLFdBWkcsQUFJQSxZQXBCTixJQWlCWixBQUlBLE1BcEJlLFFBUDRCLEFBOEJBLGlDQUtwQixRQWxDa0IsQUE4QkEseUJBdkJqQixjQU5hLEFBOEJyQyxtQ0E3QkEsbUJBaUNhLFVBM0JRLENBNEJXLDRGQTNCWixrQkFDQyxLQTJCckIsY0ExQjhDLHlDQUMxQixrQkFDQyxtQkFDRCxrQkFDQyxtQkFDSCxnQkFDSSxvQkFDdEIiLCJmaWxlIjoiL1VzZXJzL3lhbm5pY2R1Y2t3aXR6L0RvY3VtZW50cy9Qcm9qZWN0cy9maXJlbWluZC1hY2FkZW15L2NvbXBvbmVudHMvQmxvZ1Bvc3RDYXJkLnRzeCIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IGRhcmtGb250IH0gZnJvbSBcIi4uL2d1aWRlbGluZXMvQ29sb3JzXCI7XG5pbXBvcnQgeyBuYXZiYXJUaXRsZSwgcGFyYWdyYXBoIH0gZnJvbSBcIi4uL2d1aWRlbGluZXMvVHlwb2dyYXBoeVwiO1xuaW1wb3J0IEJ1dHRvbiBmcm9tIFwiLi4vY29tcG9uZW50cy9CdXR0b25cIjtcblxuZXhwb3J0IGludGVyZmFjZSBJQmxvZ1Bvc3RDYXJkUHJvcHMge1xuICB0aXRsZTogc3RyaW5nO1xuICBkZXNjcmlwdGlvbjogc3RyaW5nO1xuICBkYXRlOiBzdHJpbmc7XG4gIG9uUHJlc3NlZDogKCkgPT4gdm9pZDtcbn1cblxuY29uc3QgQmxvZ1Bvc3RDYXJkID0gKHtcbiAgdGl0bGUsXG4gIGRlc2NyaXB0aW9uLFxuICBkYXRlLFxuICBvblByZXNzZWRcbn06IElCbG9nUG9zdENhcmRQcm9wcykgPT4gKFxuICA8PlxuICAgIDxkaXYgY2xhc3NOYW1lPVwiY2FyZFwiIG9uQ2xpY2s9e29uUHJlc3NlZH0+XG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cImNhcmQtdGl0bGUtY29udGFpbmVyXCI+XG4gICAgICAgIDxoMT57dGl0bGV9PC9oMT5cbiAgICAgIDwvZGl2PlxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJjYXJkLWRlc2NyaXB0aW9uLWNvbnRhaW5lclwiPlxuICAgICAgICA8cD57ZGVzY3JpcHRpb259PC9wPlxuICAgICAgPC9kaXY+XG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cImNhcmQtcm93XCI+XG4gICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY2FyZC1kYXRlLWNvbnRhaW5lclwiPlxuICAgICAgICAgIDxwPiB7ZGF0ZX08L3A+XG4gICAgICAgIDwvZGl2PlxuICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNhcmQtYnV0dG9uLWNvbnRhaW5lclwiPlxuICAgICAgICAgIDxCdXR0b24gbGFiZWw9XCJSZWFkXCIgb25QcmVzc2VkPXsoKSA9PiBjb25zb2xlLmxvZyhcInRoaWNrISEhXCIpfSAvPlxuICAgICAgICA8L2Rpdj5cbiAgICAgIDwvZGl2PlxuICAgIDwvZGl2PlxuXG4gICAgPHN0eWxlIGpzeD57YFxuICAgICAgaDEge1xuICAgICAgICBmb250LWZhbWlseTogJHtuYXZiYXJUaXRsZS5mb250RmFtaWx5fTtcbiAgICAgICAgZm9udC13ZWlnaHQ6ICR7bmF2YmFyVGl0bGUuZm9udFdlaWdodH07XG4gICAgICAgIGZvbnQtc2l6ZTogJHtuYXZiYXJUaXRsZS5mb250U2l6ZX07XG4gICAgICAgIGNvbG9yOiAke2RhcmtGb250fTtcbiAgICAgIH1cbiAgICAgIC5jYXJkIHtcbiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogd2hpdGU7XG4gICAgICAgIHdpZHRoOiA4MCU7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgYmFja2dyb3VuZDogI2ZmZmZmZjtcbiAgICAgICAgYm94LXNoYWRvdzogMXB4IDFweCAxMHB4IHJnYmEoMCwgMCwgMCwgMC4yNSk7XG4gICAgICAgIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgICAgICAgbWFyZ2luLWJvdHRvbTogMjBweDtcbiAgICAgICAgcGFkZGluZy1sZWZ0OiAyMHB4O1xuICAgICAgICBwYWRkaW5nLXJpZ2h0OiAyMHB4O1xuICAgICAgICBwYWRkaW4tdG9wOiAxMHB4O1xuICAgICAgICBwYWRkaW5nLWJvdHRvbTogMjBweDtcbiAgICAgIH1cbiAgICAgIC5jYXJkLXRpdGxlLWNvbnRhaW5lciB7XG4gICAgICAgIHdpZHRoOiAxMDAlO1xuICAgICAgICB0ZXh0LWFsaWduOiBsZWZ0O1xuICAgICAgfVxuICAgICAgLmNhcmQtZGVzY3JpcHRpb24tY29udGFpbmVyIHtcbiAgICAgICAgd2lkdGg6IDEwMCU7XG4gICAgICAgIHRleHQtYWxpZ246IGxlZnQ7XG4gICAgICB9XG4gICAgICBwIHtcbiAgICAgICAgZm9udC1mYW1pbHk6ICR7cGFyYWdyYXBoLmZvbnRGYW1pbHl9O1xuICAgICAgICBmb250LXdlaWdodDogJHtwYXJhZ3JhcGguZm9udFdlaWdodH07XG4gICAgICAgIGZvbnQtc2l6ZTogJHtwYXJhZ3JhcGguZm9udFNpemV9O1xuICAgICAgfVxuICAgICAgLmNhcmQtcm93IHtcbiAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAgYWxpZ24taXRlbXM6IGZsZXgtZW5kO1xuICAgICAgICB3aWR0aDogMTAwJTtcbiAgICAgICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1iZXR3ZWVuO1xuICAgICAgfVxuICAgIGB9PC9zdHlsZT5cbiAgPC8+XG4pO1xuXG5leHBvcnQgZGVmYXVsdCBCbG9nUG9zdENhcmQ7XG4iXX0= */\n/*@ sourceURL=/Users/yannicduckwitz/Documents/Projects/firemind-academy/components/BlogPostCard.tsx */")));
+  }, "h1.__jsx-style-dynamic-selector{font-family:".concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontFamily, ";font-weight:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontWeight, ";font-size:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontSize, ";color:").concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["darkFont"], ";}.card.__jsx-style-dynamic-selector{background-color:white;width:80%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;text-align:center;background:#ffffff;box-shadow:1px 1px 10px rgba(0,0,0,0.25);border-radius:5px;margin-bottom:20px;padding-left:20px;padding-right:20px;paddin-top:10px;padding-bottom:20px;}.card-title-container.__jsx-style-dynamic-selector{width:100%;text-align:left;}.card-description-container.__jsx-style-dynamic-selector{width:100%;text-align:left;}p.__jsx-style-dynamic-selector{font-family:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["paragraph"].fontFamily, ";font-weight:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["paragraph"].fontWeight, ";font-size:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["paragraph"].fontSize, ";}.card-row.__jsx-style-dynamic-selector{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:flex-end;-webkit-box-align:flex-end;-ms-flex-align:flex-end;align-items:flex-end;width:100%;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy95YW5uaWMvcHJvamVjdC9maXJlbWluZC1hY2FkZW15L2NvbXBvbmVudHMvQmxvZ1Bvc3RDYXJkLnRzeCJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFtQ2dCLEFBR2tELEFBTWxCLEFBZ0JaLEFBSUEsQUFJOEIsQUFLNUIsV0FaRyxBQUlBLFlBcEJOLElBaUJaLEFBSUEsTUFwQmUsUUFQNEIsQUE4QkEsaUNBS3BCLFFBbENrQixBQThCQSx5QkF2QmpCLGNBTmEsQUE4QnJDLG1DQTdCQSxtQkFpQ2EsVUEzQlEsQ0E0QlcsNEZBM0JaLGtCQUNDLEtBMkJyQixjQTFCOEMseUNBQzFCLGtCQUNDLG1CQUNELGtCQUNDLG1CQUNILGdCQUNJLG9CQUN0QiIsImZpbGUiOiIvVXNlcnMveWFubmljL3Byb2plY3QvZmlyZW1pbmQtYWNhZGVteS9jb21wb25lbnRzL0Jsb2dQb3N0Q2FyZC50c3giLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBkYXJrRm9udCB9IGZyb20gXCIuLi9ndWlkZWxpbmVzL0NvbG9yc1wiO1xuaW1wb3J0IHsgbmF2YmFyVGl0bGUsIHBhcmFncmFwaCB9IGZyb20gXCIuLi9ndWlkZWxpbmVzL1R5cG9ncmFwaHlcIjtcbmltcG9ydCBCdXR0b24gZnJvbSBcIi4uL2NvbXBvbmVudHMvQnV0dG9uXCI7XG5cbmV4cG9ydCBpbnRlcmZhY2UgSUJsb2dQb3N0Q2FyZFByb3BzIHtcbiAgdGl0bGU6IHN0cmluZztcbiAgZGVzY3JpcHRpb246IHN0cmluZztcbiAgZGF0ZTogc3RyaW5nO1xuICBvblByZXNzZWQ6ICgpID0+IHZvaWQ7XG59XG5cbmNvbnN0IEJsb2dQb3N0Q2FyZCA9ICh7XG4gIHRpdGxlLFxuICBkZXNjcmlwdGlvbixcbiAgZGF0ZSxcbiAgb25QcmVzc2VkXG59OiBJQmxvZ1Bvc3RDYXJkUHJvcHMpID0+IChcbiAgPD5cbiAgICA8ZGl2IGNsYXNzTmFtZT1cImNhcmRcIiBvbkNsaWNrPXtvblByZXNzZWR9PlxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJjYXJkLXRpdGxlLWNvbnRhaW5lclwiPlxuICAgICAgICA8aDE+e3RpdGxlfTwvaDE+XG4gICAgICA8L2Rpdj5cbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY2FyZC1kZXNjcmlwdGlvbi1jb250YWluZXJcIj5cbiAgICAgICAgPHA+e2Rlc2NyaXB0aW9ufTwvcD5cbiAgICAgIDwvZGl2PlxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJjYXJkLXJvd1wiPlxuICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNhcmQtZGF0ZS1jb250YWluZXJcIj5cbiAgICAgICAgICA8cD4ge2RhdGV9PC9wPlxuICAgICAgICA8L2Rpdj5cbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjYXJkLWJ1dHRvbi1jb250YWluZXJcIj5cbiAgICAgICAgICA8QnV0dG9uIGxhYmVsPVwiUmVhZFwiIG9uUHJlc3NlZD17KCkgPT4gY29uc29sZS5sb2coXCJ0aGljayEhIVwiKX0gLz5cbiAgICAgICAgPC9kaXY+XG4gICAgICA8L2Rpdj5cbiAgICA8L2Rpdj5cblxuICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgIGgxIHtcbiAgICAgICAgZm9udC1mYW1pbHk6ICR7bmF2YmFyVGl0bGUuZm9udEZhbWlseX07XG4gICAgICAgIGZvbnQtd2VpZ2h0OiAke25hdmJhclRpdGxlLmZvbnRXZWlnaHR9O1xuICAgICAgICBmb250LXNpemU6ICR7bmF2YmFyVGl0bGUuZm9udFNpemV9O1xuICAgICAgICBjb2xvcjogJHtkYXJrRm9udH07XG4gICAgICB9XG4gICAgICAuY2FyZCB7XG4gICAgICAgIGJhY2tncm91bmQtY29sb3I6IHdoaXRlO1xuICAgICAgICB3aWR0aDogODAlO1xuICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uO1xuICAgICAgICBhbGlnbi1pdGVtczogY2VudGVyO1xuICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICAgIGJhY2tncm91bmQ6ICNmZmZmZmY7XG4gICAgICAgIGJveC1zaGFkb3c6IDFweCAxcHggMTBweCByZ2JhKDAsIDAsIDAsIDAuMjUpO1xuICAgICAgICBib3JkZXItcmFkaXVzOiA1cHg7XG4gICAgICAgIG1hcmdpbi1ib3R0b206IDIwcHg7XG4gICAgICAgIHBhZGRpbmctbGVmdDogMjBweDtcbiAgICAgICAgcGFkZGluZy1yaWdodDogMjBweDtcbiAgICAgICAgcGFkZGluLXRvcDogMTBweDtcbiAgICAgICAgcGFkZGluZy1ib3R0b206IDIwcHg7XG4gICAgICB9XG4gICAgICAuY2FyZC10aXRsZS1jb250YWluZXIge1xuICAgICAgICB3aWR0aDogMTAwJTtcbiAgICAgICAgdGV4dC1hbGlnbjogbGVmdDtcbiAgICAgIH1cbiAgICAgIC5jYXJkLWRlc2NyaXB0aW9uLWNvbnRhaW5lciB7XG4gICAgICAgIHdpZHRoOiAxMDAlO1xuICAgICAgICB0ZXh0LWFsaWduOiBsZWZ0O1xuICAgICAgfVxuICAgICAgcCB7XG4gICAgICAgIGZvbnQtZmFtaWx5OiAke3BhcmFncmFwaC5mb250RmFtaWx5fTtcbiAgICAgICAgZm9udC13ZWlnaHQ6ICR7cGFyYWdyYXBoLmZvbnRXZWlnaHR9O1xuICAgICAgICBmb250LXNpemU6ICR7cGFyYWdyYXBoLmZvbnRTaXplfTtcbiAgICAgIH1cbiAgICAgIC5jYXJkLXJvdyB7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBmbGV4LWVuZDtcbiAgICAgICAgd2lkdGg6IDEwMCU7XG4gICAgICAgIGp1c3RpZnktY29udGVudDogc3BhY2UtYmV0d2VlbjtcbiAgICAgIH1cbiAgICBgfTwvc3R5bGU+XG4gIDwvPlxuKTtcblxuZXhwb3J0IGRlZmF1bHQgQmxvZ1Bvc3RDYXJkO1xuIl19 */\n/*@ sourceURL=/Users/yannic/project/firemind-academy/components/BlogPostCard.tsx */")));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (BlogPostCard);
@@ -128,7 +128,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../guidelines/Colors */ "./guidelines/Colors.ts");
-var _jsxFileName = "/Users/yannicduckwitz/Documents/Projects/firemind-academy/components/Button.tsx";
+var _jsxFileName = "/Users/yannic/project/firemind-academy/components/Button.tsx";
 
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
@@ -149,7 +149,7 @@ var Button = function Button(_ref) {
     id: "2632553378",
     dynamic: [_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["primary"], _guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["lightFont"], _guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["primaryHighlighted"], _guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["primaryHighlighted"]],
     __self: this
-  }, ".button.__jsx-style-dynamic-selector{background-color:".concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["primary"], ";color:").concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["lightFont"], ";width:141px;height:38px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;text-align:center;font-family:Nunito;font-style:normal;font-weight:bold;font-size:18px;line-height:33px;border-radius:5px;}.button.__jsx-style-dynamic-selector:hover{background-color:").concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["primaryHighlighted"], ";cursor:pointer;}.button.__jsx-style-dynamic-selector:active{background-color:").concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["primaryHighlighted"], ";cursor:pointer;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy95YW5uaWNkdWNrd2l0ei9Eb2N1bWVudHMvUHJvamVjdHMvZmlyZW1pbmQtYWNhZGVteS9jb21wb25lbnRzL0J1dHRvbi50c3giXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBYWdCLEFBR3VELEFBaUJBLEFBSUEsOENBcEJYLEFBaUJwQixBQUlBLGVBSGpCLEFBSUEsb0JBckJjLFlBQ0EsWUFDQywwRUFDTSw2RkFDSSxtR0FDTCxrQkFFQyxtQkFDRCxrQkFDRCxpQkFDRixlQUNFLGlCQUNDLGtCQUNwQiIsImZpbGUiOiIvVXNlcnMveWFubmljZHVja3dpdHovRG9jdW1lbnRzL1Byb2plY3RzL2ZpcmVtaW5kLWFjYWRlbXkvY29tcG9uZW50cy9CdXR0b24udHN4Iiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgcHJpbWFyeSwgbGlnaHRGb250LCBwcmltYXJ5SGlnaGxpZ2h0ZWQgfSBmcm9tIFwiLi4vZ3VpZGVsaW5lcy9Db2xvcnNcIjtcbmltcG9ydCB7IG5hdmJhclRpdGxlIH0gZnJvbSBcIi4uL2d1aWRlbGluZXMvVHlwb2dyYXBoeVwiO1xuXG5leHBvcnQgaW50ZXJmYWNlIElCdXR0b25Qcm9wcyB7XG4gIGxhYmVsOiBzdHJpbmc7XG4gIG9uUHJlc3NlZDogKCkgPT4gdm9pZDtcbn1cblxuY29uc3QgQnV0dG9uID0gKHsgbGFiZWwsIG9uUHJlc3NlZCB9OiBJQnV0dG9uUHJvcHMpID0+IChcbiAgPD5cbiAgICA8ZGl2IGNsYXNzTmFtZT1cImJ1dHRvblwiIG9uQ2xpY2s9e29uUHJlc3NlZH0+XG4gICAgICB7bGFiZWx9XG4gICAgPC9kaXY+XG4gICAgPHN0eWxlIGpzeD57YFxuICAgICAgLmJ1dHRvbiB7XG4gICAgICAgIGJhY2tncm91bmQtY29sb3I6ICR7cHJpbWFyeX07XG4gICAgICAgIGNvbG9yOiAke2xpZ2h0Rm9udH07XG4gICAgICAgIHdpZHRoOiAxNDFweDtcbiAgICAgICAgaGVpZ2h0OiAzOHB4O1xuICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICBhbGlnbi1pdGVtczogY2VudGVyO1xuICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuXG4gICAgICAgIGZvbnQtZmFtaWx5OiBOdW5pdG87XG4gICAgICAgIGZvbnQtc3R5bGU6IG5vcm1hbDtcbiAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7XG4gICAgICAgIGZvbnQtc2l6ZTogMThweDtcbiAgICAgICAgbGluZS1oZWlnaHQ6IDMzcHg7XG4gICAgICAgIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgICAgIH1cbiAgICAgIC5idXR0b246aG92ZXIge1xuICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAke3ByaW1hcnlIaWdobGlnaHRlZH07XG4gICAgICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICAgIH1cbiAgICAgIC5idXR0b246YWN0aXZlIHtcbiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogJHtwcmltYXJ5SGlnaGxpZ2h0ZWR9O1xuICAgICAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgICB9XG4gICAgYH08L3N0eWxlPlxuICA8Lz5cbik7XG5cbmV4cG9ydCBkZWZhdWx0IEJ1dHRvbjtcbiJdfQ== */\n/*@ sourceURL=/Users/yannicduckwitz/Documents/Projects/firemind-academy/components/Button.tsx */")));
+  }, ".button.__jsx-style-dynamic-selector{background-color:".concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["primary"], ";color:").concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["lightFont"], ";width:141px;height:38px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;text-align:center;font-family:Nunito;font-style:normal;font-weight:bold;font-size:18px;line-height:33px;border-radius:5px;}.button.__jsx-style-dynamic-selector:hover{background-color:").concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["primaryHighlighted"], ";cursor:pointer;}.button.__jsx-style-dynamic-selector:active{background-color:").concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["primaryHighlighted"], ";cursor:pointer;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy95YW5uaWMvcHJvamVjdC9maXJlbWluZC1hY2FkZW15L2NvbXBvbmVudHMvQnV0dG9uLnRzeCJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFhZ0IsQUFHdUQsQUFpQkEsQUFJQSw4Q0FwQlgsQUFpQnBCLEFBSUEsZUFIakIsQUFJQSxvQkFyQmMsWUFDQSxZQUNDLDBFQUNNLDZGQUNJLG1HQUNMLGtCQUVDLG1CQUNELGtCQUNELGlCQUNGLGVBQ0UsaUJBQ0Msa0JBQ3BCIiwiZmlsZSI6Ii9Vc2Vycy95YW5uaWMvcHJvamVjdC9maXJlbWluZC1hY2FkZW15L2NvbXBvbmVudHMvQnV0dG9uLnRzeCIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IHByaW1hcnksIGxpZ2h0Rm9udCwgcHJpbWFyeUhpZ2hsaWdodGVkIH0gZnJvbSBcIi4uL2d1aWRlbGluZXMvQ29sb3JzXCI7XG5pbXBvcnQgeyBuYXZiYXJUaXRsZSB9IGZyb20gXCIuLi9ndWlkZWxpbmVzL1R5cG9ncmFwaHlcIjtcblxuZXhwb3J0IGludGVyZmFjZSBJQnV0dG9uUHJvcHMge1xuICBsYWJlbDogc3RyaW5nO1xuICBvblByZXNzZWQ6ICgpID0+IHZvaWQ7XG59XG5cbmNvbnN0IEJ1dHRvbiA9ICh7IGxhYmVsLCBvblByZXNzZWQgfTogSUJ1dHRvblByb3BzKSA9PiAoXG4gIDw+XG4gICAgPGRpdiBjbGFzc05hbWU9XCJidXR0b25cIiBvbkNsaWNrPXtvblByZXNzZWR9PlxuICAgICAge2xhYmVsfVxuICAgIDwvZGl2PlxuICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgIC5idXR0b24ge1xuICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAke3ByaW1hcnl9O1xuICAgICAgICBjb2xvcjogJHtsaWdodEZvbnR9O1xuICAgICAgICB3aWR0aDogMTQxcHg7XG4gICAgICAgIGhlaWdodDogMzhweDtcbiAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcblxuICAgICAgICBmb250LWZhbWlseTogTnVuaXRvO1xuICAgICAgICBmb250LXN0eWxlOiBub3JtYWw7XG4gICAgICAgIGZvbnQtd2VpZ2h0OiBib2xkO1xuICAgICAgICBmb250LXNpemU6IDE4cHg7XG4gICAgICAgIGxpbmUtaGVpZ2h0OiAzM3B4O1xuICAgICAgICBib3JkZXItcmFkaXVzOiA1cHg7XG4gICAgICB9XG4gICAgICAuYnV0dG9uOmhvdmVyIHtcbiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogJHtwcmltYXJ5SGlnaGxpZ2h0ZWR9O1xuICAgICAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgICB9XG4gICAgICAuYnV0dG9uOmFjdGl2ZSB7XG4gICAgICAgIGJhY2tncm91bmQtY29sb3I6ICR7cHJpbWFyeUhpZ2hsaWdodGVkfTtcbiAgICAgICAgY3Vyc29yOiBwb2ludGVyO1xuICAgICAgfVxuICAgIGB9PC9zdHlsZT5cbiAgPC8+XG4pO1xuXG5leHBvcnQgZGVmYXVsdCBCdXR0b247XG4iXX0= */\n/*@ sourceURL=/Users/yannic/project/firemind-academy/components/Button.tsx */")));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Button);
@@ -171,7 +171,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../guidelines/Colors */ "./guidelines/Colors.ts");
 /* harmony import */ var _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../guidelines/Typography */ "./guidelines/Typography.ts");
-var _jsxFileName = "/Users/yannicduckwitz/Documents/Projects/firemind-academy/components/Navigation.tsx";
+var _jsxFileName = "/Users/yannic/project/firemind-academy/components/Navigation.tsx";
 
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
@@ -204,7 +204,7 @@ var Navigation = function Navigation() {
     id: "699536666",
     dynamic: [_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["secondary"], _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontFamily, _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontWeight, _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontSize, _guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["lightFont"]],
     __self: this
-  }, ".navbar.__jsx-style-dynamic-selector{width:100%;background-color:".concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["secondary"], ";height:80px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}span.__jsx-style-dynamic-selector{font-family:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontFamily, ";font-weight:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontWeight, ";font-size:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontSize, ";color:").concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["lightFont"], ";}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy95YW5uaWNkdWNrd2l0ei9Eb2N1bWVudHMvUHJvamVjdHMvZmlyZW1pbmQtYWNhZGVteS9jb21wb25lbnRzL05hdmlnYXRpb24udHN4Il0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQVVnQixBQUdvQixBQVU4QixXQVRLLDhCQVVMLGdCQVQ3QixZQUNDLGFBUzBCLHVDQUNKLHNCQVRoQixhQVVyQixnRkFUeUIsbUdBQ3pCIiwiZmlsZSI6Ii9Vc2Vycy95YW5uaWNkdWNrd2l0ei9Eb2N1bWVudHMvUHJvamVjdHMvZmlyZW1pbmQtYWNhZGVteS9jb21wb25lbnRzL05hdmlnYXRpb24udHN4Iiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgbGlnaHRGb250LCBzZWNvbmRhcnkgfSBmcm9tIFwiLi4vZ3VpZGVsaW5lcy9Db2xvcnNcIjtcbmltcG9ydCB7IG5hdmJhclRpdGxlIH0gZnJvbSBcIi4uL2d1aWRlbGluZXMvVHlwb2dyYXBoeVwiO1xuXG5jb25zdCBOYXZpZ2F0aW9uID0gKCkgPT4gKFxuICA8PlxuICAgIDxkaXYgY2xhc3NOYW1lPVwibmF2YmFyXCI+XG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cIm5hdmJhci10aXRsZS1jb250YWluZXJcIj5cbiAgICAgICAgPHNwYW4+RmlyZW1pbmQgQWNhZGVteTwvc3Bhbj5cbiAgICAgIDwvZGl2PlxuICAgIDwvZGl2PlxuICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgIC5uYXZiYXIge1xuICAgICAgICB3aWR0aDogMTAwJTtcbiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogJHtzZWNvbmRhcnl9O1xuICAgICAgICBoZWlnaHQ6IDgwcHg7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgICAgfVxuICAgICAgLm5hdmJhci10aXRsZS1jb250YWluZXIge1xuICAgICAgfVxuICAgICAgc3BhbiB7XG4gICAgICAgIGZvbnQtZmFtaWx5OiAke25hdmJhclRpdGxlLmZvbnRGYW1pbHl9O1xuICAgICAgICBmb250LXdlaWdodDogJHtuYXZiYXJUaXRsZS5mb250V2VpZ2h0fTtcbiAgICAgICAgZm9udC1zaXplOiAke25hdmJhclRpdGxlLmZvbnRTaXplfTtcbiAgICAgICAgY29sb3I6ICR7bGlnaHRGb250fTtcbiAgICAgIH1cbiAgICBgfTwvc3R5bGU+XG4gIDwvPlxuKTtcblxuZXhwb3J0IGRlZmF1bHQgTmF2aWdhdGlvbjtcbiJdfQ== */\n/*@ sourceURL=/Users/yannicduckwitz/Documents/Projects/firemind-academy/components/Navigation.tsx */")));
+  }, ".navbar.__jsx-style-dynamic-selector{width:100%;background-color:".concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["secondary"], ";height:80px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}span.__jsx-style-dynamic-selector{font-family:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontFamily, ";font-weight:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontWeight, ";font-size:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontSize, ";color:").concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["lightFont"], ";}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy95YW5uaWMvcHJvamVjdC9maXJlbWluZC1hY2FkZW15L2NvbXBvbmVudHMvTmF2aWdhdGlvbi50c3giXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBVWdCLEFBR29CLEFBVThCLFdBVEssOEJBVUwsZ0JBVDdCLFlBQ0MsYUFTMEIsdUNBQ0osc0JBVGhCLGFBVXJCLGdGQVR5QixtR0FDekIiLCJmaWxlIjoiL1VzZXJzL3lhbm5pYy9wcm9qZWN0L2ZpcmVtaW5kLWFjYWRlbXkvY29tcG9uZW50cy9OYXZpZ2F0aW9uLnRzeCIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IGxpZ2h0Rm9udCwgc2Vjb25kYXJ5IH0gZnJvbSBcIi4uL2d1aWRlbGluZXMvQ29sb3JzXCI7XG5pbXBvcnQgeyBuYXZiYXJUaXRsZSB9IGZyb20gXCIuLi9ndWlkZWxpbmVzL1R5cG9ncmFwaHlcIjtcblxuY29uc3QgTmF2aWdhdGlvbiA9ICgpID0+IChcbiAgPD5cbiAgICA8ZGl2IGNsYXNzTmFtZT1cIm5hdmJhclwiPlxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJuYXZiYXItdGl0bGUtY29udGFpbmVyXCI+XG4gICAgICAgIDxzcGFuPkZpcmVtaW5kIEFjYWRlbXk8L3NwYW4+XG4gICAgICA8L2Rpdj5cbiAgICA8L2Rpdj5cbiAgICA8c3R5bGUganN4PntgXG4gICAgICAubmF2YmFyIHtcbiAgICAgICAgd2lkdGg6IDEwMCU7XG4gICAgICAgIGJhY2tncm91bmQtY29sb3I6ICR7c2Vjb25kYXJ5fTtcbiAgICAgICAgaGVpZ2h0OiA4MHB4O1xuICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICBhbGlnbi1pdGVtczogY2VudGVyO1xuICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgICAgIH1cbiAgICAgIC5uYXZiYXItdGl0bGUtY29udGFpbmVyIHtcbiAgICAgIH1cbiAgICAgIHNwYW4ge1xuICAgICAgICBmb250LWZhbWlseTogJHtuYXZiYXJUaXRsZS5mb250RmFtaWx5fTtcbiAgICAgICAgZm9udC13ZWlnaHQ6ICR7bmF2YmFyVGl0bGUuZm9udFdlaWdodH07XG4gICAgICAgIGZvbnQtc2l6ZTogJHtuYXZiYXJUaXRsZS5mb250U2l6ZX07XG4gICAgICAgIGNvbG9yOiAke2xpZ2h0Rm9udH07XG4gICAgICB9XG4gICAgYH08L3N0eWxlPlxuICA8Lz5cbik7XG5cbmV4cG9ydCBkZWZhdWx0IE5hdmlnYXRpb247XG4iXX0= */\n/*@ sourceURL=/Users/yannic/project/firemind-academy/components/Navigation.tsx */")));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Navigation);
@@ -226,28 +226,18 @@ var blogPosts = [{
   title: "Simple Healthbar",
   previewDescription: "A Simple Healthbar tutorial. Here you will learn how to use a healthbar in ",
   link: "hahahahah",
-  date: "12.10.1993"
-}, {
-  id: "2",
-  urlTitle: "kill-enemies",
-  title: "Kill Enimes",
-  previewDescription: "A Simple Healthbar tutorial. Here you will learn how to use a healthbar in ",
-  link: "hahahahah",
-  date: "02.10.2012"
-}, {
-  id: "3",
-  urlTitle: "young-blood",
-  title: "Young blood",
-  previewDescription: "A Simple Healthbar tutorial. Here you will learn how to use a healthbar in ",
-  link: "hahahahah",
-  date: "12.10.1883"
-}, {
-  id: "4",
-  urlTitle: "lala-lala",
-  title: "lalala",
-  previewDescription: "A Simple Healthbar tutorial. Here you will learn how to use a healthbar in ",
-  link: "hahahahah",
-  date: "12.10.1883"
+  date: "12.10.1993",
+  elements: [{
+    type: "title",
+    data: {
+      title: "Simple Healthbar"
+    }
+  }, {
+    type: "title",
+    data: {
+      title: "Your mom"
+    }
+  }]
 }];
 /* harmony default export */ __webpack_exports__["default"] = (blogPosts);
 
@@ -4268,19 +4258,19 @@ for (var i = 0; i < DOMIterables.length; i++) {
 
 /***/ "./node_modules/next/dist/build/polyfills/object-assign.js":
 /*!***********************************************************************************************************************!*\
-  !*** delegated ./node_modules/next/dist/build/polyfills/object-assign.js from dll-reference dll_5f137288facb1107b491 ***!
+  !*** delegated ./node_modules/next/dist/build/polyfills/object-assign.js from dll-reference dll_ef0ff7c60362f24a921f ***!
   \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_5f137288facb1107b491 */ "dll-reference dll_5f137288facb1107b491"))("./node_modules/next/dist/build/polyfills/object-assign.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_ef0ff7c60362f24a921f */ "dll-reference dll_ef0ff7c60362f24a921f"))("./node_modules/next/dist/build/polyfills/object-assign.js");
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fyannicduckwitz%2FDocuments%2FProjects%2Ffiremind-academy%2Fpages%2Findex.tsx!./":
-/*!****************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fyannicduckwitz%2FDocuments%2FProjects%2Ffiremind-academy%2Fpages%2Findex.tsx ***!
-  \****************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fyannic%2Fproject%2Ffiremind-academy%2Fpages%2Findex.tsx!./":
+/*!*******************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fyannic%2Fproject%2Ffiremind-academy%2Fpages%2Findex.tsx ***!
+  \*******************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -4354,7 +4344,7 @@ var singletonRouter = {
   }
 }; // Create public properties and methods of the router in the singletonRouter
 
-var urlPropertyFields = ['pathname', 'route', 'query', 'asPath', 'components'];
+var urlPropertyFields = ['pathname', 'route', 'query', 'asPath', 'components', 'isFallback'];
 var routerEvents = ['routeChangeStart', 'beforeHistoryChange', 'routeChangeComplete', 'routeChangeError', 'hashChangeStart', 'hashChangeComplete'];
 var coreMethodFields = ['push', 'replace', 'reload', 'back', 'prefetch', 'beforePopState']; // Events is a static property on the router, the router doesn't have to be initialized to use it
 
@@ -4626,6 +4616,51 @@ exports.RouterContext = React.createContext(null);
 
 /***/ }),
 
+/***/ "./node_modules/next/dist/next-server/lib/router/rewrite-url-for-export.js":
+/*!*********************************************************************************!*\
+  !*** ./node_modules/next/dist/next-server/lib/router/rewrite-url-for-export.js ***!
+  \*********************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var _slicedToArray = __webpack_require__(/*! @babel/runtime-corejs2/helpers/slicedToArray */ "./node_modules/@babel/runtime-corejs2/helpers/slicedToArray.js");
+
+var _Object$defineProperty = __webpack_require__(/*! @babel/runtime-corejs2/core-js/object/define-property */ "./node_modules/@babel/runtime-corejs2/core-js/object/define-property.js");
+
+_Object$defineProperty(exports, "__esModule", {
+  value: true
+});
+
+function rewriteUrlForNextExport(url) {
+  var _url$split = url.split('#'),
+      _url$split2 = _slicedToArray(_url$split, 2),
+      pathname = _url$split2[0],
+      hash = _url$split2[1]; // tslint:disable-next-line
+
+
+  var _pathname$split = pathname.split('?'),
+      _pathname$split2 = _slicedToArray(_pathname$split, 2),
+      path = _pathname$split2[0],
+      qs = _pathname$split2[1];
+
+  if (path) {
+    path = path.replace(/\/$/, ''); // Append a trailing slash if this path does not have an extension
+
+    if (!/\.[^/]+\/?$/.test(path)) path += "/";
+  }
+
+  if (qs) path += '?' + qs;
+  if (hash) path += '#' + hash;
+  return path;
+}
+
+exports.rewriteUrlForNextExport = rewriteUrlForNextExport;
+
+/***/ }),
+
 /***/ "./node_modules/next/dist/next-server/lib/router/router.js":
 /*!*****************************************************************!*\
   !*** ./node_modules/next/dist/next-server/lib/router/router.js ***!
@@ -4675,13 +4710,53 @@ var route_matcher_1 = __webpack_require__(/*! ./utils/route-matcher */ "./node_m
 var route_regex_1 = __webpack_require__(/*! ./utils/route-regex */ "./node_modules/next/dist/next-server/lib/router/utils/route-regex.js");
 
 function addBasePath(path) {
-  // @ts-ignore variable is always a string
+  // variable is always a string
   var p = "";
   return path.indexOf(p) !== 0 ? p + path : path;
 }
 
 function toRoute(path) {
   return path.replace(/\/$/, '') || '/';
+}
+
+var prepareRoute = function prepareRoute(path) {
+  return toRoute(!path || path === '/' ? '/index' : path);
+};
+
+function fetchNextData(pathname, query, isServerRender, cb) {
+  var attempts = isServerRender ? 3 : 1;
+
+  function getResponse() {
+    return fetch(utils_1.formatWithValidation({
+      // @ts-ignore __NEXT_DATA__
+      pathname: "/_next/data/".concat(__NEXT_DATA__.buildId).concat(pathname, ".json"),
+      query: query
+    })).then(function (res) {
+      if (!res.ok) {
+        if (--attempts > 0 && res.status >= 500) {
+          return getResponse();
+        }
+
+        throw new Error("Failed to load static props");
+      }
+
+      return res.json();
+    });
+  }
+
+  return getResponse().then(function (data) {
+    return cb ? cb(data) : data;
+  })["catch"](function (err) {
+    // We should only trigger a server-side transition if this was caused
+    // on a client-side transition. Otherwise, we'd get into an infinite
+    // loop.
+    if (!isServerRender) {
+      ;
+      err.code = 'PAGE_LOAD_ERROR';
+    }
+
+    throw err;
+  });
 }
 
 var Router =
@@ -4696,7 +4771,8 @@ function () {
         wrapApp = _ref.wrapApp,
         Component = _ref.Component,
         err = _ref.err,
-        subscription = _ref.subscription;
+        subscription = _ref.subscription,
+        isFallback = _ref.isFallback;
 
     _classCallCheck(this, Router);
 
@@ -4751,24 +4827,20 @@ function () {
       _this.replace(url, as, options);
     };
 
-    this._getStaticData = function (asPath, _cachedData) {
-      var pathname = url_1.parse(asPath).pathname;
-      pathname = toRoute(!pathname || pathname === '/' ? '/index' : pathname);
-      return  false ? undefined : fetch( // @ts-ignore __NEXT_DATA__
-      "/_next/data/".concat(__NEXT_DATA__.buildId).concat(pathname, ".json")).then(function (res) {
-        if (!res.ok) {
-          throw new Error("Failed to load static props");
-        }
-
-        return res.json();
-      }).then(function (data) {
-        _this.sdc[pathname] = data;
-        return data;
-      })["catch"](function (err) {
-        ;
-        err.code = 'PAGE_LOAD_ERROR';
-        throw err;
+    this._getStaticData = function (asPath) {
+      var pathname = prepareRoute(url_1.parse(asPath).pathname);
+      return  false ? undefined : fetchNextData(pathname, null, _this.isSsr, function (data) {
+        return _this.sdc[pathname] = data;
       });
+    };
+
+    this._getServerData = function (asPath) {
+      var _url_1$parse = url_1.parse(asPath, true),
+          pathname = _url_1$parse.pathname,
+          query = _url_1$parse.query;
+
+      pathname = prepareRoute(pathname);
+      return fetchNextData(pathname, query, _this.isSsr);
     }; // represents the current component key
 
 
@@ -4790,7 +4862,6 @@ function () {
       Component: App
     }; // Backwards compat for Router.router.events
     // TODO: Should be remove the following major version as it was never documented
-    // @ts-ignore backwards compatibility
 
     this.events = Router.events;
     this.pageLoader = pageLoader;
@@ -4806,6 +4877,7 @@ function () {
     // back from external site
 
     this.isSsr = true;
+    this.isFallback = isFallback;
 
     if (true) {
       // in order for `e.state` to work on the `onpopstate` event
@@ -4907,7 +4979,14 @@ function () {
         var as = typeof _as === 'object' ? utils_1.formatWithValidation(_as) : _as; // Add the ending slash to the paths. So, we can serve the
         // "<page>/index.html" directly for the SSR page.
 
-        if (false) { var rewriteUrlForNextExport; }
+        if (true) {
+          var rewriteUrlForNextExport = __webpack_require__(/*! ./rewrite-url-for-export */ "./node_modules/next/dist/next-server/lib/router/rewrite-url-for-export.js").rewriteUrlForNextExport; // @ts-ignore this is temporarily global (attached to window)
+
+
+          if (__NEXT_DATA__.nextExport) {
+            as = rewriteUrlForNextExport(as);
+          }
+        }
 
         _this2.abortComponentLoad(as); // If the url change is only related to a hash change
         // We should not proceed. We should only change the state.
@@ -4928,10 +5007,10 @@ function () {
           return resolve(true);
         }
 
-        var _url_1$parse = url_1.parse(url, true),
-            pathname = _url_1$parse.pathname,
-            query = _url_1$parse.query,
-            protocol = _url_1$parse.protocol;
+        var _url_1$parse2 = url_1.parse(url, true),
+            pathname = _url_1$parse2.pathname,
+            query = _url_1$parse2.query,
+            protocol = _url_1$parse2.protocol;
 
         if (!pathname || protocol) {
           if (true) {
@@ -4948,16 +5027,15 @@ function () {
 
         if (!_this2.urlIsNew(as)) {
           method = 'replaceState';
-        } // @ts-ignore pathname is always a string
-
+        }
 
         var route = toRoute(pathname);
         var _options$shallow = options.shallow,
             shallow = _options$shallow === void 0 ? false : _options$shallow;
 
         if (is_dynamic_1.isDynamicRoute(route)) {
-          var _url_1$parse2 = url_1.parse(as),
-              asPathname = _url_1$parse2.pathname;
+          var _url_1$parse3 = url_1.parse(as),
+              asPathname = _url_1$parse3.pathname;
 
           var routeRegex = route_regex_1.getRouteRegex(route);
           var routeMatch = route_matcher_1.getRouteMatcher(routeRegex)(asPathname);
@@ -4981,7 +5059,6 @@ function () {
         }
 
         Router.events.emit('routeChangeStart', as); // If shallow is true and the route exists in the router cache we reuse the previous result
-        // @ts-ignore pathname is always a string
 
         _this2.getRouteInfo(route, pathname, query, as, shallow).then(function (routeInfo) {
           var error = routeInfo.error;
@@ -4994,17 +5071,12 @@ function () {
 
           _this2.changeState(method, url, addBasePath(as), options);
 
-          var hash = window.location.hash.substring(1);
-
           if (true) {
             var appComp = _this2.components['/_app'].Component;
             window.next.isPrerendered = appComp.getInitialProps === appComp.origGetInitialProps && !routeInfo.Component.getInitialProps;
-          } // @ts-ignore pathname is always defined
+          }
 
-
-          _this2.set(route, pathname, query, as, _Object$assign(_Object$assign({}, routeInfo), {
-            hash: hash
-          }));
+          _this2.set(route, pathname, query, as, routeInfo);
 
           if (error) {
             Router.events.emit('routeChangeError', error, as);
@@ -5025,8 +5097,7 @@ function () {
         if (typeof window.history === 'undefined') {
           console.error("Warning: window.history is not available.");
           return;
-        } // @ts-ignore method should always exist on history
-
+        }
 
         if (typeof window.history[method] === 'undefined') {
           console.error("Warning: window.history.".concat(method, " is not available"));
@@ -5035,12 +5106,14 @@ function () {
       }
 
       if (method !== 'pushState' || utils_1.getURL() !== as) {
-        // @ts-ignore method should always exist on history
         window.history[method]({
           url: url,
           as: as,
           options: options
-        }, null, as);
+        }, // Most browsers currently ignores this parameter, although they may use it in the future.
+        // Passing the empty string here should be safe against future changes to the method.
+        // https://developer.mozilla.org/en-US/docs/Web/API/History/replaceState
+        '', as);
       }
     }
   }, {
@@ -5079,7 +5152,7 @@ function () {
         }
 
         return _this3._getData(function () {
-          return Component.__N_SSG ? _this3._getStaticData(as) : _this3.getInitialProps(Component, // we provide AppTree later so this needs to be `any`
+          return Component.__N_SSG ? _this3._getStaticData(as) : Component.__N_SSP ? _this3._getServerData(as) : _this3.getInitialProps(Component, // we provide AppTree later so this needs to be `any`
           {
             pathname: pathname,
             query: query,
@@ -5143,6 +5216,7 @@ function () {
   }, {
     key: "set",
     value: function set(route, pathname, query, as, data) {
+      this.isFallback = false;
       this.route = route;
       this.pathname = pathname;
       this.query = query;
@@ -5225,9 +5299,10 @@ function () {
       return this.asPath !== asPath;
     }
     /**
-     * Prefetch `page` code, you may wait for the data during `page` rendering.
+     * Prefetch page code, you may wait for the data during page rendering.
      * This feature only works in production!
-     * @param url of prefetched `page`
+     * @param url the href of prefetched page
+     * @param asPath the as path of the prefetched page
      */
 
   }, {
@@ -5235,10 +5310,12 @@ function () {
     value: function prefetch(url) {
       var _this4 = this;
 
+      var asPath = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : url;
+      var options = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : {};
       return new _Promise(function (resolve, reject) {
-        var _url_1$parse3 = url_1.parse(url),
-            pathname = _url_1$parse3.pathname,
-            protocol = _url_1$parse3.protocol;
+        var _url_1$parse4 = url_1.parse(url),
+            pathname = _url_1$parse4.pathname,
+            protocol = _url_1$parse4.protocol;
 
         if (!pathname || protocol) {
           if (true) {
@@ -5251,12 +5328,11 @@ function () {
 
         if (true) {
           return;
-        } // @ts-ignore pathname is always defined
+        }
 
-
-        var route = toRoute(pathname);
-
-        _this4.pageLoader.prefetch(route).then(resolve, reject);
+        _this4.pageLoader[options.priority ? 'loadPage' : 'prefetch'](toRoute(pathname)).then(function () {
+          return resolve();
+        }, reject);
       });
     }
   }, {
@@ -5362,9 +5438,11 @@ function () {
   }], [{
     key: "_rewriteUrlForNextExport",
     value: function _rewriteUrlForNextExport(url) {
-      if (false) { var rewriteUrlForNextExport; } else {
-        return url;
-      }
+      if (true) {
+        var rewriteUrlForNextExport = __webpack_require__(/*! ./rewrite-url-for-export */ "./node_modules/next/dist/next-server/lib/router/rewrite-url-for-export.js").rewriteUrlForNextExport;
+
+        return rewriteUrlForNextExport(url);
+      } else {}
     }
   }]);
 
@@ -6871,12 +6949,12 @@ if (false) {} else {
 
 /***/ "./node_modules/react/index.js":
 /*!*******************************************************************************************!*\
-  !*** delegated ./node_modules/react/index.js from dll-reference dll_5f137288facb1107b491 ***!
+  !*** delegated ./node_modules/react/index.js from dll-reference dll_ef0ff7c60362f24a921f ***!
   \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_5f137288facb1107b491 */ "dll-reference dll_5f137288facb1107b491"))("./node_modules/react/index.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_ef0ff7c60362f24a921f */ "dll-reference dll_ef0ff7c60362f24a921f"))("./node_modules/react/index.js");
 
 /***/ }),
 
@@ -9165,7 +9243,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! next/router */ "./node_modules/next/dist/client/router.js");
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(next_router__WEBPACK_IMPORTED_MODULE_5__);
 /* harmony import */ var _data_posts__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../data/posts */ "./data/posts.ts");
-var _jsxFileName = "/Users/yannicduckwitz/Documents/Projects/firemind-academy/pages/index.tsx";
+var _jsxFileName = "/Users/yannic/project/firemind-academy/pages/index.tsx";
 
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
@@ -9248,7 +9326,7 @@ var Home = function Home() {
     id: "4134207489",
     dynamic: [_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontFamily, _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontWeight, _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontSize],
     __self: this
-  }, ".blog-post-container.__jsx-style-dynamic-selector{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:space-around;-webkit-justify-content:space-around;-ms-flex-pack:space-around;justify-content:space-around;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:100%;}.title-container.__jsx-style-dynamic-selector{text-align:left;width:90%;}a.__jsx-style-dynamic-selector{color:inherit;-webkit-text-decoration:none;text-decoration:none;}h1.__jsx-style-dynamic-selector{font-family:".concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontFamily, ";font-weight:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontWeight, ";font-size:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontSize, ";}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy95YW5uaWNkdWNrd2l0ei9Eb2N1bWVudHMvUHJvamVjdHMvZmlyZW1pbmQtYWNhZGVteS9wYWdlcy9pbmRleC50c3giXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBbUNrQixBQUd3QixBQU9HLEFBSUYsQUFLMkIsY0FKcEIsRUFKWCxVQUNaLGVBUTJDLHVCQUozQyxVQVp3QixRQWlCaUIsdUNBQ3pDLCtCQWpCK0IsMkhBQ1YsNkZBQ1IsV0FDYiIsImZpbGUiOiIvVXNlcnMveWFubmljZHVja3dpdHovRG9jdW1lbnRzL1Byb2plY3RzL2ZpcmVtaW5kLWFjYWRlbXkvcGFnZXMvaW5kZXgudHN4Iiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IE5hdmlnYXRpb24gZnJvbSBcIi4uL2NvbXBvbmVudHMvTmF2aWdhdGlvblwiO1xuaW1wb3J0IHsgbmF2YmFyVGl0bGUgfSBmcm9tIFwiLi4vZ3VpZGVsaW5lcy9UeXBvZ3JhcGh5XCI7XG5pbXBvcnQgQmxvZ1Bvc3RDYXJkIGZyb20gXCIuLi9jb21wb25lbnRzL0Jsb2dQb3N0Q2FyZFwiO1xuaW1wb3J0IHsgdXNlUm91dGVyIH0gZnJvbSBcIm5leHQvcm91dGVyXCI7XG5pbXBvcnQgYmxvZ1Bvc3RzIGZyb20gXCIuLi9kYXRhL3Bvc3RzXCI7XG5cbmNvbnN0IEhvbWUgPSAoKSA9PiB7XG4gIGNvbnN0IHJvdXRlciA9IHVzZVJvdXRlcigpO1xuXG4gIHJldHVybiAoXG4gICAgPGRpdj5cbiAgICAgIDxsaW5rXG4gICAgICAgIGhyZWY9XCJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9TGF0bzo5MDAmZGlzcGxheT1zd2FwXCJcbiAgICAgICAgcmVsPVwic3R5bGVzaGVldFwiXG4gICAgICA+PC9saW5rPlxuICAgICAgPGxpbmtcbiAgICAgICAgaHJlZj1cImh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1OdW5pdG86MzAwJmRpc3BsYXk9c3dhcFwiXG4gICAgICAgIHJlbD1cInN0eWxlc2hlZXRcIlxuICAgICAgPjwvbGluaz5cbiAgICAgIDxOYXZpZ2F0aW9uIC8+XG5cbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwiYmxvZy1wb3N0LWNvbnRhaW5lclwiPlxuICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cInRpdGxlLWNvbnRhaW5lclwiPlxuICAgICAgICAgIDxoMT5GaXJlbWluZCBBY2FkZW15PC9oMT5cbiAgICAgICAgPC9kaXY+XG4gICAgICAgIHtibG9nUG9zdHMubWFwKHBvc3QgPT4gKFxuICAgICAgICAgIDxCbG9nUG9zdENhcmRcbiAgICAgICAgICAgIGtleT17cG9zdC5pZH1cbiAgICAgICAgICAgIHRpdGxlPXtwb3N0LnRpdGxlfVxuICAgICAgICAgICAgZGVzY3JpcHRpb249e3Bvc3QucHJldmlld0Rlc2NyaXB0aW9ufVxuICAgICAgICAgICAgZGF0ZT17cG9zdC5kYXRlfVxuICAgICAgICAgICAgb25QcmVzc2VkPXsoKSA9PiByb3V0ZXIucHVzaChgL3AvJHtwb3N0LnVybFRpdGxlfWApfVxuICAgICAgICAgIC8+XG4gICAgICAgICkpfVxuICAgICAgPC9kaXY+XG4gICAgICA8c3R5bGUganN4PntgXG4gICAgICAgIC5ibG9nLXBvc3QtY29udGFpbmVyIHtcbiAgICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICAgIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG4gICAgICAgICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1hcm91bmQ7XG4gICAgICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgICAgICAgICB3aWR0aDogMTAwJTtcbiAgICAgICAgfVxuICAgICAgICAudGl0bGUtY29udGFpbmVyIHtcbiAgICAgICAgICB0ZXh0LWFsaWduOiBsZWZ0O1xuICAgICAgICAgIHdpZHRoOiA5MCU7XG4gICAgICAgIH1cbiAgICAgICAgYSB7XG4gICAgICAgICAgY29sb3I6IGluaGVyaXQ7XG4gICAgICAgICAgdGV4dC1kZWNvcmF0aW9uOiBub25lO1xuICAgICAgICB9XG5cbiAgICAgICAgaDEge1xuICAgICAgICAgIGZvbnQtZmFtaWx5OiAke25hdmJhclRpdGxlLmZvbnRGYW1pbHl9O1xuICAgICAgICAgIGZvbnQtd2VpZ2h0OiAke25hdmJhclRpdGxlLmZvbnRXZWlnaHR9O1xuICAgICAgICAgIGZvbnQtc2l6ZTogJHtuYXZiYXJUaXRsZS5mb250U2l6ZX07XG4gICAgICAgIH1cbiAgICAgIGB9PC9zdHlsZT5cbiAgICA8L2Rpdj5cbiAgKTtcbn07XG5cbmV4cG9ydCBkZWZhdWx0IEhvbWU7XG4iXX0= */\n/*@ sourceURL=/Users/yannicduckwitz/Documents/Projects/firemind-academy/pages/index.tsx */")));
+  }, ".blog-post-container.__jsx-style-dynamic-selector{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:space-around;-webkit-justify-content:space-around;-ms-flex-pack:space-around;justify-content:space-around;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:100%;}.title-container.__jsx-style-dynamic-selector{text-align:left;width:90%;}a.__jsx-style-dynamic-selector{color:inherit;-webkit-text-decoration:none;text-decoration:none;}h1.__jsx-style-dynamic-selector{font-family:".concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontFamily, ";font-weight:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontWeight, ";font-size:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontSize, ";}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy95YW5uaWMvcHJvamVjdC9maXJlbWluZC1hY2FkZW15L3BhZ2VzL2luZGV4LnRzeCJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFtQ2tCLEFBR3dCLEFBT0csQUFJRixBQUsyQixjQUpwQixFQUpYLFVBQ1osZUFRMkMsdUJBSjNDLFVBWndCLFFBaUJpQix1Q0FDekMsK0JBakIrQiwySEFDViw2RkFDUixXQUNiIiwiZmlsZSI6Ii9Vc2Vycy95YW5uaWMvcHJvamVjdC9maXJlbWluZC1hY2FkZW15L3BhZ2VzL2luZGV4LnRzeCIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBOYXZpZ2F0aW9uIGZyb20gXCIuLi9jb21wb25lbnRzL05hdmlnYXRpb25cIjtcbmltcG9ydCB7IG5hdmJhclRpdGxlIH0gZnJvbSBcIi4uL2d1aWRlbGluZXMvVHlwb2dyYXBoeVwiO1xuaW1wb3J0IEJsb2dQb3N0Q2FyZCBmcm9tIFwiLi4vY29tcG9uZW50cy9CbG9nUG9zdENhcmRcIjtcbmltcG9ydCB7IHVzZVJvdXRlciB9IGZyb20gXCJuZXh0L3JvdXRlclwiO1xuaW1wb3J0IGJsb2dQb3N0cyBmcm9tIFwiLi4vZGF0YS9wb3N0c1wiO1xuXG5jb25zdCBIb21lID0gKCkgPT4ge1xuICBjb25zdCByb3V0ZXIgPSB1c2VSb3V0ZXIoKTtcblxuICByZXR1cm4gKFxuICAgIDxkaXY+XG4gICAgICA8bGlua1xuICAgICAgICBocmVmPVwiaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PUxhdG86OTAwJmRpc3BsYXk9c3dhcFwiXG4gICAgICAgIHJlbD1cInN0eWxlc2hlZXRcIlxuICAgICAgPjwvbGluaz5cbiAgICAgIDxsaW5rXG4gICAgICAgIGhyZWY9XCJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9TnVuaXRvOjMwMCZkaXNwbGF5PXN3YXBcIlxuICAgICAgICByZWw9XCJzdHlsZXNoZWV0XCJcbiAgICAgID48L2xpbms+XG4gICAgICA8TmF2aWdhdGlvbiAvPlxuXG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cImJsb2ctcG9zdC1jb250YWluZXJcIj5cbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJ0aXRsZS1jb250YWluZXJcIj5cbiAgICAgICAgICA8aDE+RmlyZW1pbmQgQWNhZGVteTwvaDE+XG4gICAgICAgIDwvZGl2PlxuICAgICAgICB7YmxvZ1Bvc3RzLm1hcChwb3N0ID0+IChcbiAgICAgICAgICA8QmxvZ1Bvc3RDYXJkXG4gICAgICAgICAgICBrZXk9e3Bvc3QuaWR9XG4gICAgICAgICAgICB0aXRsZT17cG9zdC50aXRsZX1cbiAgICAgICAgICAgIGRlc2NyaXB0aW9uPXtwb3N0LnByZXZpZXdEZXNjcmlwdGlvbn1cbiAgICAgICAgICAgIGRhdGU9e3Bvc3QuZGF0ZX1cbiAgICAgICAgICAgIG9uUHJlc3NlZD17KCkgPT4gcm91dGVyLnB1c2goYC9wLyR7cG9zdC51cmxUaXRsZX1gKX1cbiAgICAgICAgICAvPlxuICAgICAgICApKX1cbiAgICAgIDwvZGl2PlxuICAgICAgPHN0eWxlIGpzeD57YFxuICAgICAgICAuYmxvZy1wb3N0LWNvbnRhaW5lciB7XG4gICAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uO1xuICAgICAgICAgIGp1c3RpZnktY29udGVudDogc3BhY2UtYXJvdW5kO1xuICAgICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICAgICAgd2lkdGg6IDEwMCU7XG4gICAgICAgIH1cbiAgICAgICAgLnRpdGxlLWNvbnRhaW5lciB7XG4gICAgICAgICAgdGV4dC1hbGlnbjogbGVmdDtcbiAgICAgICAgICB3aWR0aDogOTAlO1xuICAgICAgICB9XG4gICAgICAgIGEge1xuICAgICAgICAgIGNvbG9yOiBpbmhlcml0O1xuICAgICAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTtcbiAgICAgICAgfVxuXG4gICAgICAgIGgxIHtcbiAgICAgICAgICBmb250LWZhbWlseTogJHtuYXZiYXJUaXRsZS5mb250RmFtaWx5fTtcbiAgICAgICAgICBmb250LXdlaWdodDogJHtuYXZiYXJUaXRsZS5mb250V2VpZ2h0fTtcbiAgICAgICAgICBmb250LXNpemU6ICR7bmF2YmFyVGl0bGUuZm9udFNpemV9O1xuICAgICAgICB9XG4gICAgICBgfTwvc3R5bGU+XG4gICAgPC9kaXY+XG4gICk7XG59O1xuXG5cblxuZXhwb3J0IGRlZmF1bHQgSG9tZTtcbiJdfQ== */\n/*@ sourceURL=/Users/yannic/project/firemind-academy/pages/index.tsx */")));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Home);
@@ -9256,25 +9334,25 @@ var Home = function Home() {
 /***/ }),
 
 /***/ 1:
-/*!********************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fyannicduckwitz%2FDocuments%2FProjects%2Ffiremind-academy%2Fpages%2Findex.tsx ***!
-  \********************************************************************************************************************************************************/
+/*!***********************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fyannic%2Fproject%2Ffiremind-academy%2Fpages%2Findex.tsx ***!
+  \***********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fyannicduckwitz%2FDocuments%2FProjects%2Ffiremind-academy%2Fpages%2Findex.tsx! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fyannicduckwitz%2FDocuments%2FProjects%2Ffiremind-academy%2Fpages%2Findex.tsx!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fyannic%2Fproject%2Ffiremind-academy%2Fpages%2Findex.tsx! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fyannic%2Fproject%2Ffiremind-academy%2Fpages%2Findex.tsx!./");
 
 
 /***/ }),
 
-/***/ "dll-reference dll_5f137288facb1107b491":
+/***/ "dll-reference dll_ef0ff7c60362f24a921f":
 /*!*******************************************!*\
-  !*** external "dll_5f137288facb1107b491" ***!
+  !*** external "dll_ef0ff7c60362f24a921f" ***!
   \*******************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = dll_5f137288facb1107b491;
+module.exports = dll_ef0ff7c60362f24a921f;
 
 /***/ })
 

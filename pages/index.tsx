@@ -3,20 +3,26 @@ import { navbarTitle } from "../guidelines/Typography";
 import BlogPostCard from "../components/BlogPostCard";
 import { useRouter } from "next/router";
 import blogPosts from "../data/posts";
+import Head from 'next/head'
+
+export const config = { amp: true };
 
 const Home = () => {
   const router = useRouter();
 
   return (
     <div>
-      <link
-        href="https://fonts.googleapis.com/css?family=Lato:900&display=swap"
-        rel="stylesheet"
-      ></link>
-      <link
-        href="https://fonts.googleapis.com/css?family=Nunito:300&display=swap"
-        rel="stylesheet"
-      ></link>
+      <Head>
+        <link
+          href="https://fonts.googleapis.com/css?family=Lato:900&display=swap"
+          rel="stylesheet"
+        ></link>
+        <link
+          href="https://fonts.googleapis.com/css?family=Nunito:300&display=swap"
+          rel="stylesheet"
+        ></link>
+
+      </Head>
       <Navigation />
 
       <div className="blog-post-container">
@@ -59,5 +65,7 @@ const Home = () => {
     </div>
   );
 };
+
+
 
 export default Home;
