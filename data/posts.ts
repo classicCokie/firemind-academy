@@ -13,11 +13,33 @@ const blogPosts = [
         data: { title: "Simple Healthbar" }
       },
       {
-        type: "title",
-        data: { title: "Your mom" }
+        type: "paragraph",
+        data: {
+          text:
+            "This is my Heartbeat Song and I'm gonna sing it all night long, its been so long, so long. I just started this with the most cool intro ever you litttle ...."
+        }
+      },
+      {
+        type: "subTitle",
+        data: {
+          title: "Hier gehts dann weiter"
+        }
+      },
+      {
+        type: "paragraph",
+        data: {
+          text:
+            "Und immer weiter bis zur Unendlichkeit und so, ich liebe dieses System jetzt schon. Wer hat denn sonst bitte ein so nices ding hier?"
+        }
+      },
+      {
+        type: "gist",
+        data: {
+          url: "d3b3f7b71d06e24c3e7478b063f53cd0"
+        }
       }
     ]
-  },
+  }
 ];
 
 export default blogPosts;

@@ -16,7 +16,8 @@
     "@zeit/next-source-maps": "0.0.3",
     "next": "^9.2.1",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "react-gist": "^1.2.1"
   },
   "devDependencies": {
     "@types/node": "^13.7.1",

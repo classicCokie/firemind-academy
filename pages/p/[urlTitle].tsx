@@ -1,12 +1,46 @@
 import createPage from "../../services/createPage";
 import blogPosts from "../../data/posts";
+import Navigation from "../../components/Navigation";
+import Head from "next/head";
 
-const Page = (props) => {
+const Page = props => {
   const pageElements = createPage(props);
-  console.log("PAGE ELEMENTS -> ", pageElements);
+
   return (
     <>
-      {pageElements.map(element => (element))}
+      <Head>
+        <title> {props.urlTitle}</title>
+        <style>{`body {margin: 0 !important;}`}</style>
+      </Head>
+      <Navigation />
+      <div className="body-container">
+        <div className="post-container ">
+          <div>{pageElements.map(element => element)}</div>
+        </div>
+      </div>
+
+      <style jsx>{`
+        .body-container {
+          display: flex;
+          flex-direction: row;
+          justify-content: center;
+          align-items: center;
+          width: 100%;
+          background-color: #f7f8fb;
+        }
+        .post-container {
+          display: flex;
+          flex-direction: column;
+          justify-content: space-around;
+          align-items: center;
+          width: 100%;
+          max-width: 768px;
+        }
+        div {
+          padding-left: 20px;
+          padding-right: 20px;
+        }
+      `}</style>
     </>
   );
 };
@@ -19,14 +53,9 @@ export async function unstable_getStaticProps({ params }) {
 }
 
 export async function unstable_getStaticPaths() {
-  const paths = blogPosts.map(post => {
-    return { params: post }
+  return blogPosts.map(post => {
+    return { params: post };
   });
-  return {
-    paths
-  }
 }
-
-
 
 export default Page;
