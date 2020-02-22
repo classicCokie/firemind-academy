@@ -11,6 +11,10 @@ const Page = props => {
       <Head>
         <title> {props.urlTitle}</title>
         <style>{`body {margin: 0 !important;}`}</style>
+        // @ts-ignore
+        <meta charset="UTF-8" />
+        <meta name="description" content={props.metaDescription}></meta>
+        <meta name="keywords" content={props.metaKeywords}></meta>
       </Head>
       <Navigation />
       <div className="body-container">
@@ -27,6 +31,8 @@ const Page = props => {
           align-items: center;
           width: 100%;
           background-color: #f7f8fb;
+          padding-top: 20px;
+          padding-bottom: 20px; 
         }
         .post-container {
           display: flex;
@@ -35,10 +41,11 @@ const Page = props => {
           align-items: center;
           width: 100%;
           max-width: 768px;
-        }
-        div {
           padding-left: 20px;
           padding-right: 20px;
+          background-color: white;
+          border-radius: 5px;
+          box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.25);
         }
       `}</style>
     </>
@@ -53,9 +60,12 @@ export async function unstable_getStaticProps({ params }) {
 }
 
 export async function unstable_getStaticPaths() {
-  return blogPosts.map(post => {
-    return { params: post };
+  const paths = blogPosts.map(post => {
+    return { params: post }
   });
+  return {
+    paths
+  }
 }
 
 export default Page;
