@@ -1,0 +1,44 @@
+trigger:
+- master
+
+pr: none
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+
+- script: sudo chown -R vsts:vsts  /usr/local/lib/node_modules
+  displayName: 'Enable access to node_modules'
+
+- script: sudo chown -R vsts:vsts  /usr/local/bin
+  displayName: 'Enable access to node_modules'
+
+- script: npm install
+  displayName: 'calling npm install'
+
+- script: npm run build
+  displayName: 'Building the project ...'
+
+- script: npm run export
+  displayName: 'Creating Static Pages ...'
+
+- task: CopyFiles@2
+  inputs:
+    SourceFolder: '$(Build.SourcesDirectory)/out'
+    Contents: '**'
+    TargetFolder: '$(Build.ArtifactStagingDirectory)'
+
+- task: ArchiveFiles@2
+  inputs:
+    rootFolderOrFile: '$(Build.BinariesDirectory)'
+    includeRootFolder: true
+    archiveType: 'zip'
+    archiveFile: '$(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip'
+    replaceExistingArchive: true
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'drop'
+    publishLocation: 'Container'
