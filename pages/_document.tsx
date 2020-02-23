@@ -14,19 +14,19 @@ class MyDocument extends Document {
                         href="https://fonts.googleapis.com/css?family=Lato:900&display=swap"
                         rel="stylesheet"
                         // @ts-ignore
-                        async="true"
+                        async={true}
                     ></link>
                     <link
                         href="https://fonts.googleapis.com/css?family=Nunito:300&display=swap"
                         rel="stylesheet"
                         // @ts-ignore
-                        async="true"
+                        async={true}
                     ></link>
                     <link
                         href="https://fonts.googleapis.com/css?family=Roboto&display=swap"
                         rel="stylesheet"
                         // @ts-ignore
-                        async="true"
+                        async={true}
                     ></link>
                     <style>{`body {margin: 0 !important;}`}</style>
                 </Head>

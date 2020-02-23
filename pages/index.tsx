@@ -27,14 +27,9 @@ const BlogPostOverview = () => {
       <div className="body-container">
         <div className="blog-post-container">
           <div className="input-container">
-            <div className="form-container">
-              <form>
-                <label htmlFor="search-tutorials">Search Tutorials>
+            <label htmlFor="search-tutorials">Search Tutorials>
                 <input type="text" name="search-tutorials" onChange={(event) => setFilterValue(event.target.value)} placeholder="Search" />
-                </label>
-              </form>
-            </div>
-
+            </label>
           </div>
 
           {blogPosts.map((post: any, index) => {
@@ -57,7 +52,7 @@ const BlogPostOverview = () => {
           display: flex;
           flex-direction: row;
           justify-content: center;
-          align-items: center;
+          align-items: left;
           width: 100%;
           background-color: #f7f8fb;
         }
@@ -70,7 +65,6 @@ const BlogPostOverview = () => {
           max-width: 768px;
           padding-top: 20px;
         }
-
         a {
           color: inherit;
           text-decoration: none;
@@ -81,13 +75,10 @@ const BlogPostOverview = () => {
         }
         input {
           width: 100%;
-          height: 50px;
+          height: 40px;
           border-radius: 5px;
           font-size: 20px;
           padding-left: 10px;
-        }
-        .form-container {
-          width: 100%;
         }
         form {
           width: 100%;
