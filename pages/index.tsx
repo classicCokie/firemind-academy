@@ -27,7 +27,7 @@ const BlogPostOverview = () => {
       <div className="body-container">
         <div className="blog-post-container">
           <div className="input-container">
-            <label htmlFor="search-tutorials">Search Tutorials>
+            <label htmlFor="search-tutorials">Search Tutorials
                 <input type="text" name="search-tutorials" onChange={(event) => setFilterValue(event.target.value)} placeholder="Search" />
             </label>
           </div>

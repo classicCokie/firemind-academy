@@ -18,19 +18,7 @@ export default {
 		{
 			"type": "paragraph",
 			"data": {
-				"text": "This is my Heartbeat Song and I'm gonna sing it all night long, its been so long, so long. I just started this with the most cool intro ever you litttle ...."
-			}
-		},
-		{
-			"type": "subTitle",
-			"data": {
-				"title": "Hier gehts dann weiter"
-			}
-		},
-		{
-			"type": "paragraph",
-			"data": {
-				"text": "Und immer weiter bis zur Unendlichkeit und so, ich liebe dieses System jetzt schon. Wer hat denn sonst bitte ein so nices ding hier?"
+				"text": "When creating a Game in Unity where there is shooting involved you will alomst always want to create a Crosshair, for assisting your Players aiming. "
 			}
 		},
 		{
