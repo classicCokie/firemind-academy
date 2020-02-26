@@ -15,25 +15,27 @@ const BlogPostCard = ({
   date,
   onPressed
 }: IBlogPostCardProps) => (
-  <>
-    <div className="card" onClick={onPressed}>
-      <div className="card-title-container">
-        <h1>{title}</h1>
-      </div>
-      <div className="card-description-container">
-        <p>{description}</p>
-      </div>
-      <div className="card-row">
-        <div className="card-date-container">
-          <p> {date}</p>
+    <>
+      <div className="card" onClick={onPressed}>
+        <div className="card-wrapper">
+          <div className="card-title-container">
+            <h1>{title}</h1>
+          </div>
+          <div className="card-description-container">
+            <p>{description}</p>
+          </div>
+          <div className="card-row">
+            <div className="card-date-container">
+              <p> {date}</p>
+            </div>
+            <div className="card-button-container">
+              <Button label="Read" onPressed={() => console.log("thick!!!")} />
+            </div>
+          </div>
         </div>
-        <div className="card-button-container">
-          <Button label="Read" onPressed={() => console.log("thick!!!")} />
-        </div>
       </div>
-    </div>
 
-    <style jsx>{`
+      <style jsx>{`
       h1 {
         font-family: ${navbarTitle.fontFamily};
         font-weight: ${navbarTitle.fontWeight};
@@ -51,6 +53,9 @@ const BlogPostCard = ({
         box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.25);
         border-radius: 5px;
         margin-bottom: 20px;
+      }
+
+      .card-wrapper {
         padding-left: 20px;
         padding-right: 20px;
         paddin-top: 10px;
@@ -76,7 +81,7 @@ const BlogPostCard = ({
         justify-content: space-between;
       }
     `}</style>
-  </>
-);
+    </>
+  );
 
 export default BlogPostCard;

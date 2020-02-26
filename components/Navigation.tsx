@@ -7,7 +7,7 @@ const Navigation = () => (
     <nav className="navbar">
       <div className="navbar-logo-container">
         <Link href="/">
-          <a><img src="https://firemindacademy.z19.web.core.windows.net/img/logo_big.png" height="50px" width="40px" /></a>
+          <img src="https://firemindacademy.z19.web.core.windows.net/img/logo_big.png" alt="logo" height="50px" width="40px" />
         </Link>
 
       </div>

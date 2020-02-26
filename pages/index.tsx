@@ -52,7 +52,7 @@ const BlogPostOverview = () => {
           display: flex;
           flex-direction: row;
           justify-content: center;
-          align-items: left;
+          align-items: center;
           width: 100%;
           background-color: #f7f8fb;
         }
@@ -74,15 +74,13 @@ const BlogPostOverview = () => {
           height: 100px;
         }
         input {
-          width: 100%;
+          width: 98%;
           height: 40px;
           border-radius: 5px;
           font-size: 20px;
           padding-left: 10px;
-        }
-        form {
-          width: 100%;
-          padding: none;
+          border: 1px solid #cdc7c7;
+          max-width: 768px;
         }
         label {
           font-family: ${paragraph.fontFamily};
