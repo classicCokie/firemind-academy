@@ -16,7 +16,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../guidelines/Colors */ "./guidelines/Colors.ts");
 /* harmony import */ var _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../guidelines/Typography */ "./guidelines/Typography.ts");
 /* harmony import */ var _components_Button__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/Button */ "./components/Button.tsx");
-var _jsxFileName = "/Users/yannic/project/firemind-academy/components/BlogPostCard.tsx";
+var _jsxFileName = "/Users/yannicduckwitz/projects/firemind-academy/components/BlogPostCard.tsx";
 
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
@@ -114,7 +114,7 @@ var BlogPostCard = function BlogPostCard(_ref) {
     id: "1557878021",
     dynamic: [_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontFamily, _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontWeight, _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontSize, _guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["darkFont"], _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["paragraph"].fontFamily, _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["paragraph"].fontWeight, _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["paragraph"].fontSize],
     __self: this
-  }, "h1.__jsx-style-dynamic-selector{font-family:".concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontFamily, ";font-weight:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontWeight, ";font-size:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontSize, ";color:").concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["darkFont"], ";}.card.__jsx-style-dynamic-selector{background-color:white;width:80%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;text-align:center;background:#ffffff;box-shadow:1px 1px 10px rgba(0,0,0,0.25);border-radius:5px;margin-bottom:20px;}.card-wrapper.__jsx-style-dynamic-selector{padding-left:20px;padding-right:20px;paddin-top:10px;padding-bottom:20px;}.card-title-container.__jsx-style-dynamic-selector{width:100%;text-align:left;}.card-description-container.__jsx-style-dynamic-selector{width:100%;text-align:left;}p.__jsx-style-dynamic-selector{font-family:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["paragraph"].fontFamily, ";font-weight:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["paragraph"].fontWeight, ";font-size:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["paragraph"].fontSize, ";}.card-row.__jsx-style-dynamic-selector{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:flex-end;-webkit-box-align:flex-end;-ms-flex-align:flex-end;align-items:flex-end;width:100%;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy95YW5uaWMvcHJvamVjdC9maXJlbWluZC1hY2FkZW15L2NvbXBvbmVudHMvQmxvZ1Bvc3RDYXJkLnRzeCJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFxQ2tCLEFBR2tELEFBTWxCLEFBYUwsQUFNUCxBQUlBLEFBSThCLEFBSzVCLFdBWkcsQUFJQSxPQVZHLEtBYlQsSUFvQlosQUFJQSxNQXZCZSxJQWFHLElBcEJ5QixBQWlDQSxZQVpyQixvQkFDdEIsQ0FnQnVCLFFBckNrQixBQWlDQSx5QkExQmpCLGNBTmEsQUFpQ3JDLG1DQWhDQSxtQkFvQ2EsVUE5QlEsQ0ErQlcsNEZBOUJaLGtCQUNDLEtBOEJyQixjQTdCOEMseUNBQzFCLGtCQUNDLG1CQUNyQiIsImZpbGUiOiIvVXNlcnMveWFubmljL3Byb2plY3QvZmlyZW1pbmQtYWNhZGVteS9jb21wb25lbnRzL0Jsb2dQb3N0Q2FyZC50c3giLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBkYXJrRm9udCB9IGZyb20gXCIuLi9ndWlkZWxpbmVzL0NvbG9yc1wiO1xuaW1wb3J0IHsgbmF2YmFyVGl0bGUsIHBhcmFncmFwaCB9IGZyb20gXCIuLi9ndWlkZWxpbmVzL1R5cG9ncmFwaHlcIjtcbmltcG9ydCBCdXR0b24gZnJvbSBcIi4uL2NvbXBvbmVudHMvQnV0dG9uXCI7XG5cbmV4cG9ydCBpbnRlcmZhY2UgSUJsb2dQb3N0Q2FyZFByb3BzIHtcbiAgdGl0bGU6IHN0cmluZztcbiAgZGVzY3JpcHRpb246IHN0cmluZztcbiAgZGF0ZTogc3RyaW5nO1xuICBvblByZXNzZWQ6ICgpID0+IHZvaWQ7XG59XG5cbmNvbnN0IEJsb2dQb3N0Q2FyZCA9ICh7XG4gIHRpdGxlLFxuICBkZXNjcmlwdGlvbixcbiAgZGF0ZSxcbiAgb25QcmVzc2VkXG59OiBJQmxvZ1Bvc3RDYXJkUHJvcHMpID0+IChcbiAgICA8PlxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJjYXJkXCIgb25DbGljaz17b25QcmVzc2VkfT5cbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjYXJkLXdyYXBwZXJcIj5cbiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNhcmQtdGl0bGUtY29udGFpbmVyXCI+XG4gICAgICAgICAgICA8aDE+e3RpdGxlfTwvaDE+XG4gICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjYXJkLWRlc2NyaXB0aW9uLWNvbnRhaW5lclwiPlxuICAgICAgICAgICAgPHA+e2Rlc2NyaXB0aW9ufTwvcD5cbiAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNhcmQtcm93XCI+XG4gICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNhcmQtZGF0ZS1jb250YWluZXJcIj5cbiAgICAgICAgICAgICAgPHA+IHtkYXRlfTwvcD5cbiAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjYXJkLWJ1dHRvbi1jb250YWluZXJcIj5cbiAgICAgICAgICAgICAgPEJ1dHRvbiBsYWJlbD1cIlJlYWRcIiBvblByZXNzZWQ9eygpID0+IGNvbnNvbGUubG9nKFwidGhpY2shISFcIil9IC8+XG4gICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgPC9kaXY+XG4gICAgICA8L2Rpdj5cblxuICAgICAgPHN0eWxlIGpzeD57YFxuICAgICAgaDEge1xuICAgICAgICBmb250LWZhbWlseTogJHtuYXZiYXJUaXRsZS5mb250RmFtaWx5fTtcbiAgICAgICAgZm9udC13ZWlnaHQ6ICR7bmF2YmFyVGl0bGUuZm9udFdlaWdodH07XG4gICAgICAgIGZvbnQtc2l6ZTogJHtuYXZiYXJUaXRsZS5mb250U2l6ZX07XG4gICAgICAgIGNvbG9yOiAke2RhcmtGb250fTtcbiAgICAgIH1cbiAgICAgIC5jYXJkIHtcbiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogd2hpdGU7XG4gICAgICAgIHdpZHRoOiA4MCU7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgYmFja2dyb3VuZDogI2ZmZmZmZjtcbiAgICAgICAgYm94LXNoYWRvdzogMXB4IDFweCAxMHB4IHJnYmEoMCwgMCwgMCwgMC4yNSk7XG4gICAgICAgIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgICAgICAgbWFyZ2luLWJvdHRvbTogMjBweDtcbiAgICAgIH1cblxuICAgICAgLmNhcmQtd3JhcHBlciB7XG4gICAgICAgIHBhZGRpbmctbGVmdDogMjBweDtcbiAgICAgICAgcGFkZGluZy1yaWdodDogMjBweDtcbiAgICAgICAgcGFkZGluLXRvcDogMTBweDtcbiAgICAgICAgcGFkZGluZy1ib3R0b206IDIwcHg7XG4gICAgICB9XG4gICAgICAuY2FyZC10aXRsZS1jb250YWluZXIge1xuICAgICAgICB3aWR0aDogMTAwJTtcbiAgICAgICAgdGV4dC1hbGlnbjogbGVmdDtcbiAgICAgIH1cbiAgICAgIC5jYXJkLWRlc2NyaXB0aW9uLWNvbnRhaW5lciB7XG4gICAgICAgIHdpZHRoOiAxMDAlO1xuICAgICAgICB0ZXh0LWFsaWduOiBsZWZ0O1xuICAgICAgfVxuICAgICAgcCB7XG4gICAgICAgIGZvbnQtZmFtaWx5OiAke3BhcmFncmFwaC5mb250RmFtaWx5fTtcbiAgICAgICAgZm9udC13ZWlnaHQ6ICR7cGFyYWdyYXBoLmZvbnRXZWlnaHR9O1xuICAgICAgICBmb250LXNpemU6ICR7cGFyYWdyYXBoLmZvbnRTaXplfTtcbiAgICAgIH1cbiAgICAgIC5jYXJkLXJvdyB7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBmbGV4LWVuZDtcbiAgICAgICAgd2lkdGg6IDEwMCU7XG4gICAgICAgIGp1c3RpZnktY29udGVudDogc3BhY2UtYmV0d2VlbjtcbiAgICAgIH1cbiAgICBgfTwvc3R5bGU+XG4gICAgPC8+XG4gICk7XG5cbmV4cG9ydCBkZWZhdWx0IEJsb2dQb3N0Q2FyZDtcbiJdfQ== */\n/*@ sourceURL=/Users/yannic/project/firemind-academy/components/BlogPostCard.tsx */")));
+  }, "h1.__jsx-style-dynamic-selector{font-family:".concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontFamily, ";font-weight:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontWeight, ";font-size:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontSize, ";color:").concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["darkFont"], ";}.card.__jsx-style-dynamic-selector{background-color:white;width:80%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;text-align:center;background:#ffffff;box-shadow:1px 1px 10px rgba(0,0,0,0.25);border-radius:5px;margin-bottom:20px;}.card-wrapper.__jsx-style-dynamic-selector{padding-left:20px;padding-right:20px;paddin-top:10px;padding-bottom:20px;}.card-title-container.__jsx-style-dynamic-selector{width:100%;text-align:left;}.card-description-container.__jsx-style-dynamic-selector{width:100%;text-align:left;}p.__jsx-style-dynamic-selector{font-family:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["paragraph"].fontFamily, ";font-weight:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["paragraph"].fontWeight, ";font-size:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["paragraph"].fontSize, ";}.card-row.__jsx-style-dynamic-selector{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:flex-end;-webkit-box-align:flex-end;-ms-flex-align:flex-end;align-items:flex-end;width:100%;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy95YW5uaWNkdWNrd2l0ei9wcm9qZWN0cy9maXJlbWluZC1hY2FkZW15L2NvbXBvbmVudHMvQmxvZ1Bvc3RDYXJkLnRzeCJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFxQ2tCLEFBR2tELEFBTWxCLEFBYUwsQUFNUCxBQUlBLEFBSThCLEFBSzVCLFdBWkcsQUFJQSxPQVZHLEtBYlQsSUFvQlosQUFJQSxNQXZCZSxJQWFHLElBcEJ5QixBQWlDQSxZQVpyQixvQkFDdEIsQ0FnQnVCLFFBckNrQixBQWlDQSx5QkExQmpCLGNBTmEsQUFpQ3JDLG1DQWhDQSxtQkFvQ2EsVUE5QlEsQ0ErQlcsNEZBOUJaLGtCQUNDLEtBOEJyQixjQTdCOEMseUNBQzFCLGtCQUNDLG1CQUNyQiIsImZpbGUiOiIvVXNlcnMveWFubmljZHVja3dpdHovcHJvamVjdHMvZmlyZW1pbmQtYWNhZGVteS9jb21wb25lbnRzL0Jsb2dQb3N0Q2FyZC50c3giLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBkYXJrRm9udCB9IGZyb20gXCIuLi9ndWlkZWxpbmVzL0NvbG9yc1wiO1xuaW1wb3J0IHsgbmF2YmFyVGl0bGUsIHBhcmFncmFwaCB9IGZyb20gXCIuLi9ndWlkZWxpbmVzL1R5cG9ncmFwaHlcIjtcbmltcG9ydCBCdXR0b24gZnJvbSBcIi4uL2NvbXBvbmVudHMvQnV0dG9uXCI7XG5cbmV4cG9ydCBpbnRlcmZhY2UgSUJsb2dQb3N0Q2FyZFByb3BzIHtcbiAgdGl0bGU6IHN0cmluZztcbiAgZGVzY3JpcHRpb246IHN0cmluZztcbiAgZGF0ZTogc3RyaW5nO1xuICBvblByZXNzZWQ6ICgpID0+IHZvaWQ7XG59XG5cbmNvbnN0IEJsb2dQb3N0Q2FyZCA9ICh7XG4gIHRpdGxlLFxuICBkZXNjcmlwdGlvbixcbiAgZGF0ZSxcbiAgb25QcmVzc2VkXG59OiBJQmxvZ1Bvc3RDYXJkUHJvcHMpID0+IChcbiAgICA8PlxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJjYXJkXCIgb25DbGljaz17b25QcmVzc2VkfT5cbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjYXJkLXdyYXBwZXJcIj5cbiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNhcmQtdGl0bGUtY29udGFpbmVyXCI+XG4gICAgICAgICAgICA8aDE+e3RpdGxlfTwvaDE+XG4gICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjYXJkLWRlc2NyaXB0aW9uLWNvbnRhaW5lclwiPlxuICAgICAgICAgICAgPHA+e2Rlc2NyaXB0aW9ufTwvcD5cbiAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNhcmQtcm93XCI+XG4gICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNhcmQtZGF0ZS1jb250YWluZXJcIj5cbiAgICAgICAgICAgICAgPHA+IHtkYXRlfTwvcD5cbiAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJjYXJkLWJ1dHRvbi1jb250YWluZXJcIj5cbiAgICAgICAgICAgICAgPEJ1dHRvbiBsYWJlbD1cIlJlYWRcIiBvblByZXNzZWQ9eygpID0+IGNvbnNvbGUubG9nKFwidGhpY2shISFcIil9IC8+XG4gICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgPC9kaXY+XG4gICAgICA8L2Rpdj5cblxuICAgICAgPHN0eWxlIGpzeD57YFxuICAgICAgaDEge1xuICAgICAgICBmb250LWZhbWlseTogJHtuYXZiYXJUaXRsZS5mb250RmFtaWx5fTtcbiAgICAgICAgZm9udC13ZWlnaHQ6ICR7bmF2YmFyVGl0bGUuZm9udFdlaWdodH07XG4gICAgICAgIGZvbnQtc2l6ZTogJHtuYXZiYXJUaXRsZS5mb250U2l6ZX07XG4gICAgICAgIGNvbG9yOiAke2RhcmtGb250fTtcbiAgICAgIH1cbiAgICAgIC5jYXJkIHtcbiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogd2hpdGU7XG4gICAgICAgIHdpZHRoOiA4MCU7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgYmFja2dyb3VuZDogI2ZmZmZmZjtcbiAgICAgICAgYm94LXNoYWRvdzogMXB4IDFweCAxMHB4IHJnYmEoMCwgMCwgMCwgMC4yNSk7XG4gICAgICAgIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgICAgICAgbWFyZ2luLWJvdHRvbTogMjBweDtcbiAgICAgIH1cblxuICAgICAgLmNhcmQtd3JhcHBlciB7XG4gICAgICAgIHBhZGRpbmctbGVmdDogMjBweDtcbiAgICAgICAgcGFkZGluZy1yaWdodDogMjBweDtcbiAgICAgICAgcGFkZGluLXRvcDogMTBweDtcbiAgICAgICAgcGFkZGluZy1ib3R0b206IDIwcHg7XG4gICAgICB9XG4gICAgICAuY2FyZC10aXRsZS1jb250YWluZXIge1xuICAgICAgICB3aWR0aDogMTAwJTtcbiAgICAgICAgdGV4dC1hbGlnbjogbGVmdDtcbiAgICAgIH1cbiAgICAgIC5jYXJkLWRlc2NyaXB0aW9uLWNvbnRhaW5lciB7XG4gICAgICAgIHdpZHRoOiAxMDAlO1xuICAgICAgICB0ZXh0LWFsaWduOiBsZWZ0O1xuICAgICAgfVxuICAgICAgcCB7XG4gICAgICAgIGZvbnQtZmFtaWx5OiAke3BhcmFncmFwaC5mb250RmFtaWx5fTtcbiAgICAgICAgZm9udC13ZWlnaHQ6ICR7cGFyYWdyYXBoLmZvbnRXZWlnaHR9O1xuICAgICAgICBmb250LXNpemU6ICR7cGFyYWdyYXBoLmZvbnRTaXplfTtcbiAgICAgIH1cbiAgICAgIC5jYXJkLXJvdyB7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBmbGV4LWVuZDtcbiAgICAgICAgd2lkdGg6IDEwMCU7XG4gICAgICAgIGp1c3RpZnktY29udGVudDogc3BhY2UtYmV0d2VlbjtcbiAgICAgIH1cbiAgICBgfTwvc3R5bGU+XG4gICAgPC8+XG4gICk7XG5cbmV4cG9ydCBkZWZhdWx0IEJsb2dQb3N0Q2FyZDtcbiJdfQ== */\n/*@ sourceURL=/Users/yannicduckwitz/projects/firemind-academy/components/BlogPostCard.tsx */")));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (BlogPostCard);
@@ -135,7 +135,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../guidelines/Colors */ "./guidelines/Colors.ts");
-var _jsxFileName = "/Users/yannic/project/firemind-academy/components/Button.tsx";
+var _jsxFileName = "/Users/yannicduckwitz/projects/firemind-academy/components/Button.tsx";
 
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
@@ -156,7 +156,7 @@ var Button = function Button(_ref) {
     id: "2632553378",
     dynamic: [_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["primary"], _guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["lightFont"], _guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["primaryHighlighted"], _guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["primaryHighlighted"]],
     __self: this
-  }, ".button.__jsx-style-dynamic-selector{background-color:".concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["primary"], ";color:").concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["lightFont"], ";width:141px;height:38px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;text-align:center;font-family:Nunito;font-style:normal;font-weight:bold;font-size:18px;line-height:33px;border-radius:5px;}.button.__jsx-style-dynamic-selector:hover{background-color:").concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["primaryHighlighted"], ";cursor:pointer;}.button.__jsx-style-dynamic-selector:active{background-color:").concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["primaryHighlighted"], ";cursor:pointer;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy95YW5uaWMvcHJvamVjdC9maXJlbWluZC1hY2FkZW15L2NvbXBvbmVudHMvQnV0dG9uLnRzeCJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFhZ0IsQUFHdUQsQUFpQkEsQUFJQSw4Q0FwQlgsQUFpQnBCLEFBSUEsZUFIakIsQUFJQSxvQkFyQmMsWUFDQSxZQUNDLDBFQUNNLDZGQUNJLG1HQUNMLGtCQUVDLG1CQUNELGtCQUNELGlCQUNGLGVBQ0UsaUJBQ0Msa0JBQ3BCIiwiZmlsZSI6Ii9Vc2Vycy95YW5uaWMvcHJvamVjdC9maXJlbWluZC1hY2FkZW15L2NvbXBvbmVudHMvQnV0dG9uLnRzeCIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IHByaW1hcnksIGxpZ2h0Rm9udCwgcHJpbWFyeUhpZ2hsaWdodGVkIH0gZnJvbSBcIi4uL2d1aWRlbGluZXMvQ29sb3JzXCI7XG5pbXBvcnQgeyBuYXZiYXJUaXRsZSB9IGZyb20gXCIuLi9ndWlkZWxpbmVzL1R5cG9ncmFwaHlcIjtcblxuZXhwb3J0IGludGVyZmFjZSBJQnV0dG9uUHJvcHMge1xuICBsYWJlbDogc3RyaW5nO1xuICBvblByZXNzZWQ6ICgpID0+IHZvaWQ7XG59XG5cbmNvbnN0IEJ1dHRvbiA9ICh7IGxhYmVsLCBvblByZXNzZWQgfTogSUJ1dHRvblByb3BzKSA9PiAoXG4gIDw+XG4gICAgPGRpdiBjbGFzc05hbWU9XCJidXR0b25cIiBvbkNsaWNrPXtvblByZXNzZWR9PlxuICAgICAge2xhYmVsfVxuICAgIDwvZGl2PlxuICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgIC5idXR0b24ge1xuICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAke3ByaW1hcnl9O1xuICAgICAgICBjb2xvcjogJHtsaWdodEZvbnR9O1xuICAgICAgICB3aWR0aDogMTQxcHg7XG4gICAgICAgIGhlaWdodDogMzhweDtcbiAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcblxuICAgICAgICBmb250LWZhbWlseTogTnVuaXRvO1xuICAgICAgICBmb250LXN0eWxlOiBub3JtYWw7XG4gICAgICAgIGZvbnQtd2VpZ2h0OiBib2xkO1xuICAgICAgICBmb250LXNpemU6IDE4cHg7XG4gICAgICAgIGxpbmUtaGVpZ2h0OiAzM3B4O1xuICAgICAgICBib3JkZXItcmFkaXVzOiA1cHg7XG4gICAgICB9XG4gICAgICAuYnV0dG9uOmhvdmVyIHtcbiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogJHtwcmltYXJ5SGlnaGxpZ2h0ZWR9O1xuICAgICAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgICB9XG4gICAgICAuYnV0dG9uOmFjdGl2ZSB7XG4gICAgICAgIGJhY2tncm91bmQtY29sb3I6ICR7cHJpbWFyeUhpZ2hsaWdodGVkfTtcbiAgICAgICAgY3Vyc29yOiBwb2ludGVyO1xuICAgICAgfVxuICAgIGB9PC9zdHlsZT5cbiAgPC8+XG4pO1xuXG5leHBvcnQgZGVmYXVsdCBCdXR0b247XG4iXX0= */\n/*@ sourceURL=/Users/yannic/project/firemind-academy/components/Button.tsx */")));
+  }, ".button.__jsx-style-dynamic-selector{background-color:".concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["primary"], ";color:").concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["lightFont"], ";width:141px;height:38px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;text-align:center;font-family:Nunito;font-style:normal;font-weight:bold;font-size:18px;line-height:33px;border-radius:5px;}.button.__jsx-style-dynamic-selector:hover{background-color:").concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["primaryHighlighted"], ";cursor:pointer;}.button.__jsx-style-dynamic-selector:active{background-color:").concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["primaryHighlighted"], ";cursor:pointer;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy95YW5uaWNkdWNrd2l0ei9wcm9qZWN0cy9maXJlbWluZC1hY2FkZW15L2NvbXBvbmVudHMvQnV0dG9uLnRzeCJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFhZ0IsQUFHdUQsQUFpQkEsQUFJQSw4Q0FwQlgsQUFpQnBCLEFBSUEsZUFIakIsQUFJQSxvQkFyQmMsWUFDQSxZQUNDLDBFQUNNLDZGQUNJLG1HQUNMLGtCQUVDLG1CQUNELGtCQUNELGlCQUNGLGVBQ0UsaUJBQ0Msa0JBQ3BCIiwiZmlsZSI6Ii9Vc2Vycy95YW5uaWNkdWNrd2l0ei9wcm9qZWN0cy9maXJlbWluZC1hY2FkZW15L2NvbXBvbmVudHMvQnV0dG9uLnRzeCIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IHByaW1hcnksIGxpZ2h0Rm9udCwgcHJpbWFyeUhpZ2hsaWdodGVkIH0gZnJvbSBcIi4uL2d1aWRlbGluZXMvQ29sb3JzXCI7XG5pbXBvcnQgeyBuYXZiYXJUaXRsZSB9IGZyb20gXCIuLi9ndWlkZWxpbmVzL1R5cG9ncmFwaHlcIjtcblxuZXhwb3J0IGludGVyZmFjZSBJQnV0dG9uUHJvcHMge1xuICBsYWJlbDogc3RyaW5nO1xuICBvblByZXNzZWQ6ICgpID0+IHZvaWQ7XG59XG5cbmNvbnN0IEJ1dHRvbiA9ICh7IGxhYmVsLCBvblByZXNzZWQgfTogSUJ1dHRvblByb3BzKSA9PiAoXG4gIDw+XG4gICAgPGRpdiBjbGFzc05hbWU9XCJidXR0b25cIiBvbkNsaWNrPXtvblByZXNzZWR9PlxuICAgICAge2xhYmVsfVxuICAgIDwvZGl2PlxuICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgIC5idXR0b24ge1xuICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAke3ByaW1hcnl9O1xuICAgICAgICBjb2xvcjogJHtsaWdodEZvbnR9O1xuICAgICAgICB3aWR0aDogMTQxcHg7XG4gICAgICAgIGhlaWdodDogMzhweDtcbiAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcblxuICAgICAgICBmb250LWZhbWlseTogTnVuaXRvO1xuICAgICAgICBmb250LXN0eWxlOiBub3JtYWw7XG4gICAgICAgIGZvbnQtd2VpZ2h0OiBib2xkO1xuICAgICAgICBmb250LXNpemU6IDE4cHg7XG4gICAgICAgIGxpbmUtaGVpZ2h0OiAzM3B4O1xuICAgICAgICBib3JkZXItcmFkaXVzOiA1cHg7XG4gICAgICB9XG4gICAgICAuYnV0dG9uOmhvdmVyIHtcbiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogJHtwcmltYXJ5SGlnaGxpZ2h0ZWR9O1xuICAgICAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgICB9XG4gICAgICAuYnV0dG9uOmFjdGl2ZSB7XG4gICAgICAgIGJhY2tncm91bmQtY29sb3I6ICR7cHJpbWFyeUhpZ2hsaWdodGVkfTtcbiAgICAgICAgY3Vyc29yOiBwb2ludGVyO1xuICAgICAgfVxuICAgIGB9PC9zdHlsZT5cbiAgPC8+XG4pO1xuXG5leHBvcnQgZGVmYXVsdCBCdXR0b247XG4iXX0= */\n/*@ sourceURL=/Users/yannicduckwitz/projects/firemind-academy/components/Button.tsx */")));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Button);
@@ -180,7 +180,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../guidelines/Typography */ "./guidelines/Typography.ts");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_4__);
-var _jsxFileName = "/Users/yannic/project/firemind-academy/components/Navigation.tsx";
+var _jsxFileName = "/Users/yannicduckwitz/projects/firemind-academy/components/Navigation.tsx";
 
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
@@ -225,28 +225,28 @@ var Navigation = function Navigation() {
     className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a.dynamic([["2613064083", [_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["secondary"], _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontFamily, _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontWeight, _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontSize, _guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["lightFont"]]]]) + " " + "navbar-title-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 14
+      lineNumber: 18
     },
     __self: this
   }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_4___default.a, {
     href: "/",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 15
+      lineNumber: 19
     },
     __self: this
   }, __jsx("a", {
     className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a.dynamic([["2613064083", [_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["secondary"], _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontFamily, _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontWeight, _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontSize, _guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["lightFont"]]]]),
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 16
+      lineNumber: 20
     },
     __self: this
   }, "Firemind Academy")))), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
     id: "2613064083",
     dynamic: [_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["secondary"], _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontFamily, _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontWeight, _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontSize, _guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["lightFont"]],
     __self: this
-  }, ".navbar.__jsx-style-dynamic-selector{width:100%;background-color:".concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["secondary"], ";height:80px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}.navbar-logo-container.__jsx-style-dynamic-selector{justify-self:flex-start;width:40%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}.navbar-title-container.__jsx-style-dynamic-selector{justify-self:center;font-family:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontFamily, ";font-weight:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontWeight, ";font-size:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontSize, ";}a.__jsx-style-dynamic-selector{color:").concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["lightFont"], ";-webkit-text-decoration:none;text-decoration:none;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy95YW5uaWMvcHJvamVjdC9maXJlbWluZC1hY2FkZW15L2NvbXBvbmVudHMvTmF2aWdhdGlvbi50c3giXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBb0JnQixBQUdvQixBQU9hLEFBT0osQUFNZSxXQW5CVyxTQWNMLElBUC9CLFVBQ0csQ0FZUSxzQkFuQlQsSUFjNkIsUUFiNUIsZ0JBbUJmLGlCQUx5QyxNQVBwQixpQ0FRckIsRUFkcUIsMERBT0ksbUNBTnpCLGdFQU9BIiwiZmlsZSI6Ii9Vc2Vycy95YW5uaWMvcHJvamVjdC9maXJlbWluZC1hY2FkZW15L2NvbXBvbmVudHMvTmF2aWdhdGlvbi50c3giLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBsaWdodEZvbnQsIHNlY29uZGFyeSB9IGZyb20gXCIuLi9ndWlkZWxpbmVzL0NvbG9yc1wiO1xuaW1wb3J0IHsgbmF2YmFyVGl0bGUgfSBmcm9tIFwiLi4vZ3VpZGVsaW5lcy9UeXBvZ3JhcGh5XCI7XG5pbXBvcnQgTGluayBmcm9tICduZXh0L2xpbmsnXG5cbmNvbnN0IE5hdmlnYXRpb24gPSAoKSA9PiAoXG4gIDw+XG4gICAgPG5hdiBjbGFzc05hbWU9XCJuYXZiYXJcIj5cbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwibmF2YmFyLWxvZ28tY29udGFpbmVyXCI+XG4gICAgICAgIDxMaW5rIGhyZWY9XCIvXCI+XG4gICAgICAgICAgPGltZyBzcmM9XCJodHRwczovL2ZpcmVtaW5kYWNhZGVteS56MTkud2ViLmNvcmUud2luZG93cy5uZXQvaW1nL2xvZ29fYmlnLnBuZ1wiIGFsdD1cImxvZ29cIiBoZWlnaHQ9XCI1MHB4XCIgd2lkdGg9XCI0MHB4XCIgLz5cbiAgICAgICAgPC9MaW5rPlxuXG4gICAgICA8L2Rpdj5cbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwibmF2YmFyLXRpdGxlLWNvbnRhaW5lclwiPlxuICAgICAgICA8TGluayBocmVmPVwiL1wiPlxuICAgICAgICAgIDxhPkZpcmVtaW5kIEFjYWRlbXk8L2E+XG4gICAgICAgIDwvTGluaz5cbiAgICAgIDwvZGl2PlxuXG4gICAgPC9uYXY+XG4gICAgPHN0eWxlIGpzeD57YFxuICAgICAgLm5hdmJhciB7XG4gICAgICAgIHdpZHRoOiAxMDAlO1xuICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAke3NlY29uZGFyeX07XG4gICAgICAgIGhlaWdodDogODBweDtcbiAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgICAgIH1cbiAgICAgIC5uYXZiYXItbG9nby1jb250YWluZXIge1xuICAgICAgICBqdXN0aWZ5LXNlbGY6IGZsZXgtc3RhcnQ7XG4gICAgICAgIHdpZHRoOiA0MCU7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgICAgfVxuICAgICAgLm5hdmJhci10aXRsZS1jb250YWluZXIge1xuICAgICAgICBqdXN0aWZ5LXNlbGY6IGNlbnRlcjtcbiAgICAgICAgZm9udC1mYW1pbHk6ICR7bmF2YmFyVGl0bGUuZm9udEZhbWlseX07XG4gICAgICAgIGZvbnQtd2VpZ2h0OiAke25hdmJhclRpdGxlLmZvbnRXZWlnaHR9O1xuICAgICAgICBmb250LXNpemU6ICR7bmF2YmFyVGl0bGUuZm9udFNpemV9O1xuICAgICAgfVxuICAgICAgYSB7XG4gICAgICAgIGNvbG9yOiAke2xpZ2h0Rm9udH07XG4gICAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTtcbiAgICAgIH1cbiAgICBgfTwvc3R5bGU+XG4gIDwvPlxuKTtcblxuZXhwb3J0IGRlZmF1bHQgTmF2aWdhdGlvbjtcbiJdfQ== */\n/*@ sourceURL=/Users/yannic/project/firemind-academy/components/Navigation.tsx */")));
+  }, ".navbar.__jsx-style-dynamic-selector{width:100%;background-color:".concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["secondary"], ";height:80px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}.navbar-logo-container.__jsx-style-dynamic-selector{justify-self:flex-start;width:40%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}.navbar-title-container.__jsx-style-dynamic-selector{justify-self:center;font-family:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontFamily, ";font-weight:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontWeight, ";font-size:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["navbarTitle"].fontSize, ";}a.__jsx-style-dynamic-selector{color:").concat(_guidelines_Colors__WEBPACK_IMPORTED_MODULE_2__["lightFont"], ";-webkit-text-decoration:none;text-decoration:none;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy95YW5uaWNkdWNrd2l0ei9wcm9qZWN0cy9maXJlbWluZC1hY2FkZW15L2NvbXBvbmVudHMvTmF2aWdhdGlvbi50c3giXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBdUJnQixBQUdvQixBQU9hLEFBT0osQUFNZSxXQW5CVyxTQWNMLElBUC9CLFVBQ0csQ0FZUSxzQkFuQlQsSUFjNkIsUUFiNUIsZ0JBbUJmLGlCQUx5QyxNQVBwQixpQ0FRckIsRUFkcUIsMERBT0ksbUNBTnpCLGdFQU9BIiwiZmlsZSI6Ii9Vc2Vycy95YW5uaWNkdWNrd2l0ei9wcm9qZWN0cy9maXJlbWluZC1hY2FkZW15L2NvbXBvbmVudHMvTmF2aWdhdGlvbi50c3giLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBsaWdodEZvbnQsIHNlY29uZGFyeSB9IGZyb20gXCIuLi9ndWlkZWxpbmVzL0NvbG9yc1wiO1xuaW1wb3J0IHsgbmF2YmFyVGl0bGUgfSBmcm9tIFwiLi4vZ3VpZGVsaW5lcy9UeXBvZ3JhcGh5XCI7XG5pbXBvcnQgTGluayBmcm9tIFwibmV4dC9saW5rXCI7XG5cbmNvbnN0IE5hdmlnYXRpb24gPSAoKSA9PiAoXG4gIDw+XG4gICAgPG5hdiBjbGFzc05hbWU9XCJuYXZiYXJcIj5cbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwibmF2YmFyLWxvZ28tY29udGFpbmVyXCI+XG4gICAgICAgIDxMaW5rIGhyZWY9XCIvXCI+XG4gICAgICAgICAgPGltZ1xuICAgICAgICAgICAgc3JjPVwiaHR0cHM6Ly9maXJlbWluZGFjYWRlbXkuejE5LndlYi5jb3JlLndpbmRvd3MubmV0L2ltZy9sb2dvX2JpZy5wbmdcIlxuICAgICAgICAgICAgYWx0PVwibG9nb1wiXG4gICAgICAgICAgICBoZWlnaHQ9XCI1MHB4XCJcbiAgICAgICAgICAgIHdpZHRoPVwiNDBweFwiXG4gICAgICAgICAgLz5cbiAgICAgICAgPC9MaW5rPlxuICAgICAgPC9kaXY+XG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cIm5hdmJhci10aXRsZS1jb250YWluZXJcIj5cbiAgICAgICAgPExpbmsgaHJlZj1cIi9cIj5cbiAgICAgICAgICA8YT5GaXJlbWluZCBBY2FkZW15PC9hPlxuICAgICAgICA8L0xpbms+XG4gICAgICA8L2Rpdj5cbiAgICA8L25hdj5cbiAgICA8c3R5bGUganN4PntgXG4gICAgICAubmF2YmFyIHtcbiAgICAgICAgd2lkdGg6IDEwMCU7XG4gICAgICAgIGJhY2tncm91bmQtY29sb3I6ICR7c2Vjb25kYXJ5fTtcbiAgICAgICAgaGVpZ2h0OiA4MHB4O1xuICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICBhbGlnbi1pdGVtczogY2VudGVyO1xuICAgICAgfVxuICAgICAgLm5hdmJhci1sb2dvLWNvbnRhaW5lciB7XG4gICAgICAgIGp1c3RpZnktc2VsZjogZmxleC1zdGFydDtcbiAgICAgICAgd2lkdGg6IDQwJTtcbiAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gICAgICB9XG4gICAgICAubmF2YmFyLXRpdGxlLWNvbnRhaW5lciB7XG4gICAgICAgIGp1c3RpZnktc2VsZjogY2VudGVyO1xuICAgICAgICBmb250LWZhbWlseTogJHtuYXZiYXJUaXRsZS5mb250RmFtaWx5fTtcbiAgICAgICAgZm9udC13ZWlnaHQ6ICR7bmF2YmFyVGl0bGUuZm9udFdlaWdodH07XG4gICAgICAgIGZvbnQtc2l6ZTogJHtuYXZiYXJUaXRsZS5mb250U2l6ZX07XG4gICAgICB9XG4gICAgICBhIHtcbiAgICAgICAgY29sb3I6ICR7bGlnaHRGb250fTtcbiAgICAgICAgdGV4dC1kZWNvcmF0aW9uOiBub25lO1xuICAgICAgfVxuICAgIGB9PC9zdHlsZT5cbiAgPC8+XG4pO1xuXG5leHBvcnQgZGVmYXVsdCBOYXZpZ2F0aW9uO1xuIl19 */\n/*@ sourceURL=/Users/yannicduckwitz/projects/firemind-academy/components/Navigation.tsx */")));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Navigation);
@@ -263,34 +263,29 @@ var Navigation = function Navigation() {
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({
-  "id": "2",
-  "urlTitle": "add-weapon-sound-effects-in-unity",
-  "title": "Add Weapon Sound Effects in Unity",
-  "metaDescription": "Want your weapons to acctually make sounds when you shoot in your Unity Game? Here is how you do it.",
-  "metaKeywords": "Sound Effects, Unity Sound, Weapon Sound, Switch, Unity, C#, Tutorial, ",
-  "previewDescription": "Creating a shooting game in Unity, and actually want your guns to make a sound when you shoot?",
-  "videoTitle": "Video Tutorial - Add Weapon Sound Effects in Unity",
-  "youtubeLink": "https://youtu.be/k33qx_JSbtM",
-  "date": "12.02.2019",
-  "elements": [{
-    "type": "title",
-    "data": {
-      "title": "Add Weapon Sound Effects in Unity"
+  id: "2",
+  urlTitle: "add-weapon-sound-effects-in-unity",
+  title: "Add Weapon Sound Effects in Unity",
+  metaDescription: "Want your weapons to acctually make sounds when you shoot in your Unity Game? Here is how you do it.",
+  metaKeywords: "Sound Effects, Unity Sound, Weapon Sound, Switch, Unity, C#, Tutorial, ",
+  previewDescription: "Creating a shooting game in Unity, and actually want your guns to make a sound when you shoot?",
+  videoTitle: "Video Tutorial - Add Weapon Sound Effects in Unity",
+  youtubeLink: "https://youtu.be/k33qx_JSbtM",
+  date: "12.02.2019",
+  elements: [{
+    type: "paragraph",
+    data: {
+      text: "Creating a shooting game in Unity, and actually want your guns to make a sound when you shoot? That's super easy to do. This tutorial shows you how it's done. "
     }
   }, {
-    "type": "paragraph",
-    "data": {
-      "text": "Creating a shooting game in Unity, and actually want your guns to make a sound when you shoot? That's super easy to do. This tutorial shows you how it's done. "
+    type: "subTitle",
+    data: {
+      title: "Video Tutorial - Add Weapon Sound Effects in Unity"
     }
   }, {
-    "type": "subTitle",
-    "data": {
-      "title": "Video Tutorial - Add Weapon Sound Effects in Unity"
-    }
-  }, {
-    "type": "youtubeVideo",
-    "data": {
-      "videoId": "k33qx_JSbtM"
+    type: "youtubeVideo",
+    data: {
+      videoId: "k33qx_JSbtM"
     }
   }]
 });
@@ -307,33 +302,28 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({
-  "urlTitle": "combine-animations-in-unity",
-  "date": "20.12.2018",
-  "title": "Combine Animations in Unity",
-  "metaDescription": "Sometimes a simple animation is not enough for your Unity game. Thats why this tutorial demonstrates how to combine to different animations.",
-  "metaKeywords": "Unity, C#, Tutorial, Animation, Combine Animations",
-  "previewDescription": "When creating your game in the Unity game engine, you will usually want to animate your characters. ",
-  "videoTitle": "Video Tutorial - How to combine animations in Unity",
-  "youtubeLink": "https://youtu.be/PCNxZSeNhA4",
-  "elements": [{
-    "type": "title",
-    "data": {
-      "title": "Combine Animations in Unity"
+  urlTitle: "combine-animations-in-unity",
+  date: "20.12.2018",
+  title: "Combine Animations in Unity",
+  metaDescription: "Sometimes a simple animation is not enough for your Unity game. Thats why this tutorial demonstrates how to combine to different animations.",
+  metaKeywords: "Unity, C#, Tutorial, Animation, Combine Animations",
+  previewDescription: "When creating your game in the Unity game engine, you will usually want to animate your characters. ",
+  videoTitle: "Video Tutorial - How to combine animations in Unity",
+  youtubeLink: "https://youtu.be/PCNxZSeNhA4",
+  elements: [{
+    type: "paragraph",
+    data: {
+      text: "Sometimes a simple animation is not enough for your Unity game. Thats why this tutorial demonstrates how to combine to different animations."
     }
   }, {
-    "type": "paragraph",
-    "data": {
-      "text": "Sometimes a simple animation is not enough for your Unity game. Thats why this tutorial demonstrates how to combine to different animations."
+    type: "gist",
+    data: {
+      url: "454473e53fecca466947d672a61a02ea"
     }
   }, {
-    "type": "gist",
-    "data": {
-      "url": "454473e53fecca466947d672a61a02ea"
-    }
-  }, {
-    "type": "youtubeVideo",
-    "data": {
-      "videoId": "PCNxZSeNhA4"
+    type: "youtubeVideo",
+    data: {
+      videoId: "PCNxZSeNhA4"
     }
   }]
 });
@@ -350,34 +340,29 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({
-  "id": "1",
-  "urlTitle": "create-crosshair-in-unity",
-  "title": "Create Crosshair in Unity",
-  "date": "12.02.2019",
-  "metaDescription": "This Tutorial demonstrates how to create a crosshair for your game in Unity.",
-  "metaKeywords": "Unity, C#, Tutorial. Crosshair",
-  "previewDescription": "When creating a Game in Unity where there is shooting involved you will alomst always want to create a Crosshair, for assisting your Players aiming. ",
-  "videoTitle": "Video Tutorial - Create Crosshair in Unity",
-  "youtubeLink": "https://www.youtube.com/embed/afgJLGKdm0s",
-  "elements": [{
-    "type": "title",
-    "data": {
-      "title": "Create Crosshair in Unity"
+  id: "1",
+  urlTitle: "create-crosshair-in-unity",
+  title: "Create Crosshair in Unity",
+  date: "12.02.2019",
+  metaDescription: "This Tutorial demonstrates how to create a crosshair for your game in Unity.",
+  metaKeywords: "Unity, C#, Tutorial. Crosshair",
+  previewDescription: "When creating a Game in Unity where there is shooting involved you will alomst always want to create a Crosshair, for assisting your Players aiming. ",
+  videoTitle: "Video Tutorial - Create Crosshair in Unity",
+  youtubeLink: "https://www.youtube.com/embed/afgJLGKdm0s",
+  elements: [{
+    type: "paragraph",
+    data: {
+      text: "When creating a Game in Unity where there is shooting involved you will alomst always want to create a Crosshair, for assisting your Players aiming. "
     }
   }, {
-    "type": "paragraph",
-    "data": {
-      "text": "When creating a Game in Unity where there is shooting involved you will alomst always want to create a Crosshair, for assisting your Players aiming. "
+    type: "gist",
+    data: {
+      url: "d3b3f7b71d06e24c3e7478b063f53cd0"
     }
   }, {
-    "type": "gist",
-    "data": {
-      "url": "d3b3f7b71d06e24c3e7478b063f53cd0"
-    }
-  }, {
-    "type": "youtubeVideo",
-    "data": {
-      "videoId": "afgJLGKdm0s"
+    type: "youtubeVideo",
+    data: {
+      videoId: "afgJLGKdm0s"
     }
   }]
 });
@@ -394,28 +379,23 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({
-  "urlTitle": "create-exploding-bullets-in-unity",
-  "title": "Create exploding Bullets in Unity",
-  "metaDescription": "Explosions are fun, thats why this tutorial demonstrates how to create exploding bullets in Unity.",
-  "metaKeywords": "Unity, C#, Tutorial, Shooting Bullets, Explode, Exploding Bullets",
-  "previewDescription": "Let's face it, making stuff explode is fun! That why in this tutorial we are going to take a look at how we can create exploding bullets in Unity.",
-  "videoTitle": "Video Tutorial - Create exploding Bullets in Unity ",
-  "youtubeLink": "https://www.youtube.com/embed/xm_n60eX10Q",
-  "date": "20.12.2018",
-  "elements": [{
-    "type": "title",
-    "data": {
-      "title": "Create exploding Bullets in Unity"
+  urlTitle: "create-exploding-bullets-in-unity",
+  title: "Create exploding Bullets in Unity",
+  metaDescription: "Explosions are fun, thats why this tutorial demonstrates how to create exploding bullets in Unity.",
+  metaKeywords: "Unity, C#, Tutorial, Shooting Bullets, Explode, Exploding Bullets",
+  previewDescription: "Let's face it, making stuff explode is fun! That why in this tutorial we are going to take a look at how we can create exploding bullets in Unity.",
+  videoTitle: "Video Tutorial - Create exploding Bullets in Unity ",
+  youtubeLink: "https://www.youtube.com/embed/xm_n60eX10Q",
+  date: "20.12.2018",
+  elements: [{
+    type: "paragraph",
+    data: {
+      text: "Let's face it, making stuff explode is fun! That why in this tutorial we are going to take a look at how we can create exploding bullets in Unity. The effect is very simple to archive and can be done with just a few lines of code. Here is how: "
     }
   }, {
-    "type": "paragraph",
-    "data": {
-      "text": "Let's face it, making stuff explode is fun! That why in this tutorial we are going to take a look at how we can create exploding bullets in Unity. The effect is very simple to archive and can be done with just a few lines of code. Here is how: "
-    }
-  }, {
-    "type": "youtubeVideo",
-    "data": {
-      "videoId": "xm_n60eX10Q"
+    type: "youtubeVideo",
+    data: {
+      videoId: "xm_n60eX10Q"
     }
   }]
 });
@@ -432,37 +412,32 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({
-  "urlTitle": "create-healthbar-in-3d-space-unity",
-  "title": "Create Healthbar 3D Space in Unity",
-  "metaDescription": "This Tutorial demonstrates how to create a Healthbar in 3D Space for your game in the Unity Game Engine",
-  "metaKeywords": "Unity, C#, Tutorial, Game Engine",
-  "previewDescription": "Whenever you want to add enemies or other players to your Unity game, you may also want to assign them some health. ",
-  "videoTitle": "Video Tutorial - Create Healthbar in 3D Space in Unity",
-  "youtubeLink": "https://www.youtube.com/embed/cyu108WyqP0",
-  "date": "20.12.2018",
-  "gists": [{
-    "title": "LookAtCam.cs",
-    "link": "https://gist.github.com/classicCokie/aa078cbf8a028f5544ba38e8df75fbff.js"
+  urlTitle: "create-healthbar-in-3d-space-unity",
+  title: "Create Healthbar 3D Space in Unity",
+  metaDescription: "This Tutorial demonstrates how to create a Healthbar in 3D Space for your game in the Unity Game Engine",
+  metaKeywords: "Unity, C#, Tutorial, Game Engine",
+  previewDescription: "Whenever you want to add enemies or other players to your Unity game, you may also want to assign them some health. ",
+  videoTitle: "Video Tutorial - Create Healthbar in 3D Space in Unity",
+  youtubeLink: "https://www.youtube.com/embed/cyu108WyqP0",
+  date: "20.12.2018",
+  gists: [{
+    title: "LookAtCam.cs",
+    link: "https://gist.github.com/classicCokie/aa078cbf8a028f5544ba38e8df75fbff.js"
   }],
-  "elements": [{
-    "type": "title",
-    "data": {
-      "title": "Create Healthbar 3D Space in Unity"
+  elements: [{
+    type: "paragraph",
+    data: {
+      text: "Whenever you want to add enemies or other players to your Unity game, you may also want to assign them some health. And there is nothing worse than fighting an enemy, without knowing how much health he got left. Therefore you want to give him a health-bar. This tutorial shows how you can add a health bar in 3D Space, that hovers over your enemies head, and will always face in your direction. Here is how you do it:"
     }
   }, {
-    "type": "paragraph",
-    "data": {
-      "text": "Whenever you want to add enemies or other players to your Unity game, you may also want to assign them some health. And there is nothing worse than fighting an enemy, without knowing how much health he got left. Therefore you want to give him a health-bar. This tutorial shows how you can add a health bar in 3D Space, that hovers over your enemies head, and will always face in your direction. Here is how you do it:"
+    type: "gist",
+    data: {
+      url: "aa078cbf8a028f5544ba38e8df75fbff"
     }
   }, {
-    "type": "gist",
-    "data": {
-      "url": "aa078cbf8a028f5544ba38e8df75fbff"
-    }
-  }, {
-    "type": "youtubeVideo",
-    "data": {
-      "videoId": "cyu108WyqP0"
+    type: "youtubeVideo",
+    data: {
+      videoId: "cyu108WyqP0"
     }
   }]
 });
@@ -479,37 +454,32 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({
-  "urlTitle": "create-healthbar-in-3d-space-unity",
-  "title": "Create Healthbar 3D Space in Unity",
-  "metaDescription": "This Tutorial demonstrates how to create a Healthbar for your game in the Unity Game Engine.",
-  "metaKeywords": "Unity, C#, Tutorial, Game Engine",
-  "previewDescription": "Whenever you want to add enemies or other players to your Unity game, you may also want to assign them some health. ",
-  "videoTitle": "Video Tutorial - Create Healthbar in 3D Space in Unity",
-  "youtubeLink": "https://www.youtube.com/embed/cyu108WyqP0",
-  "date": "20.12.2018",
-  "gists": [{
-    "title": "LookAtCam.cs",
-    "link": "https://gist.github.com/classicCokie/aa078cbf8a028f5544ba38e8df75fbff.js"
+  urlTitle: "create-healthbar-in-3d-space-unity",
+  title: "Create Healthbar 3D Space in Unity",
+  metaDescription: "This Tutorial demonstrates how to create a Healthbar for your game in the Unity Game Engine.",
+  metaKeywords: "Unity, C#, Tutorial, Game Engine",
+  previewDescription: "Whenever you want to add enemies or other players to your Unity game, you may also want to assign them some health. ",
+  videoTitle: "Video Tutorial - Create Healthbar in 3D Space in Unity",
+  youtubeLink: "https://www.youtube.com/embed/cyu108WyqP0",
+  date: "20.12.2018",
+  gists: [{
+    title: "LookAtCam.cs",
+    link: "https://gist.github.com/classicCokie/aa078cbf8a028f5544ba38e8df75fbff.js"
   }],
-  "elements": [{
-    "type": "title",
-    "data": {
-      "title": "Create Healthbar 3D Space in Unity"
+  elements: [{
+    type: "paragraph",
+    data: {
+      text: "Whenever you want to add enemies or other players to your Unity game, you may also want to assign them some health. And there is nothing worse than fighting an enemy, without knowing how much health he got left. Therefore you want to give him a health-bar. This tutorial shows how you can add a health bar in 3D Space, that hovers over your enemies head, and will always face in your direction. Here is how you do it:"
     }
   }, {
-    "type": "paragraph",
-    "data": {
-      "text": "Whenever you want to add enemies or other players to your Unity game, you may also want to assign them some health. And there is nothing worse than fighting an enemy, without knowing how much health he got left. Therefore you want to give him a health-bar. This tutorial shows how you can add a health bar in 3D Space, that hovers over your enemies head, and will always face in your direction. Here is how you do it:"
+    type: "gist",
+    data: {
+      url: "aa078cbf8a028f5544ba38e8df75fbff"
     }
   }, {
-    "type": "gist",
-    "data": {
-      "url": "aa078cbf8a028f5544ba38e8df75fbff"
-    }
-  }, {
-    "type": "youtubeVideo",
-    "data": {
-      "videoId": "cyu108WyqP0"
+    type: "youtubeVideo",
+    data: {
+      videoId: "cyu108WyqP0"
     }
   }]
 });
@@ -526,29 +496,24 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({
-  "urlTitle": "create-prefabs-in-unity",
-  "title": "Create Prefabs in Unity",
-  "metaDescription": "This Tutorial demonstrates a easy way of creating your own prefabs in Unity",
-  "metaKeywords": "Unity, C#, Tutorial, Prefabs, Create Prefabs",
-  "previewDescription": "Sometimes, when you are developing a game in Unity, you just want to create your own prefabs. ",
-  "videoTitle": "Video Tutorial - Create Prefabs in Unity",
-  "youtubeLink": "https://www.youtube.com/embed/xm_n60eX10Q",
-  "date": "20.12.2018",
-  "gists": [],
-  "elements": [{
-    "type": "title",
-    "data": {
-      "title": "Create Prefabs in Unity"
+  urlTitle: "create-prefabs-in-unity",
+  title: "Create Prefabs in Unity",
+  metaDescription: "This Tutorial demonstrates a easy way of creating your own prefabs in Unity",
+  metaKeywords: "Unity, C#, Tutorial, Prefabs, Create Prefabs",
+  previewDescription: "Sometimes, when you are developing a game in Unity, you just want to create your own prefabs. ",
+  videoTitle: "Video Tutorial - Create Prefabs in Unity",
+  youtubeLink: "https://www.youtube.com/embed/xm_n60eX10Q",
+  date: "20.12.2018",
+  gists: [],
+  elements: [{
+    type: "paragraph",
+    data: {
+      text: "Sometimes, when you are developing a game in Unity, you just want to create your own prefabs. This might be because you are building a tank game and your tanks shoot special projectiles. Since you will need those projectiles times and times again, it is generally a good idea to make them a prefab. Prefabs in Unity are very helpful. You can create your custom Game object, and then later duplicate or instantiate it as many times as you wish. Another cool thing about prefabs in Unity: they are super easy to create! Here is how: "
     }
   }, {
-    "type": "paragraph",
-    "data": {
-      "text": "Sometimes, when you are developing a game in Unity, you just want to create your own prefabs. This might be because you are building a tank game and your tanks shoot special projectiles. Since you will need those projectiles times and times again, it is generally a good idea to make them a prefab. Prefabs in Unity are very helpful. You can create your custom Game object, and then later duplicate or instantiate it as many times as you wish. Another cool thing about prefabs in Unity: they are super easy to create! Here is how: "
-    }
-  }, {
-    "type": "youtubeVideo",
-    "data": {
-      "videoId": "xm_n60eX10Q"
+    type: "youtubeVideo",
+    data: {
+      videoId: "xm_n60eX10Q"
     }
   }]
 });
@@ -565,45 +530,40 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({
-  "urlTitle": "create-quick-player-respawn-in-unity",
-  "title": "Create quick player respawn in Unity",
-  "metaDescription": "Quickly Respawn your Player in Unity without reloading the scene. This tutorial shows you how.",
-  "metaKeywords": "Respawn Player, Quick Respawn, Unity, C#, Tutorial",
-  "previewDescription": "When creating a fast paste game in Unity, you may want your player to respawn quickly after he has been killed. ",
-  "videoTitle": "Video Tutorial - Create quick player respawn in Unity",
-  "youtubeLink": "https://youtu.be/McXitMwT4bI",
-  "date": "20.12.2018",
-  "gists": [{
-    "title": "PlayerController.cs",
-    "link": "https://gist.github.com/classicCokie/76f0218e5f7ca3a12a9f47b08b34674c.js"
+  urlTitle: "create-quick-player-respawn-in-unity",
+  title: "Create quick player respawn in Unity",
+  metaDescription: "Quickly Respawn your Player in Unity without reloading the scene. This tutorial shows you how.",
+  metaKeywords: "Respawn Player, Quick Respawn, Unity, C#, Tutorial",
+  previewDescription: "When creating a fast paste game in Unity, you may want your player to respawn quickly after he has been killed. ",
+  videoTitle: "Video Tutorial - Create quick player respawn in Unity",
+  youtubeLink: "https://youtu.be/McXitMwT4bI",
+  date: "20.12.2018",
+  gists: [{
+    title: "PlayerController.cs",
+    link: "https://gist.github.com/classicCokie/76f0218e5f7ca3a12a9f47b08b34674c.js"
   }, {
-    "title": "PlayerManager.cs",
-    "link": "https://gist.github.com/classicCokie/8a5b5236a4bcd1dd2ec24ee14ef35992.js"
+    title: "PlayerManager.cs",
+    link: "https://gist.github.com/classicCokie/8a5b5236a4bcd1dd2ec24ee14ef35992.js"
   }],
-  "elements": [{
-    "type": "title",
-    "data": {
-      "title": "Create quick player respawn in Unity"
+  elements: [{
+    type: "paragraph",
+    data: {
+      text: "When creating a fast paste game in Unity, you may want your player to respawn quickly after he has been killed. To archive this quickly you want to respawn without having to reload the entire scene. This tutorial shows you how to archive that. "
     }
   }, {
-    "type": "paragraph",
-    "data": {
-      "text": "When creating a fast paste game in Unity, you may want your player to respawn quickly after he has been killed. To archive this quickly you want to respawn without having to reload the entire scene. This tutorial shows you how to archive that. "
+    type: "gist",
+    data: {
+      url: "76f0218e5f7ca3a12a9f47b08b34674c"
     }
   }, {
-    "type": "gist",
-    "data": {
-      "url": "76f0218e5f7ca3a12a9f47b08b34674c"
+    type: "gist",
+    data: {
+      url: "8a5b5236a4bcd1dd2ec24ee14ef35992"
     }
   }, {
-    "type": "gist",
-    "data": {
-      "url": "8a5b5236a4bcd1dd2ec24ee14ef35992"
-    }
-  }, {
-    "type": "youtubeVideo",
-    "data": {
-      "videoId": "McXitMwT4bI"
+    type: "youtubeVideo",
+    data: {
+      videoId: "McXitMwT4bI"
     }
   }]
 });
@@ -620,29 +580,24 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({
-  "urlTitle": "disable-readonly-animation-in-unity",
-  "title": "Disable Readonly on Animations in Unity",
-  "metaDescription": "On some of the Animations you get from the Unity Assetstore, there is a Readonly flag, which prevents you from editing the Animation. This tutorial shows you how to remove it.",
-  "metaKeywords": "Unity, C#, Tutorial, Animation, Combine Animations",
-  "previewDescription": "Whenever you download Animations from the Unity Asset Store you might encounter the issue, that the animations have a 'Read Only' flag. ",
-  "videoTitle": "Video Tutorial - Disable Readonly on Animations in Unity ",
-  "youtubeLink": "https://www.youtube.com/embed/xm_n60eX10Q",
-  "date": "20.12.2018",
-  "gists": [],
-  "elements": [{
-    "type": "title",
-    "data": {
-      "title": "Disable Readonly on Animations in Unity"
+  urlTitle: "disable-readonly-animation-in-unity",
+  title: "Disable Readonly on Animations in Unity",
+  metaDescription: "On some of the Animations you get from the Unity Assetstore, there is a Readonly flag, which prevents you from editing the Animation. This tutorial shows you how to remove it.",
+  metaKeywords: "Unity, C#, Tutorial, Animation, Combine Animations",
+  previewDescription: "Whenever you download Animations from the Unity Asset Store you might encounter the issue, that the animations have a 'Read Only' flag. ",
+  videoTitle: "Video Tutorial - Disable Readonly on Animations in Unity ",
+  youtubeLink: "https://www.youtube.com/embed/xm_n60eX10Q",
+  date: "20.12.2018",
+  gists: [],
+  elements: [{
+    type: "paragraph",
+    data: {
+      text: "Whenever you download Animations from the Unity Asset Store you might encounter the issue, that the animations have a 'Read Only' flag. Which will prevent you from making changes to that animation and attaching events.  This tutorial demonstrates how to remove the Read-only flag from the animation in Unity. Here is how:"
     }
   }, {
-    "type": "paragraph",
-    "data": {
-      "text": "Whenever you download Animations from the Unity Asset Store you might encounter the issue, that the animations have a 'Read Only' flag. Which will prevent you from making changes to that animation and attaching events.  This tutorial demonstrates how to remove the Read-only flag from the animation in Unity. Here is how:"
-    }
-  }, {
-    "type": "youtubeVideo",
-    "data": {
-      "videoId": "xm_n60eX10Q"
+    type: "youtubeVideo",
+    data: {
+      videoId: "xm_n60eX10Q"
     }
   }]
 });
@@ -659,37 +614,32 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({
-  "urlTitle": "first-person-double-jump-in-unity",
-  "title": "First Person Double Jump in Unity",
-  "metaDescription": "Creating a first peron Double Jump in Unity is easy to archive. This tutorial shows how.",
-  "metaKeywords": "Unity, C#, Tutorial, Shooting Projectiles",
-  "previewDescription": "When creating a game with some advanced movements, you may want to implement a Double Jump for your player. ",
-  "videoTitle": "Video Tutorial - First Person Double Jump",
-  "youtubeLink": "https://youtu.be/2gwJyBS_Vfs",
-  "date": "20.12.2018",
-  "gists": [{
-    "title": "RigidbodyFirstPersonController.cs",
-    "link": "https://gist.github.com/classicCokie/173ac57abfdf2c315514e1d7d9b339aa.js"
+  urlTitle: "first-person-double-jump-in-unity",
+  title: "First Person Double Jump in Unity",
+  metaDescription: "Creating a first peron Double Jump in Unity is easy to archive. This tutorial shows how.",
+  metaKeywords: "Unity, C#, Tutorial, Shooting Projectiles",
+  previewDescription: "When creating a game with some advanced movements, you may want to implement a Double Jump for your player. ",
+  videoTitle: "Video Tutorial - First Person Double Jump",
+  youtubeLink: "https://youtu.be/2gwJyBS_Vfs",
+  date: "20.12.2018",
+  gists: [{
+    title: "RigidbodyFirstPersonController.cs",
+    link: "https://gist.github.com/classicCokie/173ac57abfdf2c315514e1d7d9b339aa.js"
   }],
-  "elements": [{
-    "type": "title",
-    "data": {
-      "title": "First Person Double Jump in Unity"
+  elements: [{
+    type: "paragraph",
+    data: {
+      text: "When creating a game with some advanced movements, you may want to implement a Double Jump for your player. This tutorial demonstrates how you can archive that with just a few lines of Code. Here is how:"
     }
   }, {
-    "type": "paragraph",
-    "data": {
-      "text": "When creating a game with some advanced movements, you may want to implement a Double Jump for your player. This tutorial demonstrates how you can archive that with just a few lines of Code. Here is how:"
+    type: "gist",
+    data: {
+      url: "173ac57abfdf2c315514e1d7d9b339aa"
     }
   }, {
-    "type": "gist",
-    "data": {
-      "url": "173ac57abfdf2c315514e1d7d9b339aa"
-    }
-  }, {
-    "type": "youtubeVideo",
-    "data": {
-      "videoId": "2gwJyBS_Vfs"
+    type: "youtubeVideo",
+    data: {
+      videoId: "2gwJyBS_Vfs"
     }
   }]
 });
@@ -706,37 +656,32 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({
-  "urlTitle": "how-to-animate-weapons-in-unity",
-  "title": "How to animate Weapons in Unity",
-  "metaDescription": "When building a shooting game in Unity, you usually will want to apply some animations to your weapons. This tutorial demonstrates how to do that.",
-  "metaKeywords": "Weapon Animation, Animation, Unity, C#, Tutorial, ",
-  "previewDescription": "Looking to animate your weapons for your new shooting game in Unity? ",
-  "videoTitle": "Video Tutorial - Weapon Animation in Unity",
-  "youtubeLink": "https://youtu.be/1rv8lv_TOc8",
-  "date": "20.12.2018",
-  "gists": [{
-    "title": "GunController.cs",
-    "link": "https://gist.github.com/classicCokie/bc11da256472c1ab3b32bf1e8bd03064.js"
+  urlTitle: "how-to-animate-weapons-in-unity",
+  title: "How to animate Weapons in Unity",
+  metaDescription: "When building a shooting game in Unity, you usually will want to apply some animations to your weapons. This tutorial demonstrates how to do that.",
+  metaKeywords: "Weapon Animation, Animation, Unity, C#, Tutorial, ",
+  previewDescription: "Looking to animate your weapons for your new shooting game in Unity? ",
+  videoTitle: "Video Tutorial - Weapon Animation in Unity",
+  youtubeLink: "https://youtu.be/1rv8lv_TOc8",
+  date: "20.12.2018",
+  gists: [{
+    title: "GunController.cs",
+    link: "https://gist.github.com/classicCokie/bc11da256472c1ab3b32bf1e8bd03064.js"
   }],
-  "elements": [{
-    "type": "title",
-    "data": {
-      "title": "How to animate Weapons in Unity"
+  elements: [{
+    type: "paragraph",
+    data: {
+      text: "Looking to animate your weapons for your new shooting game in Unity? Look no further. Animating Weapons in Unity is a fairly simple task. Here is how you do it:"
     }
   }, {
-    "type": "paragraph",
-    "data": {
-      "text": "Looking to animate your weapons for your new shooting game in Unity? Look no further. Animating Weapons in Unity is a fairly simple task. Here is how you do it:"
+    type: "gist",
+    data: {
+      url: "bc11da256472c1ab3b32bf1e8bd03064"
     }
   }, {
-    "type": "gist",
-    "data": {
-      "url": "bc11da256472c1ab3b32bf1e8bd03064"
-    }
-  }, {
-    "type": "youtubeVideo",
-    "data": {
-      "videoId": "1rv8lv_TOc8"
+    type: "youtubeVideo",
+    data: {
+      videoId: "1rv8lv_TOc8"
     }
   }]
 });
@@ -753,32 +698,27 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({
-  "urlTitle": "how-to-dodge-in-unity",
-  "title": "How make your Player Dodge in Unity",
-  "metaDescription": "Want to add a dodge movement to your player movement system? Here is how you do it.",
-  "metaKeywords": "Dodge, Unity Movement, Unity Dodge, Switch, Unity, C#, Tutorial, ",
-  "previewDescription": "Want to create an advanced Movement System for your game in Unity.",
-  "videoTitle": "Video Tutorial - How to Doge in Unity",
-  "youtubeLink": "https://youtu.be/pRzb9qi8a8Q",
-  "date": "20.12.2018",
-  "gists": [{
-    "title": "RigidbodyFirstPersonController.cs",
-    "link": "https://gist.github.com/classicCokie/27bc95cd806475a9f7d843d92cf9dc03.js"
+  urlTitle: "how-to-dodge-in-unity",
+  title: "How make your Player Dodge in Unity",
+  metaDescription: "Want to add a dodge movement to your player movement system? Here is how you do it.",
+  metaKeywords: "Dodge, Unity Movement, Unity Dodge, Switch, Unity, C#, Tutorial, ",
+  previewDescription: "Want to create an advanced Movement System for your game in Unity.",
+  videoTitle: "Video Tutorial - How to Doge in Unity",
+  youtubeLink: "https://youtu.be/pRzb9qi8a8Q",
+  date: "20.12.2018",
+  gists: [{
+    title: "RigidbodyFirstPersonController.cs",
+    link: "https://gist.github.com/classicCokie/27bc95cd806475a9f7d843d92cf9dc03.js"
   }],
-  "elements": [{
-    "type": "title",
-    "data": {
-      "title": "How make your Player Dodge in Unity"
+  elements: [{
+    type: "paragraph",
+    data: {
+      text: "Want to create an advanced Movement System for your game in Unity. You may want to include a dodge move, to make your player move from side to side faster. This tutorial shows how to archive it."
     }
   }, {
-    "type": "paragraph",
-    "data": {
-      "text": "Want to create an advanced Movement System for your game in Unity. You may want to include a dodge move, to make your player move from side to side faster. This tutorial shows how to archive it."
-    }
-  }, {
-    "type": "youtubeVideo",
-    "data": {
-      "videoId": "pRzb9qi8a8Q"
+    type: "youtubeVideo",
+    data: {
+      videoId: "pRzb9qi8a8Q"
     }
   }]
 });
@@ -795,45 +735,40 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({
-  "urlTitle": "how-to-shoot-lasers-in-unity",
-  "title": "How to Shoot Lasers in Unity",
-  "metaDescription": "Looking how to shoot Lasers in the Unity Game Engine in Star Wars Style? Look no further!",
-  "metaKeywords": "Unity, C#, Tutorial, Lasers, Shooting",
-  "previewDescription": "Want to shoot Lasers in your Unity Game like in Star Wars? No Problem! ",
-  "videoTitle": "Video Tutorial - How to Shoot Lasers in Unity ",
-  "youtubeLink": "https://www.youtube.com/watch?v=Yl9MhhoBkFU",
-  "date": "20.12.2018",
-  "gists": [{
-    "title": "ShotBehavior.cs",
-    "link": "https://gist.github.com/classicCokie/f8c0a23d781385e4621cb1c9dc73571b.js"
+  urlTitle: "how-to-shoot-lasers-in-unity",
+  title: "How to Shoot Lasers in Unity",
+  metaDescription: "Looking how to shoot Lasers in the Unity Game Engine in Star Wars Style? Look no further!",
+  metaKeywords: "Unity, C#, Tutorial, Lasers, Shooting",
+  previewDescription: "Want to shoot Lasers in your Unity Game like in Star Wars? No Problem! ",
+  videoTitle: "Video Tutorial - How to Shoot Lasers in Unity ",
+  youtubeLink: "https://www.youtube.com/watch?v=Yl9MhhoBkFU",
+  date: "20.12.2018",
+  gists: [{
+    title: "ShotBehavior.cs",
+    link: "https://gist.github.com/classicCokie/f8c0a23d781385e4621cb1c9dc73571b.js"
   }, {
-    "title": "RayGun.cs",
-    "link": "https://gist.github.com/classicCokie/2bba12edb9f480be2251ef4c2bcf721b.js"
+    title: "RayGun.cs",
+    link: "https://gist.github.com/classicCokie/2bba12edb9f480be2251ef4c2bcf721b.js"
   }],
-  "elements": [{
-    "type": "title",
-    "data": {
-      "title": "How to Shoot Lasers in Unity"
+  elements: [{
+    type: "paragraph",
+    data: {
+      text: "Want to shoot Lasers in your Unity Game like in Star Wars? No Problem! Creating a Laser Effect in Unity is luckily pretty easy to do. And the best is, it's completely free. Here is how you do it:"
     }
   }, {
-    "type": "paragraph",
-    "data": {
-      "text": "Want to shoot Lasers in your Unity Game like in Star Wars? No Problem! Creating a Laser Effect in Unity is luckily pretty easy to do. And the best is, it's completely free. Here is how you do it:"
+    type: "gist",
+    data: {
+      url: "f8c0a23d781385e4621cb1c9dc73571b"
     }
   }, {
-    "type": "gist",
-    "data": {
-      "url": "f8c0a23d781385e4621cb1c9dc73571b"
+    type: "gist",
+    data: {
+      url: "2bba12edb9f480be2251ef4c2bcf721b"
     }
   }, {
-    "type": "gist",
-    "data": {
-      "url": "2bba12edb9f480be2251ef4c2bcf721b"
-    }
-  }, {
-    "type": "youtubeVideo",
-    "data": {
-      "videoId": "Yl9MhhoBkFU"
+    type: "youtubeVideo",
+    data: {
+      videoId: "Yl9MhhoBkFU"
     }
   }]
 });
@@ -850,45 +785,40 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({
-  "urlTitle": "how-to-spawn-enemies-in-unity",
-  "title": "How to spawn Enemies in Unity",
-  "metaDescription": "Spawn enmies randomly on Spawn points in your Unity game. This tutorial shows you how its done.",
-  "metaKeywords": "Spwan Enemies Unity, Unity Enemies, Random Spawn, C#, Tutorial",
-  "previewDescription": "When building a Unity game with multiple Enemies, you may get to the position where you want to spawn the Enemies randomly on predefined Spawn Points. ",
-  "videoTitle": "Video Tutorial - How to Spawn Enemies",
-  "youtubeLink": "https://youtu.be/NWNH9XRtuIc",
-  "date": "20.12.2018",
-  "gists": [{
-    "title": "EnemyController.cs",
-    "link": "https://gist.github.com/classicCokie/186d9699cd4888e2aaba36bef114fc2b.js"
+  urlTitle: "how-to-spawn-enemies-in-unity",
+  title: "How to spawn Enemies in Unity",
+  metaDescription: "Spawn enmies randomly on Spawn points in your Unity game. This tutorial shows you how its done.",
+  metaKeywords: "Spwan Enemies Unity, Unity Enemies, Random Spawn, C#, Tutorial",
+  previewDescription: "When building a Unity game with multiple Enemies, you may get to the position where you want to spawn the Enemies randomly on predefined Spawn Points. ",
+  videoTitle: "Video Tutorial - How to Spawn Enemies",
+  youtubeLink: "https://youtu.be/NWNH9XRtuIc",
+  date: "20.12.2018",
+  gists: [{
+    title: "EnemyController.cs",
+    link: "https://gist.github.com/classicCokie/186d9699cd4888e2aaba36bef114fc2b.js"
   }, {
-    "title": "EnemyManager.cs",
-    "link": "https://gist.github.com/classicCokie/9ab1d0015ae8802d79f8b98489b4a2b9.js"
+    title: "EnemyManager.cs",
+    link: "https://gist.github.com/classicCokie/9ab1d0015ae8802d79f8b98489b4a2b9.js"
   }],
-  "elements": [{
-    "type": "title",
-    "data": {
-      "title": "How to spawn Enemies in Unity"
+  elements: [{
+    type: "paragraph",
+    data: {
+      text: "When building a Unity game with multiple Enemies, you may get to the position where you want to spawn the Enemies randomly on predefined Spawn Points. This tutorial shows you how to archive that."
     }
   }, {
-    "type": "paragraph",
-    "data": {
-      "text": "When building a Unity game with multiple Enemies, you may get to the position where you want to spawn the Enemies randomly on predefined Spawn Points. This tutorial shows you how to archive that."
+    type: "gist",
+    data: {
+      url: "186d9699cd4888e2aaba36bef114fc2b"
     }
   }, {
-    "type": "gist",
-    "data": {
-      "url": "186d9699cd4888e2aaba36bef114fc2b"
+    type: "gist",
+    data: {
+      url: "9ab1d0015ae8802d79f8b98489b4a2b9"
     }
   }, {
-    "type": "gist",
-    "data": {
-      "url": "9ab1d0015ae8802d79f8b98489b4a2b9"
-    }
-  }, {
-    "type": "youtubeVideo",
-    "data": {
-      "videoId": "NWNH9XRtuIc"
+    type: "youtubeVideo",
+    data: {
+      videoId: "NWNH9XRtuIc"
     }
   }]
 });
@@ -905,29 +835,24 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({
-  "urlTitle": "disable-readonly-animation-in-unity",
-  "title": "Improve your Coding with one simple Tip",
-  "metaDescription": "Looking for a way to improve you coding fast? Use this one simple tip to improve your coding drastically in less than a day.",
-  "metaKeywords": "Coding, Best Practise, Functions, Naming Conventions",
-  "previewDescription": "When you start to learn code, it can be quite intimidating. There seem to be a million different ways to do things, with hundreds of different languages. Programming Communities lead by some evangelist leaders who prise their way as the only right way to do things.",
-  "videoTitle": "Video Tutorial - Improve your Coding with one simple Tip ",
-  "youtubeLink": "https://www.youtube.com/embed/xm_n60eX10Q",
-  "date": "20.12.2018",
-  "gists": [],
-  "elements": [{
-    "type": "title",
-    "data": {
-      "title": "Improve your Coding with one simple Tip"
+  urlTitle: "disable-readonly-animation-in-unity",
+  title: "Improve your Coding with one simple Tip",
+  metaDescription: "Looking for a way to improve you coding fast? Use this one simple tip to improve your coding drastically in less than a day.",
+  metaKeywords: "Coding, Best Practise, Functions, Naming Conventions",
+  previewDescription: "When you start to learn code, it can be quite intimidating. There seem to be a million different ways to do things, with hundreds of different languages. Programming Communities lead by some evangelist leaders who prise their way as the only right way to do things.",
+  videoTitle: "Video Tutorial - Improve your Coding with one simple Tip ",
+  youtubeLink: "https://www.youtube.com/embed/xm_n60eX10Q",
+  date: "20.12.2018",
+  gists: [],
+  elements: [{
+    type: "paragraph",
+    data: {
+      text: "When you start to learn code, it can be quite intimidating. There seem to be a million different ways to do things, with hundreds of different languages. Programming Communities lead by some evangelist leaders who prise their way as the only right way to do things. However, there a quite a few simple rules that you can adopt which, translate to every programming language or framework.  Here is one simple tip that can improve your coding by a tenfold:"
     }
   }, {
-    "type": "paragraph",
-    "data": {
-      "text": "When you start to learn code, it can be quite intimidating. There seem to be a million different ways to do things, with hundreds of different languages. Programming Communities lead by some evangelist leaders who prise their way as the only right way to do things. However, there a quite a few simple rules that you can adopt which, translate to every programming language or framework.  Here is one simple tip that can improve your coding by a tenfold:"
-    }
-  }, {
-    "type": "youtubeVideo",
-    "data": {
-      "videoId": "xm_n60eX10Q"
+    type: "youtubeVideo",
+    data: {
+      videoId: "xm_n60eX10Q"
     }
   }]
 });
@@ -997,37 +922,32 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({
-  "urlTitle": "make-player-look-at-object-in-unity",
-  "title": "Make Player look at Object in Unity",
-  "metaDescription": "This tutorial demonstrates how you can make your Character always try to face a defined Object.",
-  "metaKeywords": "Unity, C#, Tutorial, Objects, Looking",
-  "previewDescription": "Whether you want your player just to focus on a certain enemy. Or if you want your player to consistently look at a certain Object, there is quite a simple way to archive that effect in Unity, and here is how:",
-  "videoTitle": "Video Tutorial - Make Player look at Object in Unity",
-  "youtubeLink": "https://www.youtube.com/embed/xm_n60eX10Q",
-  "date": "20.12.2018",
-  "gists": [{
-    "title": "HeadController.cs",
-    "link": "https://gist.github.com/classicCokie/c81a2f1f1630653f9270fc0383b216d4.js"
+  urlTitle: "make-player-look-at-object-in-unity",
+  title: "Make Player look at Object in Unity",
+  metaDescription: "This tutorial demonstrates how you can make your Character always try to face a defined Object.",
+  metaKeywords: "Unity, C#, Tutorial, Objects, Looking",
+  previewDescription: "Whether you want your player just to focus on a certain enemy. Or if you want your player to consistently look at a certain Object, there is quite a simple way to archive that effect in Unity, and here is how:",
+  videoTitle: "Video Tutorial - Make Player look at Object in Unity",
+  youtubeLink: "https://www.youtube.com/embed/xm_n60eX10Q",
+  date: "20.12.2018",
+  gists: [{
+    title: "HeadController.cs",
+    link: "https://gist.github.com/classicCokie/c81a2f1f1630653f9270fc0383b216d4.js"
   }],
-  "elements": [{
-    "type": "title",
-    "data": {
-      "title": "Make Player look at Object in Unity"
+  elements: [{
+    type: "paragraph",
+    data: {
+      text: "Whether you want your player just to focus on a certain enemy. Or if you want your player to consistently look at a certain Object, there is quite a simple way to archive that effect in Unity, and here is how:"
     }
   }, {
-    "type": "paragraph",
-    "data": {
-      "text": "Whether you want your player just to focus on a certain enemy. Or if you want your player to consistently look at a certain Object, there is quite a simple way to archive that effect in Unity, and here is how:"
+    type: "gist",
+    data: {
+      url: "c81a2f1f1630653f9270fc0383b216d4"
     }
   }, {
-    "type": "gist",
-    "data": {
-      "url": "c81a2f1f1630653f9270fc0383b216d4"
-    }
-  }, {
-    "type": "youtubeVideo",
-    "data": {
-      "videoId": "xm_n60eX10Q"
+    type: "youtubeVideo",
+    data: {
+      videoId: "xm_n60eX10Q"
     }
   }]
 });
@@ -1044,45 +964,40 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({
-  "urlTitle": "ragdoll-death-enemy-in-unity",
-  "title": "Kill enemies in Unity using Ragdolls",
-  "metaDescription": "Make your enemies death physics based using Ragdolls in Unity. This tutorial shows you how to turn your enemie into a ragdoll when he dies. ",
-  "metaKeywords": "Ragdoll, Unity Ragdoll, Death Ragdoll, Enemy Death Ragdoll, C#, Tutorial, ",
-  "previewDescription": "When you kill your enemies in your game, you may realize that applying a dying animation, may look silly in many situations. That's why you should probably try out turning your enemy into a ragdoll once he dies. That way his dead body can behave according to physics rather than animations. This tutorial shows you how to do that. ",
-  "videoTitle": "Video Tutorial - Kill enemies in Unity using Ragdolls",
-  "youtubeLink": "https://youtu.be/zjuI5Jdzjxo",
-  "date": "20.12.2018",
-  "gists": [{
-    "title": "EnemyController.cs",
-    "link": "https://gist.github.com/classicCokie/fce62ea5f0553144501ad52e1b32075e.js"
+  urlTitle: "ragdoll-death-enemy-in-unity",
+  title: "Kill enemies in Unity using Ragdolls",
+  metaDescription: "Make your enemies death physics based using Ragdolls in Unity. This tutorial shows you how to turn your enemie into a ragdoll when he dies. ",
+  metaKeywords: "Ragdoll, Unity Ragdoll, Death Ragdoll, Enemy Death Ragdoll, C#, Tutorial, ",
+  previewDescription: "When you kill your enemies in your game, you may realize that applying a dying animation, may look silly in many situations. That's why you should probably try out turning your enemy into a ragdoll once he dies. That way his dead body can behave according to physics rather than animations. This tutorial shows you how to do that. ",
+  videoTitle: "Video Tutorial - Kill enemies in Unity using Ragdolls",
+  youtubeLink: "https://youtu.be/zjuI5Jdzjxo",
+  date: "20.12.2018",
+  gists: [{
+    title: "EnemyController.cs",
+    link: "https://gist.github.com/classicCokie/fce62ea5f0553144501ad52e1b32075e.js"
   }, {
-    "title": "Calling the Enemy Die function via Raycast",
-    "link": "https://gist.github.com/classicCokie/02fa01f8681755394d7988c9d4be86ab.js"
+    title: "Calling the Enemy Die function via Raycast",
+    link: "https://gist.github.com/classicCokie/02fa01f8681755394d7988c9d4be86ab.js"
   }],
-  "elements": [{
-    "type": "title",
-    "data": {
-      "title": "Kill enemies in Unity using Ragdolls"
+  elements: [{
+    type: "paragraph",
+    data: {
+      text: "When you kill your enemies in your game, you may realize that applying a dying animation, may look silly in many situations. That's why you should probably try out turning your enemy into a ragdoll once he dies. That way his dead body can behave according to physics rather than animations. This tutorial shows you how to do that. "
     }
   }, {
-    "type": "paragraph",
-    "data": {
-      "text": "When you kill your enemies in your game, you may realize that applying a dying animation, may look silly in many situations. That's why you should probably try out turning your enemy into a ragdoll once he dies. That way his dead body can behave according to physics rather than animations. This tutorial shows you how to do that. "
+    type: "gist",
+    data: {
+      url: "fce62ea5f0553144501ad52e1b32075e"
     }
   }, {
-    "type": "gist",
-    "data": {
-      "url": "fce62ea5f0553144501ad52e1b32075e"
+    type: "gist",
+    data: {
+      url: "02fa01f8681755394d7988c9d4be86ab"
     }
   }, {
-    "type": "gist",
-    "data": {
-      "url": "02fa01f8681755394d7988c9d4be86ab"
-    }
-  }, {
-    "type": "youtubeVideo",
-    "data": {
-      "videoId": "zjuI5Jdzjxo"
+    type: "youtubeVideo",
+    data: {
+      videoId: "zjuI5Jdzjxo"
     }
   }]
 });
@@ -1099,45 +1014,40 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({
-  "urlTitle": "shoot-projectiles-in-unity",
-  "title": "Shoot Projectiles in Unity",
-  "metaDescription": "Shooting Projectiles in Unity is quite simple. This tutorial demonstrates how you can start shooting Projectiles in Unity.",
-  "metaKeywords": "Unity, C#, Tutorial, Shooting Projectiles",
-  "previewDescription": "Whenever you create a shooting game in Unity, you generally have two options on how to go about it. You either instantiate prefabs as projectiles or you use Raycasting. In this tutorial, we take a closer look at how to shoot using projectiles. The basic process of creating shootable Projectiles is pretty simple in Unity, and here is how you do it:",
-  "videoTitle": "Video Tutorial - Shoot Projectiles in Unity",
-  "youtubeLink": "https://www.youtube.com/embed/xm_n60eX10Q",
-  "date": "20.12.2018",
-  "gists": [{
-    "title": "ShootingController.cs",
-    "link": "https://gist.github.com/classicCokie/3d9a4d5347dacaa59654b335cd6f9f2b.js"
+  urlTitle: "shoot-projectiles-in-unity",
+  title: "Shoot Projectiles in Unity",
+  metaDescription: "Shooting Projectiles in Unity is quite simple. This tutorial demonstrates how you can start shooting Projectiles in Unity.",
+  metaKeywords: "Unity, C#, Tutorial, Shooting Projectiles",
+  previewDescription: "Whenever you create a shooting game in Unity, you generally have two options on how to go about it. You either instantiate prefabs as projectiles or you use Raycasting. In this tutorial, we take a closer look at how to shoot using projectiles. The basic process of creating shootable Projectiles is pretty simple in Unity, and here is how you do it:",
+  videoTitle: "Video Tutorial - Shoot Projectiles in Unity",
+  youtubeLink: "https://www.youtube.com/embed/xm_n60eX10Q",
+  date: "20.12.2018",
+  gists: [{
+    title: "ShootingController.cs",
+    link: "https://gist.github.com/classicCokie/3d9a4d5347dacaa59654b335cd6f9f2b.js"
   }, {
-    "title": "ProjectileController.cs",
-    "link": "https://gist.github.com/classicCokie/45e4fb5208b725bcdb81682653b2b542.js"
+    title: "ProjectileController.cs",
+    link: "https://gist.github.com/classicCokie/45e4fb5208b725bcdb81682653b2b542.js"
   }],
-  "elements": [{
-    "type": "title",
-    "data": {
-      "title": "Shoot Projectiles in Unity"
+  elements: [{
+    type: "paragraph",
+    data: {
+      text: "Whenever you create a shooting game in Unity, you generally have two options on how to go about it. You either instantiate prefabs as projectiles or you use Raycasting. In this tutorial, we take a closer look at how to shoot using projectiles. The basic process of creating shootable Projectiles is pretty simple in Unity, and here is how you do it:"
     }
   }, {
-    "type": "paragraph",
-    "data": {
-      "text": "Whenever you create a shooting game in Unity, you generally have two options on how to go about it. You either instantiate prefabs as projectiles or you use Raycasting. In this tutorial, we take a closer look at how to shoot using projectiles. The basic process of creating shootable Projectiles is pretty simple in Unity, and here is how you do it:"
+    type: "gist",
+    data: {
+      url: "3d9a4d5347dacaa59654b335cd6f9f2b"
     }
   }, {
-    "type": "gist",
-    "data": {
-      "url": "3d9a4d5347dacaa59654b335cd6f9f2b"
+    type: "gist",
+    data: {
+      url: "45e4fb5208b725bcdb81682653b2b542"
     }
   }, {
-    "type": "gist",
-    "data": {
-      "url": "45e4fb5208b725bcdb81682653b2b542"
-    }
-  }, {
-    "type": "youtubeVideo",
-    "data": {
-      "videoId": "xm_n60eX10Q"
+    type: "youtubeVideo",
+    data: {
+      videoId: "xm_n60eX10Q"
     }
   }]
 });
@@ -1154,37 +1064,32 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({
-  "urlTitle": "simple-weapon-switching-in-unity",
-  "title": "Simple Weapon Switching in Unity",
-  "metaDescription": "Want to know how to switch between to your two Primary weapons in the Unity Game Engine? This tutorial demonstrates how to do it.",
-  "metaKeywords": "Weapon Switching, Switch, Unity, C#, Tutorial, ",
-  "previewDescription": "You want to use two primary Weapons in your Unity game and need an easy way to switch between the two? Here is how you do it:",
-  "videoTitle": "Video Tutorial - Simple Weapon Switching in Unity",
-  "youtubeLink": "https://youtu.be/9mN8bwCaWLA",
-  "date": "20.12.2018",
-  "gists": [{
-    "title": "WeaponSwitcher.cs",
-    "link": "https://gist.github.com/classicCokie/6ba8413a4209ced591ac147b4ee4481b.js"
+  urlTitle: "simple-weapon-switching-in-unity",
+  title: "Simple Weapon Switching in Unity",
+  metaDescription: "Want to know how to switch between to your two Primary weapons in the Unity Game Engine? This tutorial demonstrates how to do it.",
+  metaKeywords: "Weapon Switching, Switch, Unity, C#, Tutorial, ",
+  previewDescription: "You want to use two primary Weapons in your Unity game and need an easy way to switch between the two? Here is how you do it:",
+  videoTitle: "Video Tutorial - Simple Weapon Switching in Unity",
+  youtubeLink: "https://youtu.be/9mN8bwCaWLA",
+  date: "20.12.2018",
+  gists: [{
+    title: "WeaponSwitcher.cs",
+    link: "https://gist.github.com/classicCokie/6ba8413a4209ced591ac147b4ee4481b.js"
   }],
-  "elements": [{
-    "type": "title",
-    "data": {
-      "title": "Simple Weapon Switching in Unity"
+  elements: [{
+    type: "paragraph",
+    data: {
+      text: "You want to use two primary Weapons in your Unity game and need an easy way to switch between the two? Here is how you do it:"
     }
   }, {
-    "type": "paragraph",
-    "data": {
-      "text": "You want to use two primary Weapons in your Unity game and need an easy way to switch between the two? Here is how you do it:"
+    type: "gist",
+    data: {
+      url: "6ba8413a4209ced591ac147b4ee4481b"
     }
   }, {
-    "type": "gist",
-    "data": {
-      "url": "6ba8413a4209ced591ac147b4ee4481b"
-    }
-  }, {
-    "type": "youtubeVideo",
-    "data": {
-      "videoId": "9mN8bwCaWLA"
+    type: "youtubeVideo",
+    data: {
+      videoId: "9mN8bwCaWLA"
     }
   }]
 });
@@ -1201,37 +1106,32 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({
-  "urlTitle": "third-person-double-jump-in-unity",
-  "title": "Third Person Double Jump in Unity",
-  "metaDescription": "Creating a game using the third person controller and want to be able to double jump. Here is how you do it.",
-  "metaKeywords": "Thirdperson Double Jump Unity, Double Jump, third person Conroller Standard Assets, C#, Tutorial, ",
-  "previewDescription": "When creating a game using the third person controller from the Unity Standard Assets, you may want to advance the movement system of your character. This tutorial shows you how you can implement a double jump on the third person controller from the standard assets.",
-  "videoTitle": "Video Tutorial - Third Person Double Jump in Unity",
-  "youtubeLink": "https://youtu.be/HfyiJesjXIo",
-  "date": "20.12.2018",
-  "gists": [{
-    "title": "ThirdPersonCharacter.cs",
-    "link": "https://gist.github.com/classicCokie/98e70c888c4a86114ecb7fe8ede64ad0.js"
+  urlTitle: "third-person-double-jump-in-unity",
+  title: "Third Person Double Jump in Unity",
+  metaDescription: "Creating a game using the third person controller and want to be able to double jump. Here is how you do it.",
+  metaKeywords: "Thirdperson Double Jump Unity, Double Jump, third person Conroller Standard Assets, C#, Tutorial, ",
+  previewDescription: "When creating a game using the third person controller from the Unity Standard Assets, you may want to advance the movement system of your character. This tutorial shows you how you can implement a double jump on the third person controller from the standard assets.",
+  videoTitle: "Video Tutorial - Third Person Double Jump in Unity",
+  youtubeLink: "https://youtu.be/HfyiJesjXIo",
+  date: "20.12.2018",
+  gists: [{
+    title: "ThirdPersonCharacter.cs",
+    link: "https://gist.github.com/classicCokie/98e70c888c4a86114ecb7fe8ede64ad0.js"
   }],
-  "elements": [{
-    "type": "title",
-    "data": {
-      "title": "Third Person Double Jump in Unity"
+  elements: [{
+    type: "paragraph",
+    data: {
+      text: "When creating a game using the third person controller from the Unity Standard Assets, you may want to advance the movement system of your character. This tutorial shows you how you can implement a double jump on the third person controller from the standard assets."
     }
   }, {
-    "type": "paragraph",
-    "data": {
-      "text": "When creating a game using the third person controller from the Unity Standard Assets, you may want to advance the movement system of your character. This tutorial shows you how you can implement a double jump on the third person controller from the standard assets."
+    type: "gist",
+    data: {
+      url: "98e70c888c4a86114ecb7fe8ede64ad0"
     }
   }, {
-    "type": "gist",
-    "data": {
-      "url": "98e70c888c4a86114ecb7fe8ede64ad0"
-    }
-  }, {
-    "type": "youtubeVideo",
-    "data": {
-      "videoId": "HfyiJesjXIo"
+    type: "youtubeVideo",
+    data: {
+      videoId: "HfyiJesjXIo"
     }
   }]
 });
@@ -1242,21 +1142,23 @@ __webpack_require__.r(__webpack_exports__);
 /*!******************************!*\
   !*** ./guidelines/Colors.ts ***!
   \******************************/
-/*! exports provided: lightFont, darkFont, primary, primaryHighlighted, secondary */
+/*! exports provided: lightFont, darkFont, grey, primary, primaryHighlighted, secondary */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "lightFont", function() { return lightFont; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "darkFont", function() { return darkFont; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "grey", function() { return grey; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "primary", function() { return primary; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "primaryHighlighted", function() { return primaryHighlighted; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "secondary", function() { return secondary; });
 var lightFont = "#FFFFFF";
 var darkFont = "#000000";
+var grey = "#666";
 var primary = "#DE2727";
 var primaryHighlighted = "#C22121";
-var secondary = "black";
+var secondary = "#282c34";
 
 /***/ }),
 
@@ -1264,7 +1166,7 @@ var secondary = "black";
 /*!**********************************!*\
   !*** ./guidelines/Typography.ts ***!
   \**********************************/
-/*! exports provided: navbarTitle, paragraph, blogParagraphText, h1, h3 */
+/*! exports provided: navbarTitle, paragraph, blogParagraphText, h1, h3, smallBold, small */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -1274,10 +1176,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "blogParagraphText", function() { return blogParagraphText; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "h1", function() { return h1; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "h3", function() { return h3; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "smallBold", function() { return smallBold; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "small", function() { return small; });
 var navbarTitle = {
-  fontFamily: "'Lato', sans-serif",
-  fontWeight: "900",
-  fontSize: "30px"
+  fontFamily: "'Roboto', sans-serif",
+  fontWeight: "300",
+  fontSize: "25px"
 };
 var paragraph = {
   fontFamily: "'Nunito', sans-serif",
@@ -1306,6 +1210,16 @@ var h3 = {
   fontFamily: "'Lato', sans-serif",
   fontWeight: "900",
   fontSize: "20px"
+};
+var smallBold = {
+  fontFamily: "'Lato', sans-serif",
+  fontWeight: "900",
+  fontSize: "20px"
+};
+var small = {
+  fontFamily: "'Lato', sans-serif",
+  fontWeight: "200",
+  fontSize: "10px"
 };
 
 /***/ }),
@@ -6076,12 +5990,12 @@ module.exports = bind.call(Function.call, Object.prototype.hasOwnProperty);
 
 /***/ "./node_modules/next/dist/build/polyfills/object-assign.js":
 /*!***********************************************************************************************************************!*\
-  !*** delegated ./node_modules/next/dist/build/polyfills/object-assign.js from dll-reference dll_ef0ff7c60362f24a921f ***!
+  !*** delegated ./node_modules/next/dist/build/polyfills/object-assign.js from dll-reference dll_0fb095e325d7ebf261c3 ***!
   \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_ef0ff7c60362f24a921f */ "dll-reference dll_ef0ff7c60362f24a921f"))("./node_modules/next/dist/build/polyfills/object-assign.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_0fb095e325d7ebf261c3 */ "dll-reference dll_0fb095e325d7ebf261c3"))("./node_modules/next/dist/build/polyfills/object-assign.js");
 
 /***/ }),
 
@@ -6097,10 +6011,10 @@ var assign=Object.assign.bind(Object);function g(){return assign;}Object.defineP
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fyannic%2Fproject%2Ffiremind-academy%2Fpages%2Findex.tsx!./":
-/*!*******************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fyannic%2Fproject%2Ffiremind-academy%2Fpages%2Findex.tsx ***!
-  \*******************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fyannicduckwitz%2Fprojects%2Ffiremind-academy%2Fpages%2Findex.tsx!./":
+/*!****************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fyannicduckwitz%2Fprojects%2Ffiremind-academy%2Fpages%2Findex.tsx ***!
+  \****************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6241,9 +6155,7 @@ var listenToIntersections = function listenToIntersections(el, cb) {
   };
 };
 
-var Link =
-/*#__PURE__*/
-function (_react$Component) {
+var Link = /*#__PURE__*/function (_react$Component) {
   _inherits(Link, _react$Component);
 
   function Link(props) {
@@ -7233,9 +7145,7 @@ function fetchNextData(pathname, query, isServerRender, cb) {
   });
 }
 
-var Router =
-/*#__PURE__*/
-function () {
+var Router = /*#__PURE__*/function () {
   function Router(pathname, query, as, _ref) {
     var _this = this;
 
@@ -7850,7 +7760,7 @@ function () {
               return _context.stop();
           }
         }
-      }, null, this);
+      }, null, this, null, _Promise);
     }
   }, {
     key: "_getData",
@@ -8094,9 +8004,7 @@ exports["default"] = function () {
     }
   }
 
-  return (
-    /*#__PURE__*/
-    function (_react_1$Component) {
+  return (/*#__PURE__*/function (_react_1$Component) {
       _inherits(_class, _react_1$Component);
 
       _createClass(_class, null, [{
@@ -8165,6 +8073,8 @@ exports["default"] = function () {
 
 "use strict";
 
+
+var _Promise = __webpack_require__(/*! @babel/runtime-corejs2/core-js/promise */ "./node_modules/@babel/runtime-corejs2/core-js/promise.js");
 
 var _regeneratorRuntime = __webpack_require__(/*! @babel/runtime-corejs2/regenerator */ "./node_modules/@babel/runtime-corejs2/regenerator/index.js");
 
@@ -8314,7 +8224,7 @@ function loadGetInitialProps(App, ctx) {
           return _context.stop();
       }
     }
-  });
+  }, null, null, null, _Promise);
 }
 
 exports.loadGetInitialProps = loadGetInitialProps;
@@ -9169,12 +9079,12 @@ module.exports = exports['default'];
 
 /***/ "./node_modules/prop-types/checkPropTypes.js":
 /*!*********************************************************************************************************!*\
-  !*** delegated ./node_modules/prop-types/checkPropTypes.js from dll-reference dll_ef0ff7c60362f24a921f ***!
+  !*** delegated ./node_modules/prop-types/checkPropTypes.js from dll-reference dll_0fb095e325d7ebf261c3 ***!
   \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_ef0ff7c60362f24a921f */ "dll-reference dll_ef0ff7c60362f24a921f"))("./node_modules/prop-types/checkPropTypes.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_0fb095e325d7ebf261c3 */ "dll-reference dll_0fb095e325d7ebf261c3"))("./node_modules/prop-types/checkPropTypes.js");
 
 /***/ }),
 
@@ -9809,12 +9719,12 @@ if (true) {
 
 /***/ "./node_modules/prop-types/lib/ReactPropTypesSecret.js":
 /*!*******************************************************************************************************************!*\
-  !*** delegated ./node_modules/prop-types/lib/ReactPropTypesSecret.js from dll-reference dll_ef0ff7c60362f24a921f ***!
+  !*** delegated ./node_modules/prop-types/lib/ReactPropTypesSecret.js from dll-reference dll_0fb095e325d7ebf261c3 ***!
   \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_ef0ff7c60362f24a921f */ "dll-reference dll_ef0ff7c60362f24a921f"))("./node_modules/prop-types/lib/ReactPropTypesSecret.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_0fb095e325d7ebf261c3 */ "dll-reference dll_0fb095e325d7ebf261c3"))("./node_modules/prop-types/lib/ReactPropTypesSecret.js");
 
 /***/ }),
 
@@ -10285,12 +10195,12 @@ if (false) {} else {
 
 /***/ "./node_modules/react/index.js":
 /*!*******************************************************************************************!*\
-  !*** delegated ./node_modules/react/index.js from dll-reference dll_ef0ff7c60362f24a921f ***!
+  !*** delegated ./node_modules/react/index.js from dll-reference dll_0fb095e325d7ebf261c3 ***!
   \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_ef0ff7c60362f24a921f */ "dll-reference dll_ef0ff7c60362f24a921f"))("./node_modules/react/index.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_0fb095e325d7ebf261c3 */ "dll-reference dll_0fb095e325d7ebf261c3"))("./node_modules/react/index.js");
 
 /***/ }),
 
@@ -10433,7 +10343,7 @@ var runtime = (function (exports) {
     return { __await: arg };
   };
 
-  function AsyncIterator(generator) {
+  function AsyncIterator(generator, PromiseImpl) {
     function invoke(method, arg, resolve, reject) {
       var record = tryCatch(generator[method], generator, arg);
       if (record.type === "throw") {
@@ -10444,14 +10354,14 @@ var runtime = (function (exports) {
         if (value &&
             typeof value === "object" &&
             hasOwn.call(value, "__await")) {
-          return Promise.resolve(value.__await).then(function(value) {
+          return PromiseImpl.resolve(value.__await).then(function(value) {
             invoke("next", value, resolve, reject);
           }, function(err) {
             invoke("throw", err, resolve, reject);
           });
         }
 
-        return Promise.resolve(value).then(function(unwrapped) {
+        return PromiseImpl.resolve(value).then(function(unwrapped) {
           // When a yielded Promise is resolved, its final value becomes
           // the .value of the Promise<{value,done}> result for the
           // current iteration.
@@ -10469,7 +10379,7 @@ var runtime = (function (exports) {
 
     function enqueue(method, arg) {
       function callInvokeWithMethodAndArg() {
-        return new Promise(function(resolve, reject) {
+        return new PromiseImpl(function(resolve, reject) {
           invoke(method, arg, resolve, reject);
         });
       }
@@ -10509,9 +10419,12 @@ var runtime = (function (exports) {
   // Note that simple async functions are implemented on top of
   // AsyncIterator objects; they just return a Promise for the value of
   // the final result produced by the iterator.
-  exports.async = function(innerFn, outerFn, self, tryLocsList) {
+  exports.async = function(innerFn, outerFn, self, tryLocsList, PromiseImpl) {
+    if (PromiseImpl === void 0) PromiseImpl = Promise;
+
     var iter = new AsyncIterator(
-      wrap(innerFn, outerFn, self, tryLocsList)
+      wrap(innerFn, outerFn, self, tryLocsList),
+      PromiseImpl
     );
 
     return exports.isGeneratorFunction(outerFn)
@@ -12581,7 +12494,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _data_posts__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../data/posts */ "./data/posts/index.ts");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! next/head */ "./node_modules/next/dist/next-server/lib/head.js");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_7__);
-var _jsxFileName = "/Users/yannic/project/firemind-academy/pages/index.tsx";
+var _jsxFileName = "/Users/yannicduckwitz/projects/firemind-academy/pages/index.tsx";
 
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
@@ -12723,35 +12636,35 @@ var BlogPostOverview = function BlogPostOverview() {
     id: "3492002634",
     dynamic: [_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["paragraph"].fontFamily, _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["paragraph"].fontWeight, _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["paragraph"].fontSize, _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["h1"].fontFamily, _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["h1"].fontWeight, _guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["h1"].fontSize],
     __self: this
-  }, ".body-container.__jsx-style-dynamic-selector{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:100%;background-color:#f7f8fb;}.blog-post-container.__jsx-style-dynamic-selector{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:space-around;-webkit-justify-content:space-around;-ms-flex-pack:space-around;justify-content:space-around;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:100%;max-width:768px;padding-top:20px;}a.__jsx-style-dynamic-selector{color:inherit;-webkit-text-decoration:none;text-decoration:none;}.input-container.__jsx-style-dynamic-selector{width:80%;height:100px;}input.__jsx-style-dynamic-selector{width:98%;height:40px;border-radius:5px;font-size:20px;padding-left:10px;border:1px solid #cdc7c7;max-width:768px;}label.__jsx-style-dynamic-selector{font-family:".concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["paragraph"].fontFamily, ";font-weight:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["paragraph"].fontWeight, ";font-size:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["paragraph"].fontSize, ";}h1.__jsx-style-dynamic-selector{font-family:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["h1"].fontFamily, ";font-weight:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["h1"].fontWeight, ";font-size:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["h1"].fontSize, ";}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy95YW5uaWMvcHJvamVjdC9maXJlbWluZC1hY2FkZW15L3BhZ2VzL2luZGV4LnRzeCJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFpRGtCLEFBR3dCLEFBUUEsQUFTQyxBQUlKLEFBSUEsQUFTK0IsQUFLQSxVQWpCNUIsQUFJRCxJQVJTLFFBU0gsQ0FKcEIsaUJBS2lCLENBTzBCLEFBS0EsY0FYdkIsU0FWcEIsU0FXMkIsQ0E3Qk4sQUFRRyxRQTJCaUIsQUFLQSxnQkFWdkIsZ0JBQ2xCLE9BS0EsQUFLQSxzQkF4Q3lCLFNBUU0sMEZBUFYsaUNBUUEsNERBUFIsV0FDYyxzQkFPZCxHQU5iLFFBT2tCLGdCQUNDLGlCQUNuQiIsImZpbGUiOiIvVXNlcnMveWFubmljL3Byb2plY3QvZmlyZW1pbmQtYWNhZGVteS9wYWdlcy9pbmRleC50c3giLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgTmF2aWdhdGlvbiBmcm9tIFwiLi4vY29tcG9uZW50cy9OYXZpZ2F0aW9uXCI7XG5pbXBvcnQgeyBoMSwgcGFyYWdyYXBoIH0gZnJvbSBcIi4uL2d1aWRlbGluZXMvVHlwb2dyYXBoeVwiO1xuaW1wb3J0IEJsb2dQb3N0Q2FyZCBmcm9tIFwiLi4vY29tcG9uZW50cy9CbG9nUG9zdENhcmRcIjtcbmltcG9ydCB7IHVzZVJvdXRlciB9IGZyb20gXCJuZXh0L3JvdXRlclwiO1xuaW1wb3J0IGJsb2dQb3N0cyBmcm9tIFwiLi4vZGF0YS9wb3N0c1wiO1xuaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tIFwicmVhY3RcIjtcbmltcG9ydCBIZWFkIGZyb20gXCJuZXh0L2hlYWRcIjtcblxuXG5jb25zdCBCbG9nUG9zdE92ZXJ2aWV3ID0gKCkgPT4ge1xuICBjb25zdCByb3V0ZXIgPSB1c2VSb3V0ZXIoKTtcblxuICBjb25zdCBbZmlsdGVyVmFsdWUsIHNldEZpbHRlclZhbHVlXSA9IHVzZVN0YXRlKFwiXCIpO1xuXG5cbiAgcmV0dXJuIChcbiAgICA8ZGl2PlxuICAgICAgPEhlYWQ+XG4gICAgICAgIDx0aXRsZT4gRmlyZW1pbmQgQWNhZGVteSA8L3RpdGxlPlxuICAgICAgICA8c3R5bGU+e2Bib2R5IHttYXJnaW46IDAgIWltcG9ydGFudDt9YH08L3N0eWxlPlxuICAgICAgICAvLyBAdHMtaWdub3JlXG4gICAgICAgIDxtZXRhIGNoYXJzZXQ9XCJVVEYtOFwiIC8+XG4gICAgICAgIDxtZXRhIG5hbWU9XCJkZXNjcmlwdGlvblwiIGNvbnRlbnQ9XCJUZWNoIFR1dG9yaWFscyBtYWRlIGVhenkuIFRyeWluZyB0byB1bmRlcnN0YW5kIFRlY2ggc3R1ZmY/IFRoaXMgaXMgeW91ciBwbGFjZSB0byBnby5cIj48L21ldGE+XG4gICAgICAgIDxtZXRhIG5hbWU9XCJrZXl3b3Jkc1wiIGNvbnRlbnQ9XCJGaXJlbWluZCBUZWNoIFR1dG9yaWFscyBFYXN5XCI+PC9tZXRhPlxuICAgICAgPC9IZWFkPlxuICAgICAgPE5hdmlnYXRpb24gLz5cbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwiYm9keS1jb250YWluZXJcIj5cbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJibG9nLXBvc3QtY29udGFpbmVyXCI+XG4gICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJpbnB1dC1jb250YWluZXJcIj5cbiAgICAgICAgICAgIDxsYWJlbCBodG1sRm9yPVwic2VhcmNoLXR1dG9yaWFsc1wiPlNlYXJjaCBUdXRvcmlhbHNcbiAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT1cInRleHRcIiBuYW1lPVwic2VhcmNoLXR1dG9yaWFsc1wiIG9uQ2hhbmdlPXsoZXZlbnQpID0+IHNldEZpbHRlclZhbHVlKGV2ZW50LnRhcmdldC52YWx1ZSl9IHBsYWNlaG9sZGVyPVwiU2VhcmNoXCIgLz5cbiAgICAgICAgICAgIDwvbGFiZWw+XG4gICAgICAgICAgPC9kaXY+XG5cbiAgICAgICAgICB7YmxvZ1Bvc3RzLm1hcCgocG9zdDogYW55LCBpbmRleCkgPT4ge1xuICAgICAgICAgICAgaWYgKHBvc3QucHJldmlld0Rlc2NyaXB0aW9uPy50b0xvd2VyQ2FzZSgpLmluY2x1ZGVzKGZpbHRlclZhbHVlLnRvTG93ZXJDYXNlKCkpIHx8IHBvc3QudGl0bGU/LnRvTG93ZXJDYXNlKCkuaW5jbHVkZXMoZmlsdGVyVmFsdWUudG9Mb3dlckNhc2UoKSkpIHtcbiAgICAgICAgICAgICAgcmV0dXJuICg8QmxvZ1Bvc3RDYXJkXG4gICAgICAgICAgICAgICAga2V5PXtpbmRleH1cbiAgICAgICAgICAgICAgICB0aXRsZT17cG9zdC50aXRsZX1cbiAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbj17cG9zdC5wcmV2aWV3RGVzY3JpcHRpb259XG4gICAgICAgICAgICAgICAgZGF0ZT17cG9zdC5kYXRlfVxuICAgICAgICAgICAgICAgIG9uUHJlc3NlZD17KCkgPT4gcm91dGVyLnB1c2goYC9wLyR7cG9zdC51cmxUaXRsZX1gKX1cbiAgICAgICAgICAgICAgLz4pXG4gICAgICAgICAgICB9XG4gICAgICAgICAgfVxuICAgICAgICAgICl9XG4gICAgICAgIDwvZGl2PlxuICAgICAgPC9kaXY+XG5cbiAgICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgICAgLmJvZHktY29udGFpbmVyIHtcbiAgICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICAgIGZsZXgtZGlyZWN0aW9uOiByb3c7XG4gICAgICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gICAgICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgICAgICAgICB3aWR0aDogMTAwJTtcbiAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjZjdmOGZiO1xuICAgICAgICB9XG4gICAgICAgIC5ibG9nLXBvc3QtY29udGFpbmVyIHtcbiAgICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICAgIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG4gICAgICAgICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1hcm91bmQ7XG4gICAgICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgICAgICAgICB3aWR0aDogMTAwJTtcbiAgICAgICAgICBtYXgtd2lkdGg6IDc2OHB4O1xuICAgICAgICAgIHBhZGRpbmctdG9wOiAyMHB4O1xuICAgICAgICB9XG4gICAgICAgIGEge1xuICAgICAgICAgIGNvbG9yOiBpbmhlcml0O1xuICAgICAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTtcbiAgICAgICAgfVxuICAgICAgICAuaW5wdXQtY29udGFpbmVyIHtcbiAgICAgICAgICB3aWR0aDogODAlO1xuICAgICAgICAgIGhlaWdodDogMTAwcHg7XG4gICAgICAgIH1cbiAgICAgICAgaW5wdXQge1xuICAgICAgICAgIHdpZHRoOiA5OCU7XG4gICAgICAgICAgaGVpZ2h0OiA0MHB4O1xuICAgICAgICAgIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgICAgICAgICBmb250LXNpemU6IDIwcHg7XG4gICAgICAgICAgcGFkZGluZy1sZWZ0OiAxMHB4O1xuICAgICAgICAgIGJvcmRlcjogMXB4IHNvbGlkICNjZGM3Yzc7XG4gICAgICAgICAgbWF4LXdpZHRoOiA3NjhweDtcbiAgICAgICAgfVxuICAgICAgICBsYWJlbCB7XG4gICAgICAgICAgZm9udC1mYW1pbHk6ICR7cGFyYWdyYXBoLmZvbnRGYW1pbHl9O1xuICAgICAgICAgIGZvbnQtd2VpZ2h0OiAke3BhcmFncmFwaC5mb250V2VpZ2h0fTtcbiAgICAgICAgICBmb250LXNpemU6ICR7cGFyYWdyYXBoLmZvbnRTaXplfTtcbiAgICAgICAgfVxuICAgICAgICBoMSB7XG4gICAgICAgICAgZm9udC1mYW1pbHk6ICR7aDEuZm9udEZhbWlseX07XG4gICAgICAgICAgZm9udC13ZWlnaHQ6ICR7aDEuZm9udFdlaWdodH07XG4gICAgICAgICAgZm9udC1zaXplOiAke2gxLmZvbnRTaXplfTtcbiAgICAgICAgfVxuICAgICAgYH08L3N0eWxlPlxuICAgIDwvZGl2PlxuICApO1xufTtcblxuZXhwb3J0IGRlZmF1bHQgQmxvZ1Bvc3RPdmVydmlldztcbiJdfQ== */\n/*@ sourceURL=/Users/yannic/project/firemind-academy/pages/index.tsx */")));
+  }, ".body-container.__jsx-style-dynamic-selector{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:100%;background-color:#f7f8fb;}.blog-post-container.__jsx-style-dynamic-selector{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:space-around;-webkit-justify-content:space-around;-ms-flex-pack:space-around;justify-content:space-around;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:100%;max-width:768px;padding-top:20px;}a.__jsx-style-dynamic-selector{color:inherit;-webkit-text-decoration:none;text-decoration:none;}.input-container.__jsx-style-dynamic-selector{width:80%;height:100px;}input.__jsx-style-dynamic-selector{width:98%;height:40px;border-radius:5px;font-size:20px;padding-left:10px;border:1px solid #cdc7c7;max-width:768px;}label.__jsx-style-dynamic-selector{font-family:".concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["paragraph"].fontFamily, ";font-weight:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["paragraph"].fontWeight, ";font-size:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["paragraph"].fontSize, ";}h1.__jsx-style-dynamic-selector{font-family:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["h1"].fontFamily, ";font-weight:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["h1"].fontWeight, ";font-size:").concat(_guidelines_Typography__WEBPACK_IMPORTED_MODULE_3__["h1"].fontSize, ";}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy95YW5uaWNkdWNrd2l0ei9wcm9qZWN0cy9maXJlbWluZC1hY2FkZW15L3BhZ2VzL2luZGV4LnRzeCJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFpRGtCLEFBR3dCLEFBUUEsQUFTQyxBQUlKLEFBSUEsQUFTK0IsQUFLQSxVQWpCNUIsQUFJRCxJQVJTLFFBU0gsQ0FKcEIsaUJBS2lCLENBTzBCLEFBS0EsY0FYdkIsU0FWcEIsU0FXMkIsQ0E3Qk4sQUFRRyxRQTJCaUIsQUFLQSxnQkFWdkIsZ0JBQ2xCLE9BS0EsQUFLQSxzQkF4Q3lCLFNBUU0sMEZBUFYsaUNBUUEsNERBUFIsV0FDYyxzQkFPZCxHQU5iLFFBT2tCLGdCQUNDLGlCQUNuQiIsImZpbGUiOiIvVXNlcnMveWFubmljZHVja3dpdHovcHJvamVjdHMvZmlyZW1pbmQtYWNhZGVteS9wYWdlcy9pbmRleC50c3giLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgTmF2aWdhdGlvbiBmcm9tIFwiLi4vY29tcG9uZW50cy9OYXZpZ2F0aW9uXCI7XG5pbXBvcnQgeyBoMSwgcGFyYWdyYXBoIH0gZnJvbSBcIi4uL2d1aWRlbGluZXMvVHlwb2dyYXBoeVwiO1xuaW1wb3J0IEJsb2dQb3N0Q2FyZCBmcm9tIFwiLi4vY29tcG9uZW50cy9CbG9nUG9zdENhcmRcIjtcbmltcG9ydCB7IHVzZVJvdXRlciB9IGZyb20gXCJuZXh0L3JvdXRlclwiO1xuaW1wb3J0IGJsb2dQb3N0cyBmcm9tIFwiLi4vZGF0YS9wb3N0c1wiO1xuaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tIFwicmVhY3RcIjtcbmltcG9ydCBIZWFkIGZyb20gXCJuZXh0L2hlYWRcIjtcblxuXG5jb25zdCBCbG9nUG9zdE92ZXJ2aWV3ID0gKCkgPT4ge1xuICBjb25zdCByb3V0ZXIgPSB1c2VSb3V0ZXIoKTtcblxuICBjb25zdCBbZmlsdGVyVmFsdWUsIHNldEZpbHRlclZhbHVlXSA9IHVzZVN0YXRlKFwiXCIpO1xuXG5cbiAgcmV0dXJuIChcbiAgICA8ZGl2PlxuICAgICAgPEhlYWQ+XG4gICAgICAgIDx0aXRsZT4gRmlyZW1pbmQgQWNhZGVteSA8L3RpdGxlPlxuICAgICAgICA8c3R5bGU+e2Bib2R5IHttYXJnaW46IDAgIWltcG9ydGFudDt9YH08L3N0eWxlPlxuICAgICAgICAvLyBAdHMtaWdub3JlXG4gICAgICAgIDxtZXRhIGNoYXJzZXQ9XCJVVEYtOFwiIC8+XG4gICAgICAgIDxtZXRhIG5hbWU9XCJkZXNjcmlwdGlvblwiIGNvbnRlbnQ9XCJUZWNoIFR1dG9yaWFscyBtYWRlIGVhenkuIFRyeWluZyB0byB1bmRlcnN0YW5kIFRlY2ggc3R1ZmY/IFRoaXMgaXMgeW91ciBwbGFjZSB0byBnby5cIj48L21ldGE+XG4gICAgICAgIDxtZXRhIG5hbWU9XCJrZXl3b3Jkc1wiIGNvbnRlbnQ9XCJGaXJlbWluZCBUZWNoIFR1dG9yaWFscyBFYXN5XCI+PC9tZXRhPlxuICAgICAgPC9IZWFkPlxuICAgICAgPE5hdmlnYXRpb24gLz5cbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwiYm9keS1jb250YWluZXJcIj5cbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJibG9nLXBvc3QtY29udGFpbmVyXCI+XG4gICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJpbnB1dC1jb250YWluZXJcIj5cbiAgICAgICAgICAgIDxsYWJlbCBodG1sRm9yPVwic2VhcmNoLXR1dG9yaWFsc1wiPlNlYXJjaCBUdXRvcmlhbHNcbiAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT1cInRleHRcIiBuYW1lPVwic2VhcmNoLXR1dG9yaWFsc1wiIG9uQ2hhbmdlPXsoZXZlbnQpID0+IHNldEZpbHRlclZhbHVlKGV2ZW50LnRhcmdldC52YWx1ZSl9IHBsYWNlaG9sZGVyPVwiU2VhcmNoXCIgLz5cbiAgICAgICAgICAgIDwvbGFiZWw+XG4gICAgICAgICAgPC9kaXY+XG5cbiAgICAgICAgICB7YmxvZ1Bvc3RzLm1hcCgocG9zdDogYW55LCBpbmRleCkgPT4ge1xuICAgICAgICAgICAgaWYgKHBvc3QucHJldmlld0Rlc2NyaXB0aW9uPy50b0xvd2VyQ2FzZSgpLmluY2x1ZGVzKGZpbHRlclZhbHVlLnRvTG93ZXJDYXNlKCkpIHx8IHBvc3QudGl0bGU/LnRvTG93ZXJDYXNlKCkuaW5jbHVkZXMoZmlsdGVyVmFsdWUudG9Mb3dlckNhc2UoKSkpIHtcbiAgICAgICAgICAgICAgcmV0dXJuICg8QmxvZ1Bvc3RDYXJkXG4gICAgICAgICAgICAgICAga2V5PXtpbmRleH1cbiAgICAgICAgICAgICAgICB0aXRsZT17cG9zdC50aXRsZX1cbiAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbj17cG9zdC5wcmV2aWV3RGVzY3JpcHRpb259XG4gICAgICAgICAgICAgICAgZGF0ZT17cG9zdC5kYXRlfVxuICAgICAgICAgICAgICAgIG9uUHJlc3NlZD17KCkgPT4gcm91dGVyLnB1c2goYC9wLyR7cG9zdC51cmxUaXRsZX1gKX1cbiAgICAgICAgICAgICAgLz4pXG4gICAgICAgICAgICB9XG4gICAgICAgICAgfVxuICAgICAgICAgICl9XG4gICAgICAgIDwvZGl2PlxuICAgICAgPC9kaXY+XG5cbiAgICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgICAgLmJvZHktY29udGFpbmVyIHtcbiAgICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICAgIGZsZXgtZGlyZWN0aW9uOiByb3c7XG4gICAgICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gICAgICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgICAgICAgICB3aWR0aDogMTAwJTtcbiAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjZjdmOGZiO1xuICAgICAgICB9XG4gICAgICAgIC5ibG9nLXBvc3QtY29udGFpbmVyIHtcbiAgICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICAgIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG4gICAgICAgICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1hcm91bmQ7XG4gICAgICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgICAgICAgICB3aWR0aDogMTAwJTtcbiAgICAgICAgICBtYXgtd2lkdGg6IDc2OHB4O1xuICAgICAgICAgIHBhZGRpbmctdG9wOiAyMHB4O1xuICAgICAgICB9XG4gICAgICAgIGEge1xuICAgICAgICAgIGNvbG9yOiBpbmhlcml0O1xuICAgICAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTtcbiAgICAgICAgfVxuICAgICAgICAuaW5wdXQtY29udGFpbmVyIHtcbiAgICAgICAgICB3aWR0aDogODAlO1xuICAgICAgICAgIGhlaWdodDogMTAwcHg7XG4gICAgICAgIH1cbiAgICAgICAgaW5wdXQge1xuICAgICAgICAgIHdpZHRoOiA5OCU7XG4gICAgICAgICAgaGVpZ2h0OiA0MHB4O1xuICAgICAgICAgIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgICAgICAgICBmb250LXNpemU6IDIwcHg7XG4gICAgICAgICAgcGFkZGluZy1sZWZ0OiAxMHB4O1xuICAgICAgICAgIGJvcmRlcjogMXB4IHNvbGlkICNjZGM3Yzc7XG4gICAgICAgICAgbWF4LXdpZHRoOiA3NjhweDtcbiAgICAgICAgfVxuICAgICAgICBsYWJlbCB7XG4gICAgICAgICAgZm9udC1mYW1pbHk6ICR7cGFyYWdyYXBoLmZvbnRGYW1pbHl9O1xuICAgICAgICAgIGZvbnQtd2VpZ2h0OiAke3BhcmFncmFwaC5mb250V2VpZ2h0fTtcbiAgICAgICAgICBmb250LXNpemU6ICR7cGFyYWdyYXBoLmZvbnRTaXplfTtcbiAgICAgICAgfVxuICAgICAgICBoMSB7XG4gICAgICAgICAgZm9udC1mYW1pbHk6ICR7aDEuZm9udEZhbWlseX07XG4gICAgICAgICAgZm9udC13ZWlnaHQ6ICR7aDEuZm9udFdlaWdodH07XG4gICAgICAgICAgZm9udC1zaXplOiAke2gxLmZvbnRTaXplfTtcbiAgICAgICAgfVxuICAgICAgYH08L3N0eWxlPlxuICAgIDwvZGl2PlxuICApO1xufTtcblxuZXhwb3J0IGRlZmF1bHQgQmxvZ1Bvc3RPdmVydmlldztcbiJdfQ== */\n/*@ sourceURL=/Users/yannicduckwitz/projects/firemind-academy/pages/index.tsx */")));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (BlogPostOverview);
 
 /***/ }),
 
-/***/ 1:
-/*!***********************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fyannic%2Fproject%2Ffiremind-academy%2Fpages%2Findex.tsx ***!
-  \***********************************************************************************************************************************/
+/***/ 2:
+/*!********************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fyannicduckwitz%2Fprojects%2Ffiremind-academy%2Fpages%2Findex.tsx ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fyannic%2Fproject%2Ffiremind-academy%2Fpages%2Findex.tsx! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fyannic%2Fproject%2Ffiremind-academy%2Fpages%2Findex.tsx!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fyannicduckwitz%2Fprojects%2Ffiremind-academy%2Fpages%2Findex.tsx! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fyannicduckwitz%2Fprojects%2Ffiremind-academy%2Fpages%2Findex.tsx!./");
 
 
 /***/ }),
 
-/***/ "dll-reference dll_ef0ff7c60362f24a921f":
+/***/ "dll-reference dll_0fb095e325d7ebf261c3":
 /*!*******************************************!*\
-  !*** external "dll_ef0ff7c60362f24a921f" ***!
+  !*** external "dll_0fb095e325d7ebf261c3" ***!
   \*******************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = dll_ef0ff7c60362f24a921f;
+module.exports = dll_0fb095e325d7ebf261c3;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
+},[[2,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
