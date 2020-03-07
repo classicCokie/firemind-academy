@@ -7,7 +7,7 @@ export interface IGistProps {
 const Gist = ({ url }: IGistProps) => (
   <>
     <div className="gist-container">
-      <GistBox id={url} />
+      <GistBox title="gist" id={url} />
     </div>
     <style jsx>{`
       .gist-container {

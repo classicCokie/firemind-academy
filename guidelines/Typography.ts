@@ -1,7 +1,7 @@
 export const navbarTitle = {
-  fontFamily: "'Lato', sans-serif",
-  fontWeight: "900",
-  fontSize: "30px"
+  fontFamily: "'Roboto', sans-serif",
+  fontWeight: "300",
+  fontSize: "25px"
 };
 
 export const paragraph = {
@@ -34,4 +34,16 @@ export const h3 = {
   fontFamily: "'Lato', sans-serif",
   fontWeight: "900",
   fontSize: "20px"
+};
+
+export const smallBold = {
+  fontFamily: "'Lato', sans-serif",
+  fontWeight: "900",
+  fontSize: "20px"
+};
+
+export const small = {
+  fontFamily: "'Lato', sans-serif",
+  fontWeight: "200",
+  fontSize: "10px"
 };

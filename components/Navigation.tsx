@@ -1,22 +1,25 @@
 import { lightFont, secondary } from "../guidelines/Colors";
 import { navbarTitle } from "../guidelines/Typography";
-import Link from 'next/link'
+import Link from "next/link";
 
 const Navigation = () => (
   <>
     <nav className="navbar">
       <div className="navbar-logo-container">
         <Link href="/">
-          <img src="https://firemindacademy.z19.web.core.windows.net/img/logo_big.png" alt="logo" height="50px" width="40px" />
+          <img
+            src="https://firemindacademy.z19.web.core.windows.net/img/logo_big.png"
+            alt="logo"
+            height="50px"
+            width="40px"
+          />
         </Link>
-
       </div>
       <div className="navbar-title-container">
         <Link href="/">
           <a>Firemind Academy</a>
         </Link>
       </div>
-
     </nav>
     <style jsx>{`
       .navbar {
