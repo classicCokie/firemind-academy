@@ -138,7 +138,8 @@ export async function getStaticPaths() {
     return { params: post };
   });
   return {
-    paths
+    paths,
+    fallback: false
   };
 }
 
