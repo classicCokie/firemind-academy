@@ -7,7 +7,6 @@ import { h1, smallBold, small } from "../../guidelines/Typography";
 
 const Page = props => {
   const pageElements = createPage(props);
-
   return (
     <>
       <Head>
@@ -128,6 +127,7 @@ const Page = props => {
 
 export async function unstable_getStaticProps({ params }) {
   const props = blogPosts.find(post => post.urlTitle === params.urlTitle);
+
   return {
     props
   };
@@ -141,5 +141,6 @@ export async function unstable_getStaticPaths() {
     paths
   };
 }
+
 
 export default Page;

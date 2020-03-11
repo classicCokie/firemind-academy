@@ -18,6 +18,7 @@ import RagdollDeath from "./ragdoll-death-enemy-in-unity";
 import ShootProjectiles from "./shoot-projectiles-in-unity";
 import WeaponSwitch from "./simple-weapon-switching-in-unity";
 import TPDoubleJump from "./third-person-double-jump-in-unity";
+import SSGNextJS from "./static-site-generation-with-next-js";
 
 
 
@@ -42,5 +43,6 @@ export default [
     RagdollDeath,
     ShootProjectiles,
     WeaponSwitch,
-    TPDoubleJump
+    TPDoubleJump,
+    SSGNextJS
 ]

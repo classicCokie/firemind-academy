@@ -9,10 +9,7 @@ import Head from "next/head";
 
 const BlogPostOverview = () => {
   const router = useRouter();
-
   const [filterValue, setFilterValue] = useState("");
-
-
   return (
     <div>
       <Head>
@@ -20,7 +17,7 @@ const BlogPostOverview = () => {
         <style>{`body {margin: 0 !important;}`}</style>
         // @ts-ignore
         <meta charset="UTF-8" />
-        <meta name="description" content="Tech Tutorials made eazy. Trying to understand Tech stuff? This is your place to go."></meta>
+        <meta name="description" content="Web Development | Game Development | Embedded Development - Firemind Academy is your resource for easy to understand tech tutorials"></meta>
         <meta name="keywords" content="Firemind Tech Tutorials Easy"></meta>
       </Head>
       <Navigation />
