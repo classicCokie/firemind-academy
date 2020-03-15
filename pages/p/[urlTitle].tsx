@@ -7,14 +7,13 @@ import { h1, smallBold, small } from "../../guidelines/Typography";
 
 const Page = props => {
   const pageElements = createPage(props);
-
   return (
     <>
       <Head>
         <title> {props.urlTitle}</title>
         <style>{`body {margin: 0 !important;}`}</style>
         // @ts-ignore
-        <meta charset="UTF-8" />
+        <meta charSet="UTF-8" />
         <meta name="description" content={props.metaDescription}></meta>
         <meta name="keywords" content={props.metaKeywords}></meta>
       </Head>
@@ -28,10 +27,12 @@ const Page = props => {
         <div className="post-container ">
           <div className="post-avatar">
             <div className="post-avatar-image">
-              <img
-                alt="avatar-logo"
-                src="https://avatars3.githubusercontent.com/u/10669108?s=88&v=4"
-              ></img>
+              <a href="https://github.com/classicCokie">
+                <img
+                  alt="avatar-logo"
+                  src="https://avatars3.githubusercontent.com/u/10669108?s=88&v=4"
+                ></img>
+              </a>
             </div>
             <div className="post-avatar-info">
               <span className="post-avatar-name">Firemind</span>
@@ -142,5 +143,6 @@ export async function getStaticPaths() {
     fallback: false
   };
 }
+
 
 export default Page;

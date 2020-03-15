@@ -11,6 +11,7 @@ class MyDocument extends Document {
             <Html lang="en">
                 <Head>
 
+
                     <script
                         async
                         dangerouslySetInnerHTML={{
