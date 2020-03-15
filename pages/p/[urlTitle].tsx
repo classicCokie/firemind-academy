@@ -127,19 +127,20 @@ const Page = props => {
   );
 };
 
-export async function unstable_getStaticProps({ params }) {
+export async function getStaticProps({ params }) {
   const props = blogPosts.find(post => post.urlTitle === params.urlTitle);
   return {
     props
   };
 }
 
-export async function unstable_getStaticPaths() {
+export async function getStaticPaths() {
   const paths = blogPosts.map(post => {
     return { params: post };
   });
   return {
-    paths
+    paths,
+    fallback: false
   };
 }
 
