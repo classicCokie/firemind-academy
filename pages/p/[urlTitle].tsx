@@ -13,7 +13,7 @@ const Page = props => {
         <title> {props.urlTitle}</title>
         <style>{`body {margin: 0 !important;}`}</style>
         // @ts-ignore
-        <meta charset="UTF-8" />
+        <meta charSet="UTF-8" />
         <meta name="description" content={props.metaDescription}></meta>
         <meta name="keywords" content={props.metaKeywords}></meta>
       </Head>
@@ -125,15 +125,16 @@ const Page = props => {
   );
 };
 
-export async function unstable_getStaticProps({ params }) {
+export async function getStaticProps({ params }) {
   const props = blogPosts.find(post => post.urlTitle === params.urlTitle);
-
+  console.log(props);
   return {
     props
   };
 }
 
-export async function unstable_getStaticPaths() {
+export async function getStaticPaths() {
+  console.log("hallo???")
   const paths = blogPosts.map(post => {
     return { params: post };
   });

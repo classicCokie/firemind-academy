@@ -1,13 +1,12 @@
 import { primary, lightFont, primaryHighlighted } from "../guidelines/Colors";
 import { navbarTitle } from "../guidelines/Typography";
-import Highlight from 'react-highlight'
 
 export interface ICodeProps {
     code: string;
     language: string;
 }
 
-const Code = ({ code, language }: ICodeProps) => (
+const Code = ({ code }: ICodeProps) => (
     <>
         <div className="code-container">
             <pre>
