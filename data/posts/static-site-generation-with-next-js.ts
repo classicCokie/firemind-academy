@@ -15,8 +15,8 @@ export default {
                 and if you want a Static Site Generation (SSG), you go for Gatsby. 
                 However, the guys at Zeit, who develop next.js, have since stepped up 
                 their game and are also trying to enable SSG with next.js. 
-                In this little tutorial, I will show you how you can use the new pure 
-                SSG feature of Next.js, to generate Static Sites with dynamic data.`
+                In this little tutorial, I will show you, how you can use the new pure 
+                SSG feature of Next.js, to generate static sites with dynamic data.`
             }
         },
         {
@@ -45,8 +45,7 @@ export default {
         {
             "type": "paragraph",
             "data": {
-                "text": `This function ceates a map of the paths that you will create. 
-                It basically returns an array with the file names that you will create.`
+                "text": `This function creates a map of the paths that you will create. `
             }
         },
         {
@@ -67,7 +66,7 @@ export default {
         {
             "type": "subTitle",
             "data": {
-                "title": "Implementing"
+                "title": "Implementing static site generation"
             }
         },
         {
@@ -123,7 +122,7 @@ export default {
             "data": {
                 "text": `Inside the p folder, create a file with the brackets notation. 
                 I’ll call it [urlTitle].jsx. Inside this file I will create a basic page component.
-                To keep this super simple I will simply create a plain react component with a dynamic headline. 
+                To keep this super simple I will create a plain react component with a dynamic headline. 
                 You can of course fill this with any dynamic data you like.`
             }
         },
@@ -182,8 +181,8 @@ export default {
             "data": {
                 "text": `You can of course also load this data dynamically from somewhere else, but we are gonna
                 keep things simple here. With this,  you want to make sure, one of the keys of your json 
-                Object has the same name as you gave the file earlier. So in my case, this is URL title. This 
-                will also be the name of the generated file. So you probably want to make sure, that it SEO 
+                Object has the same name as you gave the file earlier. So in my case, this is "urlTitle". The value of this key 
+                will also be the name of the generated file. So you probably want to make sure, that it is SEO 
                 friendly. For this example, I’ll just give it a kind of random name.`
             }
         },
@@ -204,8 +203,8 @@ export default {
             "data": {
                 "text": `Essentially what we are doing here, is mapping over the Array we just created, 
                 and bringing it into the format that next.js expects.This means, wrapping our object inside 
-                another object, and reference it with the key “params”.If you want to, you could bring your 
-                data, in this format right from the start, however since this is next specific and not 
+                another object, and reference it with the key “params”. If you want to, you could bring your 
+                data in this format right from the start, however since this is next specific and not 
                 specific to my data I rather do it in here.`
             }
         },
@@ -215,7 +214,7 @@ export default {
                 "text": `Next up we want to add some Code to the unstable_getStaticProps function. 
                 This function passes in the data we just created for our page component. It’s important
                 to understand, that so far, the params prop that gets passed into this function, does only 
-                contain the URL title prop, your while your title key gets ignored.This means you should now 
+                contain the "urlTitle" prop, while your title key gets ignored.This means you should now 
                 try to get the corresponding data from your array, by finding it via the unique URL title. 
                 We can to it like so: `
             }
@@ -229,8 +228,8 @@ export default {
         {
             "type": "paragraph",
             "data": {
-                "text": `Aaaand that’s it! Well almost.We still need to add one small command to out package.json
-                to trigger the export.Go to your package.json and insert this line:`
+                "text": `Aaaand that’s it! Well almost.We still need to add one small command to our package.json
+                to trigger the export. Go to your package.json and insert this line:`
             }
         },
         {
@@ -271,8 +270,8 @@ export default {
             "type": "paragraph",
             "data": {
                 "text": `And voila! You have yourself some static generated files. 
-                You can find those files inside the out folder, that next.js generated for you. 
-                Lets user serves to see our generated sites.Install serve: `
+                You can find those files inside the "out" folder, that next.js generated for you. 
+                Lets have a look at the pages we just created. For that you can install serve: `
             }
         },
         {
@@ -298,10 +297,21 @@ export default {
         {
             "type": "paragraph",
             "data": {
-                "text": `After that, you can find your site on localhost: 300 / p / this - is - my - first - page
-
-Congrats, for making it till here.Hope this helped you!
+                "text": `After that, you can find your site on :
     `
+            }
+        },
+        {
+            "type": "code",
+            "data": {
+                "code": `http://localhost:3000/p/this-is-my-first-page`,
+                "langugage": "language-javascript"
+            }
+        },
+        {
+            "type": "paragraph",
+            "data": {
+                "text": `Congrats, for making it till here.Hope this helped you!`
             }
         },
         {

@@ -27,10 +27,12 @@ const Page = props => {
         <div className="post-container ">
           <div className="post-avatar">
             <div className="post-avatar-image">
-              <img
-                alt="avatar-logo"
-                src="https://avatars3.githubusercontent.com/u/10669108?s=88&v=4"
-              ></img>
+              <a href="https://github.com/classicCokie">
+                <img
+                  alt="avatar-logo"
+                  src="https://avatars3.githubusercontent.com/u/10669108?s=88&v=4"
+                ></img>
+              </a>
             </div>
             <div className="post-avatar-info">
               <span className="post-avatar-name">Firemind</span>
@@ -125,16 +127,14 @@ const Page = props => {
   );
 };
 
-export async function getStaticProps({ params }) {
+export async function unstable_getStaticProps({ params }) {
   const props = blogPosts.find(post => post.urlTitle === params.urlTitle);
-  console.log(props);
   return {
     props
   };
 }
 
-export async function getStaticPaths() {
-  console.log("hallo???")
+export async function unstable_getStaticPaths() {
   const paths = blogPosts.map(post => {
     return { params: post };
   });

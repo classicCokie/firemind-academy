@@ -12,8 +12,8 @@ const componentMap = {
   subTitle: (data, index) => <SubTitle title={data.title} key={index} />,
   gist: (data, index) => <Gist url={data.url} key={index} />,
   youtubeVideo: (data, index) => <YoutubeVideo videoId={data.videoId} key={index} />,
-  code: (data, index) => <Code code={data.code} language={data.language} />,
-  image: (data, index) => <Image url={data.url} alt={data.alt} />
+  code: (data, index) => <Code code={data.code} language={data.language} key={index} />,
+  image: (data, index) => <Image url={data.url} alt={data.alt} key={index} />
 };
 
 export default componentMap;
